@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analysis Result - FraudShield AI</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="bg-animation"></div>
+
+    <nav>
+        <a href="index.html" class="logo">
+            <i class="fa-solid fa-shield-halved"></i> FraudShield AI
+        </a>
+        <div class="nav-links">
+            <a href="dashboard.html">Dashboard</a>
+            <a href="input.html">New Check</a>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="glass-panel result-container" id="resultCard">
+            <h2 style="color: var(--text-muted); text-transform: uppercase; letter-spacing: 2px; font-size: 1rem;">Transaction Status</h2>
+            
+            <div id="verdict" class="verdict">...</div>
+            
+            <div style="margin: 2rem 0;">
+                <p style="color: var(--text-muted); margin-bottom: 0.5rem;">AI Risk Score</p>
+                <div style="font-size: 4rem; font-weight: 800; font-family: 'Space Grotesk', sans-serif;" id="riskScore">0%</div>
+                
+                <div style="margin-top: 1rem;">
+                    <span id="riskBadge" class="badge">...</span>
+                </div>
+            </div>
+
+            <div style="display: flex; justify-content: center; gap: 1rem; margin-top: 3rem;">
+                <a href="input.html" class="btn-glow">Check Another</a>
+                <a href="dashboard.html" class="btn-gradient">View Dashboard</a>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+    <script>
+        // Load data on page load
+        document.addEventListener('DOMContentLoaded', () => {
+            const resultData = localStorage.getItem('fraudResult');
+            if (!resultData) {
+                window.location.href = 'input.html';
+                return;
+            }
+
+            const data = JSON.parse(resultData);
+            
+            const verdictEl = document.getElementById('verdict');
+            verdictEl.textContent = data.prediction.toUpperCase();
+            
+            if (data.prediction === 'Fraud') {
+                verdictEl.className = 'verdict fraud';
+                document.getElementById('resultCard').style.boxShadow = '0 0 30px rgba(255, 51, 102, 0.2)';
+                document.getElementById('resultCard').style.border = '1px solid rgba(255, 51, 102, 0.4)';
+            } else {
+                verdictEl.className = 'verdict normal';
+                document.getElementById('resultCard').style.boxShadow = '0 0 30px rgba(0, 255, 157, 0.2)';
+                document.getElementById('resultCard').style.border = '1px solid rgba(0, 255, 157, 0.4)';
+            }
+
+            // Animate risk score
+            let score = 0;
+            const targetScore = parseFloat(data.risk_score);
+            const scoreEl = document.getElementById('riskScore');
+            
+            const interval = setInterval(() => {
+                score += targetScore / 30;
+                if (score >= targetScore) {
+                    score = targetScore;
+                    clearInterval(interval);
+                }
+                scoreEl.textContent = `${score.toFixed(1)}%`;
+            }, 30);
+
+            const badgeEl = document.getElementById('riskBadge');
+            badgeEl.textContent = `${data.risk_level} RISK`;
+            if (data.risk_level === 'HIGH') badgeEl.className = 'badge badge-high';
+            else if (data.risk_level === 'MEDIUM') badgeEl.className = 'badge badge-medium';
+            else badgeEl.className = 'badge badge-low';
+        });
+    </script>
+</body>
+</html>

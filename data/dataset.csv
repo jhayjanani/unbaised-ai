@@ -1,0 +1,5001 @@
+amount,location,device,time,is_fraud
+22.35,Mumbai,Tablet,11,0
+8.49,New York,Tablet,1,0
+12.94,Dubai,Unknown,1,0
+56.09,New York,Desktop,6,1
+18.25,Mumbai,Tablet,23,0
+218.79,London,Desktop,20,0
+32.5,Dubai,Mobile,19,0
+82.59,New York,Mobile,19,0
+23.81,Toronto,Mobile,12,0
+5.52,Toronto,Tablet,18,0
+69.18,New York,Unknown,3,0
+65.44,Sydney,Mobile,9,0
+4.53,Dubai,Tablet,3,0
+71.08,Tokyo,Unknown,6,0
+15.82,Dubai,Unknown,10,0
+25.53,Tokyo,Desktop,20,0
+17.62,New York,Tablet,12,0
+101.07,Sydney,Tablet,20,0
+68.92,Toronto,Mobile,16,0
+9.27,New York,Unknown,22,0
+1684.48,Tokyo,Mobile,9,1
+59.6,Mumbai,Tablet,20,0
+163.92,London,Mobile,18,1
+511.17,Mumbai,Tablet,4,1
+17.5,Tokyo,Desktop,10,0
+43.0,Sydney,Tablet,11,0
+18.57,Mumbai,Unknown,23,0
+29.87,Tokyo,Desktop,9,0
+18.69,Sydney,Desktop,2,0
+8.09,New York,Mobile,18,0
+411.22,Mumbai,Desktop,13,0
+20.53,Tokyo,Desktop,19,0
+102.33,Paris,Unknown,9,0
+16.85,Sydney,Desktop,21,0
+63.28,Dubai,Tablet,8,0
+107.01,London,Desktop,23,1
+43.72,Sydney,Mobile,1,0
+47.76,London,Mobile,1,0
+8.98,Toronto,Unknown,11,0
+56.08,Sydney,Mobile,11,0
+29.23,Toronto,Unknown,12,0
+65.6,Toronto,Mobile,14,0
+40.63,Mumbai,Mobile,7,0
+18.85,New York,Mobile,13,0
+54.19,Mumbai,Desktop,6,0
+36.27,Mumbai,Desktop,20,0
+41.79,New York,Unknown,7,0
+52.02,Sydney,Tablet,11,0
+12.57,London,Tablet,14,0
+100.66,Mumbai,Tablet,21,0
+560.71,London,Unknown,18,1
+4.85,Paris,Mobile,8,0
+642.38,Sydney,Tablet,21,1
+6.8,Sydney,Desktop,3,0
+50.96,Sydney,Mobile,0,0
+25.45,Dubai,Desktop,16,0
+7.47,New York,Tablet,23,0
+49.52,Sydney,Tablet,9,0
+20.54,London,Mobile,3,0
+146.29,London,Unknown,8,0
+12.63,Sydney,Desktop,20,0
+17.77,Toronto,Tablet,0,0
+10.95,Tokyo,Mobile,13,0
+15.72,Dubai,Unknown,0,0
+13.69,London,Mobile,14,0
+52.48,Tokyo,Tablet,0,0
+70.84,Paris,Desktop,14,0
+11.39,London,Unknown,20,0
+194.51,Dubai,Mobile,3,0
+797.14,Toronto,Tablet,6,1
+16.24,Mumbai,Tablet,8,0
+115.31,Paris,Unknown,19,0
+62.32,Mumbai,Tablet,15,0
+55.36,London,Desktop,3,0
+10.81,Paris,Tablet,17,0
+9.25,Tokyo,Unknown,18,0
+23.76,Dubai,Unknown,1,0
+13.17,Dubai,Mobile,16,0
+34.9,Toronto,Mobile,8,0
+45.76,Sydney,Desktop,22,0
+288.01,New York,Unknown,21,1
+23.64,New York,Desktop,6,0
+22.93,Sydney,Desktop,5,0
+16.8,Dubai,Tablet,18,0
+14.41,Dubai,Unknown,6,0
+39.59,Toronto,Tablet,18,0
+11.55,Mumbai,Unknown,14,0
+208.91,Paris,Tablet,15,0
+86.51,Tokyo,Mobile,0,0
+68.31,Sydney,Tablet,2,0
+66.65,Sydney,Mobile,0,0
+57.75,New York,Mobile,1,0
+16.58,New York,Desktop,3,0
+32.86,Tokyo,Mobile,19,0
+53.69,London,Unknown,13,1
+34.57,Tokyo,Mobile,0,0
+13.02,London,Unknown,9,0
+368.84,Toronto,Unknown,1,1
+20.24,Paris,Tablet,10,0
+807.5,New York,Tablet,9,0
+21.65,Toronto,Desktop,6,0
+47.91,New York,Desktop,13,0
+81.0,Paris,Mobile,16,0
+553.76,Tokyo,Mobile,1,1
+8.35,Toronto,Desktop,2,0
+55.2,New York,Desktop,4,0
+13.71,Toronto,Desktop,12,0
+183.55,Toronto,Tablet,18,1
+44.05,Toronto,Unknown,8,0
+42.95,Mumbai,Tablet,12,0
+168.6,New York,Mobile,8,0
+345.72,Dubai,Desktop,15,0
+4.13,Dubai,Mobile,12,0
+59.32,Paris,Mobile,16,0
+53.62,London,Unknown,22,0
+133.61,Dubai,Unknown,8,0
+64.31,Paris,Tablet,23,0
+50.61,Tokyo,Mobile,8,0
+244.61,Dubai,Tablet,10,0
+150.97,Sydney,Desktop,2,0
+92.47,Toronto,Tablet,21,0
+82.11,Tokyo,Desktop,18,0
+137.16,Mumbai,Unknown,5,0
+85.38,London,Mobile,8,0
+55.8,Paris,Mobile,4,0
+78.82,Paris,Mobile,6,0
+62.37,Tokyo,Unknown,10,0
+133.06,Sydney,Desktop,16,0
+16.06,Sydney,Unknown,9,0
+5.25,Dubai,Tablet,7,0
+15.5,Paris,Mobile,22,0
+34.51,Toronto,Unknown,15,0
+3.07,New York,Mobile,11,0
+35.52,Paris,Mobile,0,0
+1178.83,Tokyo,Unknown,2,1
+200.11,Toronto,Desktop,23,0
+13.54,Paris,Tablet,3,0
+111.37,Paris,Tablet,2,0
+66.59,Dubai,Desktop,15,0
+33.86,London,Unknown,2,0
+37.68,Dubai,Desktop,21,0
+24.92,Toronto,Desktop,12,0
+62.0,Mumbai,Unknown,23,0
+256.17,Tokyo,Tablet,6,0
+28.61,New York,Tablet,12,0
+53.21,Paris,Unknown,2,0
+28.08,Dubai,Mobile,16,0
+16.99,London,Mobile,23,0
+12.68,Paris,Desktop,1,0
+10.08,London,Unknown,22,0
+5.29,London,Desktop,19,0
+16.86,London,Tablet,3,0
+2.01,New York,Mobile,23,0
+6.92,Sydney,Unknown,13,0
+163.88,Toronto,Desktop,2,0
+93.13,Tokyo,Unknown,20,0
+52.26,Paris,Tablet,0,0
+8.66,Paris,Tablet,17,0
+6.65,New York,Desktop,9,0
+39.67,Dubai,Mobile,8,0
+17.34,New York,Desktop,9,0
+165.83,Sydney,Unknown,16,0
+227.81,Tokyo,Desktop,2,0
+48.85,Tokyo,Unknown,19,0
+78.22,Dubai,Mobile,8,0
+45.33,Toronto,Tablet,8,0
+87.42,Paris,Desktop,20,0
+8.44,London,Desktop,5,0
+44.05,Toronto,Desktop,9,0
+10.03,Tokyo,Mobile,6,0
+6.53,Sydney,Desktop,4,0
+32.26,Dubai,Unknown,6,0
+32.52,Sydney,Desktop,19,0
+84.98,New York,Unknown,13,0
+18.46,London,Tablet,17,0
+142.5,Toronto,Mobile,13,0
+49.61,Mumbai,Desktop,18,0
+92.29,Paris,Desktop,16,0
+38.04,Dubai,Tablet,18,0
+46.64,Toronto,Tablet,20,0
+34.71,Mumbai,Unknown,5,0
+136.21,Dubai,Tablet,21,0
+102.21,Tokyo,Unknown,15,1
+56.45,Dubai,Desktop,20,1
+58.35,Sydney,Unknown,3,0
+94.06,Mumbai,Mobile,16,0
+59.48,New York,Tablet,16,0
+58.16,New York,Desktop,18,1
+7.53,Sydney,Tablet,14,0
+58.44,Dubai,Unknown,20,0
+4.61,London,Mobile,14,0
+188.95,Sydney,Tablet,4,1
+22.6,Toronto,Tablet,18,0
+1388.16,Mumbai,Mobile,2,1
+4.79,Mumbai,Mobile,16,0
+32.39,Sydney,Tablet,15,0
+25.96,Dubai,Unknown,0,0
+56.46,Mumbai,Unknown,13,0
+36.88,Tokyo,Mobile,12,0
+46.12,London,Tablet,8,0
+108.34,Tokyo,Mobile,19,0
+26.97,Paris,Desktop,19,0
+98.92,New York,Desktop,15,0
+27.41,Sydney,Tablet,11,0
+37.17,Toronto,Desktop,0,0
+72.62,Tokyo,Unknown,16,0
+136.71,Dubai,Tablet,7,0
+41.0,Tokyo,Mobile,20,0
+29.95,Tokyo,Mobile,12,0
+100.07,Dubai,Desktop,14,0
+2.31,London,Mobile,21,0
+1003.18,London,Mobile,4,1
+9.46,New York,Mobile,19,0
+65.26,Paris,Mobile,13,0
+73.53,Dubai,Tablet,10,0
+16.27,Sydney,Unknown,19,0
+29.79,Sydney,Tablet,19,0
+50.9,London,Mobile,19,0
+8.31,Sydney,Desktop,16,0
+79.59,Tokyo,Tablet,5,0
+1959.95,Toronto,Mobile,3,1
+3.43,Paris,Mobile,10,0
+15.17,Sydney,Mobile,4,0
+7.4,Toronto,Desktop,23,0
+208.09,Tokyo,Tablet,20,0
+18.74,Tokyo,Mobile,14,0
+21.93,Paris,Unknown,6,0
+27.36,Mumbai,Unknown,22,0
+947.1,Toronto,Unknown,8,1
+93.18,Sydney,Mobile,16,0
+102.56,Mumbai,Unknown,20,0
+22.82,Toronto,Tablet,9,0
+67.82,New York,Unknown,0,0
+6.02,Paris,Tablet,1,0
+47.45,Paris,Tablet,16,0
+19.12,Mumbai,Desktop,14,0
+26.96,Toronto,Tablet,14,0
+18.63,Sydney,Mobile,2,0
+123.02,Tokyo,Unknown,23,0
+2.83,Paris,Desktop,18,0
+51.17,Dubai,Mobile,19,1
+24.26,Tokyo,Unknown,19,0
+53.32,Toronto,Tablet,20,0
+48.33,Mumbai,Mobile,1,0
+124.42,Mumbai,Desktop,21,0
+297.28,Dubai,Unknown,22,0
+23.07,Mumbai,Unknown,12,0
+39.36,Dubai,Tablet,0,0
+48.09,Sydney,Tablet,12,0
+203.39,New York,Unknown,23,0
+16.35,Sydney,Desktop,8,0
+51.16,Toronto,Mobile,6,0
+52.32,Tokyo,Unknown,12,0
+15.64,Tokyo,Unknown,0,0
+52.63,Paris,Desktop,20,0
+7.04,New York,Mobile,8,0
+27.64,Tokyo,Tablet,12,0
+16.76,Sydney,Mobile,9,0
+62.6,Sydney,Unknown,17,0
+17.67,London,Tablet,13,0
+42.86,Mumbai,Unknown,17,0
+14.24,Mumbai,Mobile,16,0
+99.77,Sydney,Desktop,7,0
+83.52,Mumbai,Desktop,2,0
+109.68,London,Mobile,4,0
+113.26,Sydney,Tablet,14,0
+42.98,Toronto,Tablet,3,0
+31.2,Dubai,Tablet,23,0
+2294.43,London,Unknown,14,1
+121.12,Dubai,Tablet,3,1
+2.73,London,Mobile,15,0
+22.29,Tokyo,Tablet,17,0
+31.81,Dubai,Tablet,4,0
+41.9,London,Tablet,9,0
+23.74,Mumbai,Unknown,10,0
+130.81,London,Desktop,2,0
+18.8,Mumbai,Mobile,6,0
+17.04,Mumbai,Unknown,15,0
+15.43,Mumbai,Unknown,16,0
+52.87,London,Mobile,12,0
+201.59,Mumbai,Unknown,18,0
+95.65,Mumbai,Mobile,12,0
+172.28,Paris,Mobile,3,1
+30.77,Dubai,Desktop,17,0
+41.96,Toronto,Mobile,3,0
+68.28,Toronto,Mobile,17,0
+177.54,Sydney,Tablet,12,0
+56.66,London,Unknown,13,0
+34.41,London,Unknown,17,0
+56.28,Sydney,Desktop,8,0
+9.53,Tokyo,Mobile,2,0
+66.95,Sydney,Desktop,8,0
+12.92,Tokyo,Tablet,11,0
+89.47,London,Mobile,22,0
+27.28,New York,Tablet,19,0
+30.79,Dubai,Tablet,17,0
+30.42,Mumbai,Tablet,16,0
+134.65,Toronto,Tablet,8,0
+26.57,Paris,Desktop,14,0
+3.93,New York,Mobile,5,0
+37.04,Dubai,Tablet,16,0
+1505.77,Toronto,Unknown,5,1
+11.62,Tokyo,Mobile,19,0
+89.95,Sydney,Tablet,8,0
+19.66,Sydney,Tablet,5,0
+1230.35,Sydney,Tablet,1,1
+53.98,Dubai,Unknown,17,0
+8.26,Tokyo,Tablet,3,0
+30.04,Paris,Tablet,22,0
+71.56,Mumbai,Desktop,13,0
+46.03,Mumbai,Desktop,11,0
+17.77,Sydney,Desktop,22,0
+34.57,Paris,Tablet,8,0
+38.04,Toronto,Tablet,12,0
+22.53,Tokyo,Unknown,4,0
+10.97,Paris,Unknown,5,0
+19.88,Paris,Mobile,23,0
+396.26,New York,Desktop,3,1
+30.91,London,Desktop,0,0
+40.7,Mumbai,Unknown,19,0
+93.92,Dubai,Tablet,16,0
+43.21,New York,Tablet,9,0
+117.16,New York,Desktop,9,0
+74.95,Mumbai,Tablet,7,0
+146.68,Tokyo,Desktop,2,0
+38.34,London,Desktop,13,0
+50.44,Toronto,Unknown,18,0
+18.14,Toronto,Desktop,7,0
+14.88,New York,Tablet,21,0
+206.86,London,Tablet,7,0
+8.64,Tokyo,Tablet,0,0
+29.84,London,Tablet,5,0
+153.04,London,Mobile,5,0
+25.25,Toronto,Desktop,13,0
+24.31,New York,Unknown,19,0
+4.79,Mumbai,Mobile,3,0
+29.23,London,Unknown,13,0
+16.21,Toronto,Unknown,10,0
+9.02,New York,Unknown,19,0
+69.15,Tokyo,Desktop,12,0
+29.29,Paris,Unknown,17,0
+174.89,Dubai,Desktop,4,0
+6.04,Mumbai,Tablet,10,0
+4.54,Tokyo,Unknown,12,0
+101.55,Toronto,Mobile,3,0
+14.78,Mumbai,Mobile,19,0
+26.25,Dubai,Unknown,0,0
+11.88,New York,Tablet,12,0
+3.8,Toronto,Tablet,10,0
+34.27,Toronto,Unknown,1,0
+62.65,London,Desktop,7,1
+3.68,Mumbai,Mobile,17,0
+28.55,Dubai,Mobile,22,0
+21.74,Tokyo,Tablet,5,0
+50.67,London,Tablet,20,0
+124.44,Paris,Desktop,10,0
+9.58,Mumbai,Desktop,20,0
+22.21,Tokyo,Mobile,20,0
+14.06,New York,Desktop,21,0
+70.37,Sydney,Desktop,11,0
+80.22,Paris,Desktop,20,1
+4.92,Tokyo,Tablet,21,0
+13.67,Toronto,Desktop,6,0
+21.16,London,Unknown,11,0
+43.5,Tokyo,Unknown,11,0
+991.16,London,Unknown,8,1
+78.03,Sydney,Mobile,20,0
+1847.7,London,Unknown,21,1
+1115.42,Sydney,Unknown,19,1
+141.04,Mumbai,Desktop,21,0
+29.15,Sydney,Unknown,20,0
+89.25,Paris,Tablet,14,0
+271.14,Tokyo,Unknown,3,1
+69.57,Sydney,Desktop,16,0
+70.83,Paris,Tablet,21,0
+96.72,Tokyo,Unknown,19,0
+110.54,Toronto,Tablet,3,1
+14.78,Dubai,Desktop,5,0
+11.43,Dubai,Unknown,14,0
+55.69,Tokyo,Unknown,22,0
+10.32,Dubai,Desktop,7,0
+31.93,New York,Desktop,14,0
+28.72,London,Unknown,10,0
+29.27,Tokyo,Desktop,15,0
+49.07,Toronto,Desktop,3,0
+57.94,Dubai,Mobile,0,0
+133.33,Dubai,Unknown,11,0
+7.52,Paris,Desktop,1,0
+39.96,Sydney,Desktop,6,0
+8.58,New York,Tablet,7,0
+20.66,Mumbai,Tablet,5,0
+46.51,Toronto,Mobile,20,0
+56.91,Toronto,Mobile,17,0
+166.33,Mumbai,Desktop,4,1
+27.28,Tokyo,Desktop,1,0
+77.68,Paris,Tablet,9,0
+35.72,Dubai,Tablet,12,0
+27.15,Toronto,Mobile,20,0
+1300.53,New York,Desktop,19,1
+10.27,Paris,Desktop,18,0
+7.81,Toronto,Desktop,14,0
+292.09,New York,Mobile,2,1
+2.66,Dubai,Unknown,11,0
+21.26,Tokyo,Mobile,2,0
+13.3,London,Desktop,10,0
+57.65,Dubai,Tablet,17,0
+3.29,Paris,Mobile,23,0
+42.13,Tokyo,Tablet,18,0
+1282.63,Paris,Unknown,6,1
+1150.79,London,Unknown,19,1
+31.43,London,Tablet,15,0
+29.71,Sydney,Unknown,1,0
+567.77,Dubai,Unknown,2,1
+338.5,New York,Unknown,3,1
+61.57,Paris,Desktop,6,0
+76.42,Sydney,Mobile,11,0
+59.85,Mumbai,Unknown,18,0
+10.25,Tokyo,Unknown,6,0
+33.4,Dubai,Mobile,16,0
+183.36,Toronto,Unknown,4,1
+104.34,New York,Unknown,9,0
+76.49,New York,Unknown,16,0
+11.74,Tokyo,Tablet,1,0
+43.48,New York,Tablet,15,0
+24.19,Dubai,Tablet,13,0
+121.48,Mumbai,Mobile,18,0
+84.65,Toronto,Unknown,19,0
+59.73,Mumbai,Mobile,8,0
+16.35,Tokyo,Desktop,4,0
+38.45,Toronto,Tablet,17,0
+27.55,Sydney,Tablet,15,0
+75.13,Toronto,Unknown,21,1
+52.38,New York,Tablet,14,0
+579.56,Toronto,Mobile,13,1
+26.72,New York,Unknown,18,0
+278.31,Tokyo,Desktop,13,0
+30.46,Tokyo,Mobile,23,0
+436.32,New York,Desktop,4,1
+58.42,Tokyo,Unknown,14,1
+52.92,New York,Mobile,12,0
+4.75,Dubai,Mobile,12,0
+13.77,Toronto,Desktop,11,0
+58.97,Mumbai,Desktop,5,0
+139.99,Dubai,Mobile,11,0
+198.99,Toronto,Unknown,20,0
+53.08,New York,Mobile,0,0
+9.57,New York,Desktop,23,0
+40.69,Paris,Tablet,18,0
+15.94,Sydney,Mobile,17,0
+104.41,Paris,Unknown,4,0
+24.23,New York,Tablet,14,0
+9.56,London,Unknown,20,0
+59.49,Sydney,Mobile,2,0
+66.69,Mumbai,Unknown,22,0
+93.91,Paris,Mobile,12,0
+25.84,Tokyo,Tablet,5,0
+8.94,Mumbai,Desktop,7,0
+734.82,Tokyo,Tablet,21,1
+13.54,New York,Desktop,3,0
+16.42,Sydney,Tablet,23,0
+219.0,New York,Unknown,16,0
+17.39,Paris,Tablet,1,0
+125.31,Paris,Unknown,2,0
+19.02,New York,Desktop,21,0
+387.69,New York,Mobile,19,1
+785.96,Sydney,Mobile,22,1
+31.76,London,Unknown,14,0
+500.9,Dubai,Unknown,4,1
+19.87,Mumbai,Unknown,14,0
+1796.74,London,Unknown,10,1
+17.74,Sydney,Desktop,16,0
+16.97,New York,Unknown,1,0
+10.16,Toronto,Tablet,19,0
+6.49,Dubai,Tablet,19,0
+169.7,Tokyo,Unknown,12,0
+33.91,London,Desktop,18,0
+8.24,Dubai,Desktop,4,0
+73.84,Dubai,Mobile,23,0
+813.41,Dubai,Mobile,2,1
+52.5,New York,Unknown,17,0
+103.12,Toronto,Unknown,11,1
+12.64,Mumbai,Tablet,5,0
+42.28,Toronto,Desktop,11,0
+50.73,Toronto,Tablet,21,0
+363.17,Tokyo,Mobile,17,0
+11.68,Sydney,Desktop,6,0
+96.01,Sydney,Desktop,3,0
+10.23,Mumbai,Tablet,16,0
+7.2,Dubai,Tablet,23,0
+74.33,Tokyo,Tablet,16,0
+36.93,London,Mobile,7,0
+55.71,Mumbai,Mobile,10,0
+35.89,London,Unknown,9,0
+8.93,Tokyo,Tablet,22,0
+98.91,Dubai,Desktop,4,0
+550.88,Tokyo,Unknown,1,1
+17.04,New York,Unknown,5,0
+30.21,Dubai,Unknown,7,0
+81.61,Sydney,Unknown,15,0
+76.35,Toronto,Mobile,14,0
+14.44,Tokyo,Mobile,14,0
+10.28,Sydney,Desktop,6,0
+84.22,Tokyo,Desktop,11,0
+181.67,Toronto,Unknown,1,1
+9.15,Dubai,Tablet,22,0
+20.69,Mumbai,Desktop,19,0
+40.53,Tokyo,Desktop,17,0
+5.01,Sydney,Desktop,2,0
+381.13,New York,Mobile,15,0
+15.67,Paris,Tablet,11,0
+24.98,Toronto,Desktop,23,0
+7.14,New York,Tablet,10,0
+164.52,Mumbai,Tablet,15,0
+10.69,Sydney,Tablet,10,0
+84.45,Sydney,Desktop,8,0
+78.3,Paris,Desktop,22,0
+244.53,Toronto,Tablet,11,0
+37.83,Tokyo,Desktop,7,0
+761.84,Paris,Tablet,19,1
+10.77,Tokyo,Mobile,19,0
+19.23,Sydney,Desktop,9,0
+3.89,Toronto,Mobile,15,0
+14.55,New York,Mobile,9,0
+55.05,Tokyo,Desktop,2,0
+44.73,Toronto,Mobile,20,0
+67.25,Mumbai,Mobile,19,0
+25.12,New York,Desktop,3,0
+53.38,Tokyo,Desktop,7,0
+17.19,Toronto,Desktop,0,0
+52.2,Toronto,Tablet,5,0
+572.59,Dubai,Unknown,19,1
+91.63,London,Desktop,23,0
+11.05,Paris,Desktop,0,0
+63.66,Paris,Unknown,7,0
+130.11,Tokyo,Mobile,3,0
+12.06,Tokyo,Tablet,9,0
+8.46,Paris,Unknown,5,0
+73.3,New York,Mobile,9,0
+193.37,London,Unknown,19,1
+10.48,Dubai,Desktop,8,0
+235.99,Paris,Unknown,6,1
+589.25,London,Unknown,20,1
+28.51,New York,Tablet,23,0
+11.49,Paris,Unknown,8,0
+168.8,Dubai,Tablet,21,0
+8.48,Sydney,Tablet,2,0
+28.78,Dubai,Unknown,18,0
+63.29,Tokyo,Mobile,1,0
+28.28,New York,Desktop,18,0
+16.84,Tokyo,Unknown,3,0
+28.27,New York,Desktop,17,0
+120.97,London,Mobile,0,1
+35.3,Mumbai,Desktop,23,0
+129.28,Paris,Mobile,12,0
+13.99,Tokyo,Mobile,11,0
+6.88,London,Mobile,8,0
+32.12,London,Tablet,11,0
+35.29,New York,Tablet,10,0
+25.8,Sydney,Desktop,13,0
+27.61,Sydney,Mobile,0,0
+31.63,London,Unknown,11,0
+701.85,London,Unknown,2,1
+83.4,Paris,Desktop,14,0
+104.18,Tokyo,Unknown,4,1
+71.27,London,Tablet,0,0
+2.82,Sydney,Unknown,6,0
+29.6,Paris,Mobile,5,0
+10.21,Toronto,Mobile,20,0
+10.6,Paris,Desktop,0,0
+12.47,New York,Tablet,17,0
+14.44,Mumbai,Mobile,11,0
+170.06,Paris,Unknown,21,1
+98.77,Sydney,Mobile,3,1
+1041.07,New York,Tablet,0,1
+12.05,New York,Tablet,17,0
+552.5,Toronto,Tablet,18,1
+410.46,Toronto,Unknown,5,1
+13.48,Paris,Unknown,0,0
+41.76,Mumbai,Mobile,8,0
+97.53,Toronto,Desktop,17,0
+36.77,Paris,Mobile,21,0
+4.64,Dubai,Tablet,17,0
+19.89,Mumbai,Tablet,15,0
+29.58,Sydney,Tablet,15,0
+42.24,Mumbai,Tablet,21,0
+41.62,Tokyo,Desktop,13,0
+75.37,Toronto,Mobile,22,0
+27.45,Toronto,Unknown,22,0
+32.47,Toronto,Desktop,18,0
+53.54,Dubai,Tablet,9,0
+73.57,Tokyo,Desktop,14,0
+28.64,Mumbai,Mobile,10,0
+22.32,Paris,Tablet,2,0
+47.48,New York,Mobile,15,0
+143.95,Toronto,Unknown,22,0
+1435.99,Tokyo,Tablet,11,1
+1473.37,Paris,Desktop,7,1
+27.35,Mumbai,Unknown,5,0
+45.0,Toronto,Tablet,8,0
+216.49,Toronto,Tablet,23,0
+282.24,Mumbai,Mobile,0,0
+50.08,Tokyo,Mobile,17,0
+170.3,Sydney,Desktop,2,1
+24.24,London,Mobile,1,0
+103.53,Paris,Desktop,6,0
+53.29,Dubai,Desktop,21,0
+13.01,Sydney,Tablet,12,0
+17.19,London,Desktop,7,0
+1130.22,Paris,Tablet,2,1
+238.2,Toronto,Unknown,10,1
+34.59,Tokyo,Unknown,9,0
+46.27,Mumbai,Mobile,1,0
+19.89,Toronto,Tablet,1,0
+9.14,Dubai,Desktop,0,0
+21.77,Dubai,Desktop,21,0
+29.73,London,Mobile,11,0
+25.31,Toronto,Desktop,22,0
+72.12,Dubai,Unknown,17,0
+44.08,Sydney,Mobile,11,0
+10.82,Sydney,Tablet,10,0
+45.87,London,Mobile,3,0
+45.43,Toronto,Mobile,5,0
+54.67,Dubai,Unknown,9,0
+46.75,Sydney,Desktop,6,0
+39.41,Sydney,Unknown,2,0
+35.69,Toronto,Mobile,13,0
+17.84,Paris,Unknown,17,0
+112.71,New York,Mobile,1,0
+6.96,Tokyo,Unknown,6,0
+60.42,Sydney,Unknown,6,0
+21.84,Toronto,Unknown,21,0
+4.54,New York,Tablet,0,0
+19.41,London,Desktop,10,0
+48.68,New York,Desktop,5,0
+17.67,London,Desktop,22,0
+408.49,London,Desktop,8,0
+36.73,New York,Unknown,2,0
+20.72,Sydney,Unknown,13,0
+35.4,London,Mobile,4,0
+6.11,Sydney,Tablet,0,0
+180.78,Dubai,Desktop,16,0
+61.88,Toronto,Mobile,4,0
+149.29,Dubai,Unknown,0,0
+72.63,Dubai,Desktop,21,0
+9.94,Sydney,Tablet,19,0
+21.71,Mumbai,Desktop,4,0
+13.33,Paris,Mobile,7,0
+50.29,Sydney,Tablet,5,0
+10.07,Sydney,Mobile,23,0
+81.95,Dubai,Mobile,22,1
+13.01,Toronto,Tablet,23,0
+53.83,Paris,Tablet,1,1
+95.24,Sydney,Tablet,18,0
+23.09,London,Tablet,1,0
+74.74,London,Tablet,23,0
+85.44,Toronto,Unknown,10,0
+49.83,Sydney,Tablet,11,0
+22.17,Toronto,Desktop,20,0
+13.52,Toronto,Tablet,22,0
+10.76,New York,Desktop,17,0
+83.75,Mumbai,Mobile,0,0
+60.19,Tokyo,Tablet,16,0
+9.14,Tokyo,Tablet,7,0
+16.33,Mumbai,Tablet,1,0
+64.65,New York,Tablet,9,0
+28.12,Paris,Mobile,14,0
+517.23,Sydney,Unknown,6,1
+44.26,Sydney,Mobile,16,0
+26.55,Tokyo,Tablet,9,0
+8.35,Paris,Desktop,23,0
+280.61,Toronto,Tablet,2,0
+17.22,New York,Mobile,2,0
+190.94,New York,Mobile,3,1
+27.08,Paris,Desktop,17,0
+21.99,Mumbai,Tablet,10,0
+87.88,London,Tablet,8,0
+40.22,Mumbai,Desktop,1,0
+35.13,London,Unknown,17,0
+8.83,Dubai,Unknown,17,0
+45.65,Tokyo,Desktop,3,0
+10.51,Paris,Tablet,11,0
+48.03,Mumbai,Desktop,21,0
+32.52,Sydney,Mobile,13,0
+81.23,Mumbai,Tablet,17,0
+334.5,London,Mobile,14,0
+25.43,New York,Tablet,20,0
+53.08,Toronto,Unknown,13,1
+89.42,London,Tablet,7,1
+14.82,Sydney,Tablet,12,0
+13.01,Toronto,Tablet,15,0
+42.22,Mumbai,Unknown,6,0
+281.37,Mumbai,Desktop,5,0
+129.86,Toronto,Tablet,18,0
+76.95,Tokyo,Mobile,12,0
+55.2,Mumbai,Desktop,17,1
+24.23,Mumbai,Tablet,11,0
+35.58,Tokyo,Unknown,10,0
+1038.1,London,Mobile,3,1
+30.79,Toronto,Unknown,6,0
+17.4,Toronto,Tablet,3,0
+60.98,London,Unknown,21,1
+13.12,London,Tablet,23,0
+22.32,Toronto,Unknown,10,0
+120.39,New York,Unknown,21,0
+13.71,Mumbai,Unknown,12,0
+17.09,Paris,Mobile,20,0
+269.62,London,Tablet,7,0
+21.57,Dubai,Unknown,8,0
+73.85,London,Mobile,14,0
+139.36,Dubai,Mobile,20,0
+46.99,Paris,Desktop,7,0
+21.06,Mumbai,Unknown,23,0
+100.42,Dubai,Tablet,18,0
+10.95,London,Unknown,11,0
+134.77,Tokyo,Desktop,0,0
+3.15,Toronto,Tablet,22,0
+14.5,Sydney,Mobile,12,0
+76.56,Mumbai,Unknown,12,0
+2.26,Mumbai,Desktop,8,0
+36.93,Paris,Desktop,2,0
+106.73,Mumbai,Mobile,10,0
+277.75,Toronto,Tablet,23,1
+46.16,Dubai,Mobile,17,0
+18.8,Dubai,Tablet,8,0
+99.93,London,Desktop,7,0
+37.36,Sydney,Unknown,9,0
+30.61,Toronto,Tablet,22,0
+12.87,Mumbai,Unknown,23,0
+19.93,Dubai,Tablet,19,0
+19.34,Mumbai,Unknown,10,0
+11.13,Mumbai,Tablet,7,0
+136.23,Tokyo,Mobile,12,0
+26.7,Paris,Unknown,11,0
+21.81,New York,Desktop,1,0
+25.43,Tokyo,Mobile,3,0
+70.3,Mumbai,Tablet,11,0
+11.08,Mumbai,Desktop,0,0
+5.01,New York,Unknown,23,0
+48.93,Dubai,Unknown,15,0
+361.52,Paris,Desktop,23,1
+12.71,Toronto,Desktop,4,0
+10.25,Sydney,Desktop,9,0
+889.83,Paris,Tablet,1,1
+99.03,New York,Mobile,14,0
+63.71,Sydney,Tablet,14,0
+43.45,Tokyo,Unknown,23,0
+148.16,Dubai,Mobile,7,0
+64.67,Paris,Tablet,19,0
+25.92,New York,Desktop,9,0
+26.13,Tokyo,Desktop,17,0
+1.17,Paris,Unknown,10,0
+25.14,Toronto,Tablet,22,0
+13.44,New York,Unknown,9,0
+12.66,London,Unknown,23,0
+163.61,Dubai,Mobile,4,0
+7.81,London,Tablet,18,0
+182.86,London,Unknown,17,0
+8.28,Dubai,Mobile,16,0
+85.59,Toronto,Unknown,1,0
+26.52,London,Mobile,0,0
+26.14,Dubai,Unknown,11,0
+67.12,Mumbai,Tablet,14,0
+10.74,Dubai,Desktop,23,0
+15.85,Tokyo,Desktop,8,0
+41.45,New York,Desktop,9,0
+19.62,Mumbai,Desktop,10,0
+133.44,London,Mobile,17,0
+15.33,London,Tablet,20,0
+128.09,Sydney,Mobile,11,0
+37.33,Tokyo,Desktop,16,0
+538.99,Tokyo,Tablet,4,1
+7.47,London,Mobile,3,0
+154.5,Mumbai,Desktop,21,0
+20.74,Sydney,Tablet,19,0
+56.81,London,Unknown,12,1
+20.3,Mumbai,Tablet,11,0
+131.72,Tokyo,Desktop,2,0
+12.89,Tokyo,Unknown,20,0
+36.49,Sydney,Desktop,5,0
+10.53,Paris,Mobile,7,0
+93.26,Paris,Desktop,20,0
+13.93,Sydney,Tablet,16,0
+93.16,Tokyo,Unknown,8,0
+40.53,Mumbai,Desktop,13,0
+23.61,Paris,Unknown,20,0
+6.12,Paris,Tablet,18,0
+290.61,Paris,Mobile,8,0
+16.27,Paris,Tablet,23,0
+5.79,New York,Unknown,22,0
+16.34,Paris,Tablet,8,0
+13.96,London,Tablet,16,0
+8.25,London,Tablet,19,0
+27.44,Dubai,Unknown,3,0
+308.98,Sydney,Mobile,8,0
+6.91,Dubai,Mobile,5,0
+38.84,Paris,Mobile,5,0
+10.74,Toronto,Mobile,15,0
+61.38,London,Unknown,6,0
+87.28,Toronto,Mobile,12,0
+18.62,Dubai,Mobile,1,0
+5.5,Dubai,Tablet,10,0
+53.73,London,Mobile,12,0
+20.7,Paris,Unknown,6,0
+49.24,New York,Unknown,13,0
+6.01,Dubai,Unknown,10,0
+199.78,Mumbai,Mobile,21,0
+129.09,Toronto,Tablet,8,0
+34.16,Sydney,Tablet,17,0
+17.82,New York,Mobile,16,0
+8.87,Sydney,Desktop,17,0
+12.16,Toronto,Mobile,19,0
+6.3,Toronto,Tablet,10,0
+22.89,Paris,Tablet,8,0
+50.17,Sydney,Mobile,12,0
+93.16,New York,Unknown,14,0
+541.6,Paris,Unknown,15,1
+23.84,New York,Desktop,1,0
+20.92,New York,Desktop,2,0
+20.58,Paris,Tablet,5,0
+17.99,Paris,Mobile,6,0
+58.07,Toronto,Tablet,16,0
+166.45,New York,Desktop,7,0
+24.3,London,Unknown,5,0
+24.11,Toronto,Tablet,13,0
+23.03,New York,Mobile,10,0
+16.18,Sydney,Mobile,8,0
+33.35,Sydney,Mobile,9,0
+33.68,London,Tablet,6,0
+97.95,Tokyo,Tablet,21,0
+31.42,Mumbai,Unknown,13,0
+180.75,Toronto,Desktop,12,0
+18.47,London,Mobile,8,0
+22.41,Tokyo,Tablet,5,0
+16.67,Paris,Tablet,11,0
+65.51,Sydney,Desktop,22,0
+12.79,London,Desktop,20,0
+31.8,London,Mobile,19,0
+33.33,Tokyo,Mobile,0,0
+102.21,Mumbai,Unknown,23,1
+8.03,Mumbai,Desktop,19,0
+5.73,London,Desktop,21,0
+19.35,Dubai,Desktop,13,0
+15.12,Tokyo,Mobile,12,0
+20.14,Dubai,Tablet,18,0
+848.07,Mumbai,Mobile,6,1
+208.15,New York,Tablet,3,1
+10.43,Toronto,Unknown,6,0
+165.71,Tokyo,Desktop,2,1
+674.15,Paris,Unknown,13,1
+31.7,Mumbai,Tablet,19,0
+7.77,Sydney,Tablet,9,0
+51.69,Tokyo,Tablet,2,0
+35.9,Paris,Unknown,4,0
+248.83,London,Unknown,11,1
+477.32,Toronto,Tablet,2,1
+33.73,London,Desktop,18,0
+30.12,Mumbai,Mobile,2,0
+9.16,London,Mobile,19,0
+21.36,Paris,Mobile,15,0
+139.42,Dubai,Unknown,0,0
+414.08,London,Desktop,19,1
+57.17,Paris,Tablet,0,0
+513.49,Tokyo,Tablet,4,1
+14.22,New York,Mobile,11,0
+33.88,Toronto,Unknown,21,0
+104.32,Mumbai,Desktop,3,0
+43.93,London,Mobile,3,0
+26.82,Sydney,Unknown,7,0
+162.57,Dubai,Desktop,10,0
+27.06,Mumbai,Tablet,23,0
+27.67,Dubai,Mobile,7,0
+22.47,London,Mobile,13,0
+32.68,Sydney,Desktop,3,0
+224.53,Mumbai,Unknown,18,1
+76.81,Paris,Mobile,4,1
+44.16,Dubai,Desktop,5,0
+129.35,Dubai,Tablet,20,0
+10.54,London,Tablet,10,0
+85.82,London,Mobile,5,0
+31.61,Tokyo,Unknown,0,0
+408.29,New York,Unknown,11,1
+179.04,Tokyo,Desktop,19,0
+43.9,Toronto,Tablet,4,0
+10.56,Sydney,Tablet,20,0
+20.44,Paris,Unknown,11,0
+30.2,New York,Tablet,4,0
+29.57,London,Desktop,10,0
+24.18,London,Unknown,22,0
+173.56,Sydney,Desktop,19,0
+32.81,London,Unknown,17,0
+20.55,Toronto,Desktop,23,0
+20.96,London,Unknown,7,0
+106.88,Dubai,Tablet,10,0
+40.7,Paris,Desktop,21,0
+16.88,Dubai,Desktop,16,0
+609.6,Toronto,Tablet,0,0
+47.84,Toronto,Tablet,16,0
+26.43,Sydney,Unknown,14,0
+75.76,Paris,Unknown,7,0
+30.77,New York,Mobile,1,0
+98.65,Dubai,Desktop,8,0
+57.93,Dubai,Unknown,22,0
+21.37,Toronto,Tablet,14,0
+20.65,Toronto,Unknown,16,0
+25.69,New York,Desktop,10,0
+20.57,Toronto,Tablet,5,0
+37.44,Mumbai,Mobile,9,0
+406.22,Toronto,Mobile,8,0
+6.16,Paris,Tablet,12,0
+121.01,Tokyo,Desktop,7,0
+273.11,Sydney,Desktop,5,0
+70.69,Mumbai,Mobile,17,0
+1058.1,Dubai,Unknown,11,1
+97.8,Mumbai,Unknown,8,0
+21.55,New York,Desktop,13,0
+11.19,Toronto,Unknown,19,0
+18.03,London,Tablet,23,0
+9.54,Dubai,Mobile,7,0
+140.66,Paris,Desktop,7,0
+11.52,Tokyo,Desktop,10,0
+25.57,Toronto,Mobile,15,0
+76.9,Mumbai,Tablet,16,0
+48.45,London,Desktop,6,0
+212.29,Sydney,Unknown,15,0
+5.9,Tokyo,Tablet,8,0
+31.22,Paris,Mobile,23,0
+7.41,Paris,Tablet,23,0
+84.23,Mumbai,Desktop,22,1
+43.69,Sydney,Tablet,12,0
+20.04,New York,Unknown,5,0
+12.57,Sydney,Tablet,5,0
+59.0,Toronto,Desktop,11,0
+82.8,Tokyo,Tablet,12,1
+15.77,Dubai,Unknown,2,0
+33.55,Tokyo,Mobile,14,0
+30.93,Sydney,Tablet,19,0
+104.29,Sydney,Desktop,9,0
+110.78,London,Mobile,12,0
+429.69,Paris,Tablet,4,0
+8.43,Dubai,Desktop,19,0
+60.07,Sydney,Mobile,2,0
+68.49,Dubai,Mobile,0,0
+5.81,Mumbai,Unknown,7,0
+5.86,Toronto,Tablet,16,0
+29.75,Dubai,Tablet,8,0
+63.55,Sydney,Unknown,22,0
+51.18,Paris,Desktop,3,0
+10.05,Dubai,Tablet,21,0
+16.18,Toronto,Mobile,19,0
+36.8,Sydney,Mobile,4,0
+8.25,Paris,Unknown,12,0
+57.11,New York,Desktop,13,0
+60.05,New York,Desktop,9,0
+49.0,Tokyo,Tablet,6,0
+229.91,Mumbai,Unknown,21,0
+49.4,Dubai,Desktop,22,0
+119.3,Dubai,Desktop,8,0
+32.69,London,Tablet,8,0
+28.2,Tokyo,Tablet,5,0
+14.07,New York,Mobile,17,0
+9.71,Paris,Unknown,6,0
+56.42,Toronto,Desktop,7,0
+7.29,Dubai,Tablet,14,0
+38.5,Tokyo,Mobile,16,0
+28.63,Tokyo,Mobile,3,0
+2.62,Toronto,Tablet,1,0
+40.33,New York,Mobile,11,0
+21.68,London,Mobile,6,0
+127.8,Toronto,Mobile,5,0
+27.76,New York,Desktop,6,0
+32.63,Dubai,Desktop,0,0
+14.49,Tokyo,Mobile,8,0
+1805.3,Tokyo,Mobile,5,1
+22.25,Paris,Tablet,8,0
+52.96,Tokyo,Mobile,12,0
+10.0,Dubai,Tablet,21,0
+11.21,London,Unknown,19,0
+117.22,New York,Mobile,8,0
+49.15,Mumbai,Tablet,23,0
+63.68,Dubai,Unknown,4,0
+121.46,Sydney,Unknown,10,1
+12.34,Sydney,Desktop,15,0
+10.55,Dubai,Desktop,0,0
+34.32,Toronto,Unknown,17,0
+69.7,New York,Tablet,7,0
+31.3,Paris,Desktop,12,0
+34.94,Paris,Unknown,13,0
+20.33,Mumbai,Unknown,5,0
+30.18,Dubai,Mobile,4,0
+115.1,London,Desktop,6,0
+333.36,New York,Unknown,8,0
+20.36,Mumbai,Mobile,3,0
+40.21,Toronto,Unknown,1,0
+62.53,Sydney,Tablet,18,0
+14.77,Mumbai,Mobile,5,0
+206.35,New York,Desktop,13,0
+280.17,London,Tablet,23,0
+57.31,Toronto,Desktop,16,0
+14.77,London,Tablet,21,0
+2.12,Toronto,Mobile,3,0
+1787.87,Paris,Mobile,6,1
+15.32,London,Mobile,8,0
+413.81,Sydney,Unknown,12,1
+16.25,Sydney,Mobile,18,0
+27.41,New York,Unknown,8,0
+36.33,London,Tablet,11,0
+57.2,Sydney,Unknown,14,0
+212.85,New York,Desktop,2,0
+54.17,Toronto,Desktop,5,0
+62.0,Mumbai,Mobile,17,0
+816.47,Sydney,Unknown,23,0
+97.39,Mumbai,Desktop,12,0
+35.81,Toronto,Unknown,21,0
+27.53,Tokyo,Mobile,10,0
+376.48,Toronto,Desktop,2,1
+49.89,New York,Desktop,5,0
+108.78,Paris,Mobile,3,0
+990.67,Dubai,Unknown,0,1
+15.8,Dubai,Desktop,17,0
+99.05,Dubai,Mobile,17,0
+31.48,Mumbai,Desktop,12,0
+39.16,Tokyo,Desktop,21,0
+9.3,Sydney,Unknown,14,0
+19.52,Dubai,Unknown,21,0
+54.19,Tokyo,Tablet,16,0
+27.72,London,Mobile,20,0
+60.12,London,Mobile,23,0
+11.28,Sydney,Desktop,17,0
+47.58,Tokyo,Unknown,14,0
+91.26,Mumbai,Tablet,6,0
+15.35,New York,Mobile,19,0
+29.52,Tokyo,Mobile,15,0
+10.66,New York,Tablet,17,0
+96.65,Paris,Mobile,21,0
+112.7,Sydney,Tablet,7,0
+9.66,Dubai,Unknown,19,0
+1271.32,Sydney,Mobile,4,1
+8.84,Mumbai,Mobile,5,0
+23.88,Paris,Unknown,7,0
+14.13,Dubai,Mobile,14,0
+17.44,Mumbai,Unknown,11,0
+1421.5,Toronto,Unknown,18,1
+43.48,Tokyo,Unknown,16,0
+27.21,Tokyo,Unknown,20,0
+1335.36,Mumbai,Unknown,21,1
+4.81,Paris,Tablet,17,0
+63.46,Toronto,Tablet,5,0
+66.22,Tokyo,Tablet,2,0
+69.88,Paris,Desktop,22,0
+12.0,Toronto,Unknown,3,0
+14.87,Dubai,Mobile,11,0
+596.77,Sydney,Unknown,8,1
+495.11,Tokyo,Tablet,21,0
+31.55,Sydney,Unknown,3,0
+26.22,Paris,Tablet,12,0
+16.45,New York,Unknown,5,0
+51.26,Mumbai,Desktop,18,0
+16.88,Paris,Tablet,11,0
+4.76,Sydney,Unknown,1,0
+97.97,Sydney,Unknown,8,0
+68.87,Dubai,Desktop,15,0
+7.62,New York,Desktop,14,0
+111.64,Tokyo,Unknown,12,0
+24.62,London,Desktop,18,0
+251.46,London,Unknown,23,0
+413.89,Toronto,Unknown,20,1
+57.35,Mumbai,Mobile,16,1
+22.98,Sydney,Unknown,21,0
+30.07,Toronto,Desktop,15,0
+89.55,Sydney,Tablet,14,0
+69.67,London,Desktop,8,0
+38.84,Dubai,Desktop,22,0
+236.85,Dubai,Unknown,3,1
+167.99,Sydney,Desktop,15,0
+39.93,Dubai,Mobile,17,0
+41.59,Paris,Mobile,20,0
+9.92,Sydney,Mobile,6,0
+38.3,Tokyo,Tablet,20,0
+64.87,Tokyo,Desktop,20,0
+27.54,Paris,Unknown,10,0
+357.02,Dubai,Desktop,10,0
+13.59,Mumbai,Tablet,8,0
+34.42,Sydney,Unknown,1,0
+28.85,London,Desktop,10,0
+56.02,Toronto,Unknown,17,0
+8.14,Toronto,Mobile,15,0
+54.25,Paris,Desktop,18,0
+80.1,Toronto,Desktop,23,0
+241.73,Dubai,Mobile,23,1
+310.1,Tokyo,Unknown,19,1
+13.58,Mumbai,Mobile,7,0
+171.53,Toronto,Desktop,16,0
+15.79,Paris,Mobile,16,0
+12.7,Toronto,Desktop,21,0
+83.95,Paris,Unknown,8,0
+16.52,Tokyo,Unknown,11,0
+12.81,Sydney,Desktop,17,0
+852.69,Paris,Unknown,11,1
+34.88,Sydney,Tablet,0,0
+63.8,Dubai,Tablet,4,1
+1.93,Toronto,Mobile,12,0
+15.54,New York,Mobile,7,0
+116.66,Toronto,Tablet,20,0
+24.24,Dubai,Mobile,8,0
+36.75,Tokyo,Unknown,21,0
+21.24,New York,Tablet,10,0
+49.72,Dubai,Desktop,23,0
+12.88,Paris,Desktop,13,0
+28.12,Sydney,Mobile,6,0
+23.13,Paris,Tablet,21,0
+197.51,London,Unknown,3,1
+79.13,Sydney,Tablet,6,1
+8.73,Tokyo,Desktop,2,0
+62.46,Mumbai,Unknown,3,1
+18.29,Sydney,Unknown,2,0
+45.28,Dubai,Mobile,14,0
+100.52,Toronto,Unknown,17,0
+86.94,Dubai,Desktop,2,1
+73.74,Tokyo,Mobile,16,0
+140.21,Tokyo,Mobile,16,0
+77.38,Tokyo,Mobile,23,0
+15.67,Dubai,Mobile,4,0
+11.13,Dubai,Desktop,3,0
+68.29,Sydney,Unknown,13,0
+81.69,Toronto,Desktop,3,0
+12.2,Dubai,Mobile,18,0
+38.67,Tokyo,Desktop,18,0
+278.55,London,Unknown,22,1
+101.04,Dubai,Mobile,2,0
+24.12,Toronto,Desktop,16,0
+32.26,Sydney,Desktop,0,0
+19.14,Mumbai,Unknown,15,0
+35.3,Tokyo,Unknown,20,0
+67.04,Dubai,Tablet,10,0
+8.46,Sydney,Desktop,17,0
+288.29,Tokyo,Unknown,16,0
+69.67,Tokyo,Mobile,21,0
+51.3,Mumbai,Desktop,3,0
+317.56,Paris,Mobile,14,0
+972.42,Mumbai,Mobile,13,1
+29.21,New York,Unknown,14,0
+24.64,Toronto,Tablet,6,0
+73.05,Sydney,Unknown,18,0
+12.75,Mumbai,Unknown,7,0
+8.97,London,Mobile,10,0
+2.64,Mumbai,Tablet,12,0
+57.94,Paris,Unknown,16,0
+13.32,Sydney,Desktop,6,0
+197.47,Tokyo,Mobile,5,0
+49.42,Sydney,Unknown,18,0
+15.42,Tokyo,Unknown,14,0
+7.12,New York,Tablet,22,0
+51.54,Mumbai,Mobile,12,0
+26.77,Toronto,Unknown,8,0
+15.76,Sydney,Desktop,13,0
+107.96,Sydney,Tablet,0,0
+327.8,Sydney,Tablet,1,0
+114.38,London,Unknown,20,0
+3.86,Dubai,Mobile,5,0
+44.96,Toronto,Tablet,2,0
+38.03,Tokyo,Unknown,1,0
+12.22,London,Unknown,2,0
+22.03,Sydney,Desktop,14,0
+37.06,New York,Unknown,7,0
+9.63,Mumbai,Tablet,17,0
+50.75,Sydney,Desktop,19,0
+306.56,Mumbai,Unknown,3,1
+48.15,Paris,Tablet,16,0
+35.91,Toronto,Desktop,1,0
+90.5,Paris,Mobile,21,0
+391.51,Paris,Tablet,21,0
+29.93,Sydney,Mobile,11,0
+74.01,Sydney,Mobile,2,0
+13.5,Paris,Mobile,7,0
+23.08,Sydney,Desktop,18,0
+20.95,Paris,Tablet,13,0
+27.88,New York,Mobile,5,0
+76.84,Dubai,Unknown,5,0
+26.23,London,Mobile,7,0
+10.47,New York,Tablet,0,0
+132.17,Mumbai,Mobile,10,0
+149.4,Tokyo,Desktop,4,1
+25.9,New York,Desktop,19,0
+281.79,Sydney,Desktop,7,1
+556.28,Toronto,Unknown,3,1
+85.87,Toronto,Mobile,6,0
+293.43,Toronto,Unknown,22,1
+13.22,Toronto,Unknown,14,0
+22.47,Tokyo,Tablet,7,0
+40.21,London,Unknown,5,0
+27.38,Tokyo,Desktop,9,1
+13.79,Toronto,Unknown,12,0
+32.28,New York,Tablet,17,0
+17.67,Toronto,Unknown,10,0
+109.78,New York,Unknown,12,0
+17.78,Paris,Mobile,3,0
+27.1,London,Mobile,5,0
+5.3,Paris,Mobile,0,0
+187.6,Paris,Tablet,20,0
+222.47,Paris,Desktop,12,1
+33.74,Tokyo,Tablet,12,0
+104.43,Dubai,Tablet,6,0
+13.64,London,Unknown,10,0
+36.47,London,Tablet,21,0
+3.6,Toronto,Unknown,10,0
+178.12,Toronto,Unknown,2,0
+64.57,London,Unknown,10,0
+27.25,Toronto,Desktop,2,0
+36.71,Mumbai,Desktop,9,0
+10.41,Toronto,Mobile,4,0
+13.33,Sydney,Mobile,19,0
+7.68,New York,Unknown,12,0
+52.16,Tokyo,Desktop,5,0
+41.55,Sydney,Mobile,16,0
+30.97,Dubai,Unknown,16,0
+19.94,Tokyo,Mobile,5,0
+239.48,Paris,Unknown,3,1
+66.12,Mumbai,Mobile,4,1
+1623.92,Paris,Desktop,2,1
+26.36,Dubai,Unknown,5,0
+55.89,Dubai,Desktop,12,0
+64.24,Mumbai,Unknown,18,0
+42.31,Paris,Mobile,19,0
+30.0,Tokyo,Mobile,12,0
+15.99,London,Tablet,18,0
+75.12,Mumbai,Desktop,4,0
+40.63,London,Desktop,6,0
+138.22,Dubai,Tablet,11,0
+30.51,Mumbai,Unknown,12,0
+87.05,Paris,Tablet,7,0
+25.12,Sydney,Mobile,4,0
+10.44,Sydney,Unknown,7,0
+132.32,Toronto,Desktop,7,0
+12.7,Sydney,Tablet,16,0
+34.1,New York,Unknown,7,0
+20.84,Sydney,Unknown,7,0
+4.99,London,Tablet,16,0
+822.63,New York,Mobile,3,1
+11.86,Paris,Tablet,19,0
+495.74,Toronto,Unknown,2,1
+50.37,Toronto,Unknown,23,1
+84.86,Sydney,Mobile,22,0
+71.09,Tokyo,Unknown,23,1
+95.64,Paris,Desktop,10,0
+138.92,London,Tablet,11,0
+128.16,London,Tablet,11,0
+15.6,Paris,Desktop,12,0
+650.77,Sydney,Unknown,5,1
+11.51,Mumbai,Unknown,2,0
+108.36,New York,Tablet,2,1
+39.0,Paris,Tablet,20,0
+54.74,New York,Desktop,19,0
+43.91,Tokyo,Desktop,0,0
+3.91,Mumbai,Tablet,9,0
+36.88,Mumbai,Unknown,7,0
+17.93,Paris,Mobile,13,0
+41.96,Tokyo,Tablet,14,0
+9.37,Toronto,Tablet,6,0
+18.52,Toronto,Tablet,4,0
+357.81,Sydney,Desktop,13,0
+63.15,London,Tablet,22,0
+12.88,London,Tablet,22,0
+3.6,Toronto,Unknown,8,0
+13.28,Dubai,Mobile,0,0
+23.66,Tokyo,Mobile,7,0
+18.37,Tokyo,Unknown,15,0
+97.27,Tokyo,Desktop,8,0
+15.04,Mumbai,Mobile,13,0
+142.54,Sydney,Unknown,13,1
+89.68,Sydney,Unknown,18,1
+64.97,New York,Tablet,15,0
+18.75,Toronto,Unknown,5,0
+45.26,London,Mobile,16,0
+98.08,London,Mobile,16,0
+157.76,Paris,Desktop,17,0
+116.86,New York,Desktop,10,0
+56.09,Toronto,Tablet,21,0
+58.21,Paris,Mobile,6,1
+80.17,Sydney,Tablet,0,0
+46.72,New York,Desktop,14,0
+95.97,Dubai,Desktop,18,0
+43.66,Mumbai,Tablet,14,0
+20.0,Paris,Tablet,13,0
+27.86,Paris,Mobile,10,0
+41.45,Paris,Unknown,13,0
+12.87,Mumbai,Mobile,3,0
+253.6,Tokyo,Mobile,3,1
+31.8,Dubai,Mobile,9,0
+113.32,Toronto,Tablet,14,0
+94.24,New York,Unknown,15,0
+27.11,Paris,Unknown,0,0
+312.27,Toronto,Desktop,4,0
+109.37,Toronto,Unknown,17,1
+100.24,Dubai,Unknown,8,0
+144.87,Dubai,Desktop,2,0
+11.94,Mumbai,Desktop,15,0
+40.31,Sydney,Unknown,0,0
+24.13,London,Mobile,3,0
+42.86,New York,Tablet,15,0
+147.56,Tokyo,Desktop,23,0
+16.64,Tokyo,Unknown,5,0
+14.62,Toronto,Unknown,22,0
+3.4,Sydney,Tablet,12,0
+3.46,Mumbai,Unknown,17,0
+54.37,Sydney,Unknown,5,0
+11.2,Toronto,Desktop,16,0
+846.05,Paris,Mobile,22,1
+259.48,London,Unknown,2,1
+17.15,London,Tablet,17,0
+6.01,New York,Unknown,14,0
+1276.24,Mumbai,Unknown,13,1
+30.6,Dubai,Tablet,5,0
+113.71,Sydney,Desktop,16,0
+91.72,Paris,Desktop,17,0
+12.21,Sydney,Unknown,7,0
+13.47,Sydney,Unknown,8,0
+99.9,London,Unknown,17,1
+34.89,London,Desktop,14,0
+166.93,New York,Unknown,7,0
+21.14,Paris,Mobile,9,0
+106.95,Toronto,Mobile,6,0
+29.75,Toronto,Desktop,16,0
+39.3,Dubai,Tablet,8,0
+26.8,Mumbai,Mobile,13,0
+118.0,Dubai,Unknown,10,0
+5.02,New York,Tablet,10,0
+20.35,Mumbai,Mobile,9,0
+607.22,Tokyo,Mobile,3,1
+16.36,New York,Tablet,9,0
+530.56,London,Desktop,22,0
+16.77,New York,Mobile,4,0
+32.03,Sydney,Desktop,15,0
+32.4,Mumbai,Tablet,5,0
+1419.74,Mumbai,Mobile,22,1
+32.85,Toronto,Unknown,3,0
+52.74,Mumbai,Tablet,18,0
+14.08,Tokyo,Unknown,13,0
+31.97,Sydney,Desktop,18,0
+19.77,Paris,Unknown,2,0
+28.05,London,Mobile,14,0
+6.33,Sydney,Tablet,3,0
+13.38,Paris,Tablet,13,0
+76.29,Dubai,Unknown,18,0
+53.12,Sydney,Mobile,23,0
+37.39,Tokyo,Unknown,4,0
+188.79,Mumbai,Mobile,10,0
+1018.62,Tokyo,Tablet,6,1
+252.12,Tokyo,Mobile,7,0
+51.35,Mumbai,Desktop,5,1
+114.86,New York,Unknown,22,0
+19.53,New York,Tablet,15,0
+75.26,New York,Tablet,1,0
+38.66,Tokyo,Mobile,22,0
+16.82,Dubai,Desktop,18,0
+28.28,London,Mobile,15,0
+16.99,Toronto,Tablet,1,0
+35.15,London,Unknown,16,0
+214.49,New York,Unknown,20,0
+36.86,Tokyo,Tablet,5,0
+14.6,Tokyo,Unknown,22,0
+207.37,New York,Mobile,20,0
+5.46,Tokyo,Mobile,17,0
+12.89,London,Desktop,9,0
+65.2,Paris,Desktop,20,0
+54.83,London,Unknown,15,1
+9.62,New York,Mobile,22,0
+56.17,Dubai,Desktop,18,0
+30.24,Tokyo,Unknown,22,0
+75.14,Tokyo,Mobile,12,0
+6.06,London,Desktop,1,0
+16.15,London,Desktop,12,0
+66.78,Paris,Mobile,15,0
+5.39,Tokyo,Unknown,20,0
+9.81,Dubai,Desktop,8,0
+41.57,Sydney,Desktop,16,0
+27.89,Tokyo,Tablet,5,0
+19.79,Paris,Unknown,6,0
+15.85,Tokyo,Desktop,8,0
+161.49,Dubai,Desktop,23,0
+60.7,Paris,Desktop,13,0
+92.64,Tokyo,Unknown,11,0
+49.32,Mumbai,Unknown,7,0
+39.91,Dubai,Unknown,21,0
+44.05,Tokyo,Unknown,12,0
+291.18,Dubai,Unknown,19,1
+41.67,Sydney,Mobile,7,0
+9.35,Sydney,Unknown,17,0
+522.18,Mumbai,Mobile,3,1
+139.88,Paris,Unknown,20,0
+69.18,Toronto,Mobile,20,0
+75.32,Sydney,Tablet,9,0
+15.08,Dubai,Desktop,4,0
+114.67,Mumbai,Unknown,5,1
+202.52,London,Tablet,2,1
+92.49,New York,Unknown,10,0
+7.48,London,Unknown,23,0
+65.78,Toronto,Tablet,8,0
+53.01,Sydney,Tablet,6,0
+60.85,Toronto,Desktop,7,0
+241.83,Sydney,Tablet,15,0
+22.77,Dubai,Mobile,13,0
+21.25,Mumbai,Tablet,16,0
+186.68,Mumbai,Unknown,2,0
+48.26,Paris,Tablet,21,0
+578.63,Dubai,Tablet,11,0
+118.17,Sydney,Desktop,17,0
+1315.74,Paris,Desktop,8,1
+14.1,Dubai,Desktop,6,0
+171.32,Toronto,Unknown,9,1
+19.68,Sydney,Tablet,19,0
+362.93,Sydney,Desktop,14,1
+15.41,Sydney,Mobile,23,0
+27.56,Paris,Tablet,6,0
+46.16,New York,Unknown,1,0
+1273.56,London,Mobile,20,1
+124.04,London,Desktop,17,0
+245.44,Toronto,Unknown,7,0
+49.74,Tokyo,Mobile,21,0
+537.94,New York,Unknown,9,1
+254.8,Dubai,Desktop,20,0
+84.87,Paris,Mobile,18,0
+152.31,Sydney,Tablet,13,0
+231.98,Toronto,Tablet,14,0
+54.82,Paris,Mobile,21,0
+20.24,Paris,Desktop,20,0
+16.09,New York,Mobile,20,0
+56.19,Mumbai,Tablet,0,0
+102.98,Paris,Tablet,10,0
+34.63,Tokyo,Unknown,10,0
+22.88,Mumbai,Desktop,5,0
+107.6,Tokyo,Desktop,0,0
+44.7,Dubai,Mobile,14,0
+3.08,Paris,Desktop,1,0
+29.82,Paris,Desktop,11,0
+73.0,London,Unknown,7,1
+23.98,Tokyo,Tablet,8,0
+125.81,Paris,Mobile,1,0
+16.38,Tokyo,Tablet,12,0
+166.89,New York,Tablet,20,0
+101.16,Paris,Desktop,6,0
+1018.49,Mumbai,Tablet,15,1
+6.73,Dubai,Desktop,19,0
+13.41,Tokyo,Tablet,11,0
+26.17,Paris,Tablet,8,0
+57.33,Paris,Tablet,1,0
+47.05,Dubai,Unknown,18,0
+55.87,London,Unknown,8,0
+22.54,London,Mobile,1,0
+11.87,London,Tablet,8,0
+25.94,Mumbai,Desktop,15,0
+91.93,Dubai,Mobile,14,0
+24.66,New York,Desktop,22,0
+15.91,Toronto,Unknown,5,0
+422.08,Sydney,Unknown,20,1
+35.15,Toronto,Unknown,21,0
+82.63,Tokyo,Desktop,3,0
+43.55,Paris,Unknown,2,0
+20.29,Mumbai,Desktop,14,0
+18.24,Paris,Tablet,2,0
+9.52,Toronto,Mobile,10,0
+409.21,Tokyo,Tablet,21,0
+101.3,Mumbai,Mobile,6,0
+23.92,Paris,Tablet,4,0
+30.69,New York,Unknown,8,0
+48.54,Mumbai,Mobile,21,0
+179.51,Mumbai,Unknown,0,0
+107.51,Tokyo,Unknown,6,0
+25.34,Toronto,Unknown,15,0
+40.11,London,Mobile,22,0
+22.74,New York,Unknown,9,0
+16.96,Tokyo,Unknown,8,0
+48.45,Sydney,Tablet,14,0
+35.03,New York,Mobile,3,0
+18.62,London,Mobile,14,0
+41.19,Toronto,Tablet,18,0
+42.42,New York,Unknown,8,0
+17.38,New York,Tablet,19,0
+34.53,Toronto,Tablet,22,0
+50.84,London,Desktop,19,0
+147.16,Paris,Unknown,2,0
+23.86,London,Mobile,6,0
+124.43,New York,Unknown,10,0
+13.34,Toronto,Mobile,16,0
+32.1,London,Desktop,2,0
+17.12,Mumbai,Unknown,14,0
+2163.23,Sydney,Desktop,17,1
+28.88,Tokyo,Desktop,3,0
+27.18,New York,Mobile,3,0
+447.14,Mumbai,Desktop,4,1
+114.12,Paris,Desktop,0,0
+169.86,Sydney,Unknown,3,0
+10.97,Sydney,Desktop,11,0
+61.36,Sydney,Tablet,11,0
+12.57,New York,Desktop,19,0
+54.73,London,Unknown,5,0
+115.34,New York,Tablet,0,0
+48.58,Paris,Mobile,22,0
+10.17,Dubai,Mobile,10,0
+11.15,Paris,Unknown,3,0
+7.74,Toronto,Mobile,17,0
+50.15,Tokyo,Tablet,20,0
+50.92,Paris,Desktop,10,0
+26.18,London,Tablet,16,0
+22.64,Mumbai,Mobile,19,0
+295.26,Sydney,Tablet,16,0
+6.99,New York,Unknown,7,0
+460.89,Paris,Tablet,19,0
+21.27,Toronto,Tablet,15,0
+21.35,Sydney,Mobile,4,0
+4.56,Paris,Desktop,14,0
+19.26,Dubai,Mobile,13,0
+56.29,Sydney,Unknown,3,0
+62.16,Mumbai,Tablet,23,0
+54.09,Dubai,Desktop,17,0
+31.39,Tokyo,Tablet,16,0
+122.22,Mumbai,Desktop,19,0
+57.44,London,Unknown,19,0
+78.5,Dubai,Desktop,17,0
+9.51,Dubai,Tablet,8,0
+315.64,New York,Tablet,11,0
+35.82,Sydney,Tablet,5,0
+57.82,New York,Unknown,7,0
+2036.78,London,Mobile,4,1
+167.34,New York,Tablet,1,0
+18.36,Mumbai,Desktop,13,0
+10.52,Tokyo,Desktop,13,0
+11.33,Tokyo,Unknown,23,0
+24.59,New York,Unknown,8,0
+1087.26,Paris,Unknown,16,1
+487.27,New York,Unknown,20,1
+131.57,Dubai,Mobile,15,0
+57.57,Sydney,Mobile,11,0
+1773.75,Mumbai,Desktop,1,1
+23.48,Toronto,Mobile,15,0
+150.87,Toronto,Desktop,18,0
+139.64,New York,Desktop,8,0
+69.49,Mumbai,Unknown,11,0
+557.2,Tokyo,Mobile,19,0
+191.82,New York,Unknown,16,1
+21.58,London,Desktop,2,0
+20.37,London,Tablet,18,0
+47.96,London,Tablet,6,0
+151.4,Paris,Unknown,2,1
+75.85,Mumbai,Unknown,19,0
+15.28,Toronto,Desktop,9,0
+31.33,Tokyo,Desktop,12,0
+17.82,Tokyo,Unknown,1,0
+90.71,Tokyo,Unknown,6,0
+12.95,Paris,Tablet,21,0
+10.18,Dubai,Tablet,17,0
+286.82,Dubai,Desktop,0,0
+15.7,Dubai,Desktop,20,0
+41.78,New York,Tablet,8,0
+138.62,Toronto,Tablet,6,0
+20.78,Sydney,Mobile,21,0
+25.02,New York,Unknown,4,0
+8.2,New York,Tablet,1,0
+15.5,Mumbai,Mobile,16,0
+3.14,New York,Mobile,16,0
+116.03,Paris,Unknown,3,0
+91.03,Dubai,Mobile,19,0
+14.99,Mumbai,Tablet,9,0
+7.82,Sydney,Mobile,15,0
+23.78,London,Unknown,9,0
+217.01,Sydney,Mobile,4,0
+37.54,London,Desktop,18,0
+119.06,Mumbai,Mobile,13,0
+13.87,New York,Desktop,12,0
+47.64,Mumbai,Desktop,23,0
+219.86,London,Desktop,13,0
+62.34,London,Desktop,2,0
+52.5,Dubai,Tablet,3,1
+8.91,New York,Mobile,3,0
+58.08,Mumbai,Mobile,6,0
+64.55,Tokyo,Unknown,13,0
+138.74,Mumbai,Mobile,17,0
+112.86,Mumbai,Desktop,7,0
+2.98,Tokyo,Desktop,20,0
+114.04,Paris,Tablet,12,0
+321.55,New York,Mobile,10,1
+159.04,Dubai,Desktop,16,0
+90.05,Mumbai,Desktop,5,1
+62.44,Tokyo,Unknown,0,0
+26.85,Toronto,Desktop,18,0
+46.45,Dubai,Unknown,9,0
+32.26,Tokyo,Unknown,10,0
+18.23,Paris,Mobile,7,0
+78.68,Sydney,Unknown,21,0
+45.36,Toronto,Mobile,14,0
+15.69,Sydney,Unknown,6,0
+204.44,London,Tablet,7,0
+9.98,Paris,Mobile,11,0
+4.41,Sydney,Tablet,2,0
+13.93,Sydney,Mobile,1,0
+116.24,Toronto,Unknown,12,0
+28.61,Mumbai,Mobile,13,0
+21.05,Dubai,Tablet,4,0
+18.45,London,Unknown,8,0
+56.27,Sydney,Desktop,4,1
+90.8,Mumbai,Tablet,13,0
+22.52,Paris,Unknown,9,0
+52.17,London,Tablet,16,0
+3.5,Tokyo,Tablet,14,0
+65.32,Dubai,Tablet,7,0
+14.06,Toronto,Mobile,22,0
+154.47,Sydney,Unknown,14,1
+8.43,Dubai,Desktop,1,0
+398.09,London,Tablet,22,0
+115.48,Dubai,Tablet,18,0
+82.77,Paris,Desktop,16,0
+98.93,Paris,Tablet,13,0
+195.79,Dubai,Unknown,12,0
+74.97,Mumbai,Desktop,16,0
+13.81,Mumbai,Desktop,12,0
+23.58,Dubai,Desktop,17,0
+22.22,Dubai,Desktop,21,0
+1.71,Tokyo,Mobile,10,0
+49.86,Tokyo,Mobile,12,0
+291.82,Dubai,Tablet,21,0
+25.96,Mumbai,Unknown,16,0
+35.26,Paris,Unknown,2,0
+40.85,Sydney,Unknown,18,0
+36.94,Tokyo,Desktop,4,0
+44.18,Sydney,Unknown,19,0
+68.26,Dubai,Mobile,4,1
+12.25,London,Tablet,12,0
+32.01,Dubai,Desktop,22,0
+73.67,London,Unknown,22,0
+57.39,Toronto,Tablet,2,1
+138.11,London,Mobile,14,1
+120.37,Dubai,Tablet,18,0
+54.55,New York,Desktop,17,0
+34.08,Paris,Unknown,1,0
+51.08,New York,Mobile,17,0
+142.07,Sydney,Desktop,14,0
+39.72,London,Desktop,0,0
+13.88,New York,Unknown,9,0
+1844.98,Dubai,Mobile,23,1
+20.18,Mumbai,Desktop,3,0
+26.39,Mumbai,Unknown,20,0
+770.96,London,Tablet,22,0
+9.51,New York,Mobile,6,0
+51.91,London,Unknown,2,1
+14.51,Mumbai,Tablet,9,0
+26.29,Toronto,Tablet,12,0
+3.7,Tokyo,Desktop,9,0
+26.13,Mumbai,Mobile,5,0
+15.96,Toronto,Unknown,11,0
+35.59,Sydney,Mobile,17,0
+36.63,Toronto,Tablet,4,0
+7.98,London,Mobile,19,0
+26.39,Dubai,Tablet,13,0
+17.88,Toronto,Desktop,7,0
+10.49,Toronto,Mobile,15,0
+34.86,London,Desktop,22,0
+75.13,Dubai,Mobile,14,0
+10.13,Paris,Desktop,21,0
+821.42,Toronto,Unknown,15,1
+16.98,Paris,Unknown,14,0
+17.29,London,Desktop,16,0
+52.7,Tokyo,Desktop,5,0
+24.25,New York,Unknown,20,0
+30.5,New York,Tablet,4,0
+61.52,Dubai,Mobile,0,0
+957.99,Sydney,Unknown,3,1
+25.46,New York,Desktop,13,0
+51.02,Mumbai,Desktop,19,0
+21.33,Dubai,Mobile,3,0
+97.98,New York,Desktop,23,0
+11.05,New York,Desktop,5,0
+34.84,Sydney,Unknown,10,0
+21.79,New York,Mobile,21,0
+9.8,Tokyo,Unknown,17,0
+7.94,Sydney,Tablet,13,0
+57.93,Sydney,Unknown,10,0
+59.39,Sydney,Desktop,13,0
+21.41,London,Desktop,23,0
+31.61,Mumbai,Mobile,21,0
+51.61,Toronto,Desktop,19,0
+91.59,Sydney,Desktop,11,0
+67.57,New York,Tablet,12,1
+464.15,New York,Tablet,4,1
+12.16,Tokyo,Tablet,15,0
+45.62,Tokyo,Desktop,0,0
+24.1,Dubai,Desktop,8,0
+28.66,Mumbai,Tablet,14,0
+17.25,Toronto,Tablet,1,0
+53.96,Toronto,Tablet,9,0
+25.13,London,Tablet,6,0
+14.83,London,Mobile,15,0
+162.56,Tokyo,Unknown,18,0
+887.98,Sydney,Unknown,19,1
+12.31,Mumbai,Desktop,14,0
+9.99,Tokyo,Tablet,13,0
+15.03,Mumbai,Desktop,21,0
+55.75,Dubai,Desktop,21,0
+8.47,Mumbai,Unknown,12,0
+34.63,Paris,Mobile,8,0
+370.07,London,Unknown,21,0
+34.05,New York,Desktop,13,0
+72.77,London,Desktop,8,0
+53.94,Paris,Desktop,4,0
+24.95,Tokyo,Tablet,21,0
+121.02,Tokyo,Desktop,19,0
+1590.71,Dubai,Mobile,16,1
+17.75,Mumbai,Tablet,18,0
+26.33,Dubai,Mobile,2,0
+63.62,Sydney,Desktop,0,0
+47.22,Dubai,Desktop,12,0
+727.73,Mumbai,Unknown,12,1
+60.01,London,Unknown,20,0
+10.27,New York,Mobile,16,0
+26.09,New York,Tablet,8,0
+16.13,Tokyo,Unknown,22,0
+26.68,Toronto,Unknown,11,0
+74.91,Dubai,Tablet,15,0
+7.82,London,Mobile,10,0
+86.54,Paris,Unknown,11,0
+28.39,Mumbai,Mobile,11,0
+27.36,Paris,Tablet,19,0
+15.6,London,Desktop,20,0
+354.11,Toronto,Mobile,4,1
+18.97,Dubai,Tablet,23,0
+27.68,Toronto,Desktop,11,0
+52.99,Toronto,Tablet,9,1
+54.48,Dubai,Mobile,23,0
+74.41,Mumbai,Desktop,18,0
+21.63,Paris,Unknown,13,0
+23.46,Paris,Unknown,13,0
+54.09,Sydney,Tablet,19,0
+81.56,Dubai,Unknown,2,0
+99.07,Paris,Mobile,14,0
+13.95,Toronto,Unknown,21,0
+170.53,Paris,Mobile,20,1
+45.31,Dubai,Desktop,19,0
+4.43,Sydney,Mobile,14,0
+55.97,Tokyo,Desktop,8,0
+28.75,Paris,Desktop,5,0
+44.33,Mumbai,Desktop,16,0
+46.32,Paris,Unknown,22,0
+216.41,Mumbai,Unknown,4,0
+33.43,London,Tablet,15,0
+85.56,New York,Mobile,11,0
+122.94,Toronto,Desktop,1,0
+253.14,London,Tablet,22,0
+144.23,Sydney,Tablet,23,0
+56.11,Dubai,Mobile,13,0
+66.78,New York,Unknown,3,1
+12.19,Paris,Desktop,9,0
+83.31,London,Mobile,7,0
+7.13,Paris,Tablet,15,0
+373.93,Paris,Unknown,18,1
+26.28,London,Unknown,14,0
+218.42,New York,Unknown,3,1
+4.86,Toronto,Unknown,15,0
+60.13,Dubai,Desktop,17,0
+24.57,Paris,Unknown,21,0
+6.76,Paris,Mobile,23,0
+82.52,Toronto,Unknown,23,0
+184.87,Mumbai,Unknown,7,0
+22.39,Toronto,Desktop,11,0
+9.1,Paris,Tablet,18,0
+38.78,Mumbai,Desktop,14,0
+30.51,Tokyo,Tablet,17,0
+186.32,Mumbai,Desktop,23,0
+135.8,Dubai,Unknown,16,1
+47.05,Tokyo,Desktop,2,0
+24.24,Dubai,Desktop,22,0
+45.55,London,Unknown,14,0
+49.5,London,Desktop,13,0
+312.38,Paris,Unknown,20,0
+8.47,Tokyo,Tablet,14,0
+6.59,Mumbai,Mobile,13,0
+2.5,Sydney,Desktop,14,0
+4.59,New York,Mobile,1,0
+27.62,New York,Desktop,3,0
+91.01,New York,Desktop,4,1
+155.51,Toronto,Unknown,21,1
+25.5,Sydney,Unknown,11,0
+94.58,Sydney,Desktop,2,0
+24.46,Paris,Desktop,0,0
+44.21,Tokyo,Desktop,17,0
+60.92,London,Unknown,11,1
+39.01,London,Desktop,7,0
+3.73,Sydney,Tablet,17,0
+14.28,London,Tablet,9,0
+108.82,Toronto,Desktop,9,0
+29.78,Dubai,Tablet,18,0
+99.8,Toronto,Mobile,11,0
+93.98,London,Desktop,7,0
+152.88,London,Tablet,17,0
+329.37,Paris,Mobile,1,0
+38.22,Paris,Unknown,21,0
+15.73,Dubai,Desktop,1,0
+1302.48,Dubai,Unknown,17,1
+68.93,Toronto,Tablet,6,0
+5.88,New York,Unknown,16,0
+46.91,Sydney,Desktop,21,0
+341.82,New York,Unknown,20,1
+10.56,Paris,Tablet,7,0
+369.18,Mumbai,Mobile,16,1
+15.7,Toronto,Tablet,16,0
+44.15,New York,Unknown,13,0
+336.3,London,Desktop,2,1
+17.03,Sydney,Desktop,23,0
+12.7,New York,Mobile,2,0
+20.96,Toronto,Mobile,12,0
+42.03,Toronto,Unknown,22,0
+8.62,Tokyo,Desktop,0,0
+15.34,New York,Tablet,14,0
+40.77,Sydney,Tablet,10,0
+7.69,Paris,Desktop,9,0
+78.9,Toronto,Unknown,0,0
+117.33,Paris,Desktop,16,0
+134.38,Dubai,Desktop,2,1
+31.14,Mumbai,Mobile,10,0
+8.89,Sydney,Mobile,11,0
+22.6,Sydney,Tablet,0,0
+60.17,Sydney,Mobile,0,0
+17.1,Dubai,Desktop,23,0
+21.57,Paris,Tablet,19,0
+3.97,Toronto,Tablet,17,0
+15.76,Dubai,Mobile,0,0
+242.94,Mumbai,Unknown,18,0
+61.13,Toronto,Unknown,13,0
+836.6,Tokyo,Desktop,8,1
+10.54,Paris,Desktop,3,0
+273.48,London,Unknown,10,1
+18.95,London,Unknown,13,0
+26.03,Dubai,Desktop,14,0
+82.93,Sydney,Tablet,1,0
+37.96,Tokyo,Tablet,0,0
+31.0,Toronto,Mobile,4,0
+17.85,Mumbai,Unknown,6,0
+24.59,Sydney,Tablet,15,0
+10.45,Tokyo,Unknown,8,0
+476.16,Toronto,Unknown,0,1
+21.47,London,Mobile,13,0
+345.73,New York,Desktop,18,0
+102.07,New York,Unknown,2,0
+9.05,Toronto,Unknown,10,0
+209.0,Toronto,Desktop,9,0
+157.87,Dubai,Desktop,7,0
+57.04,London,Tablet,4,0
+145.75,Sydney,Tablet,5,0
+42.1,Sydney,Tablet,23,0
+79.99,London,Desktop,17,0
+104.01,Sydney,Tablet,23,0
+52.78,New York,Desktop,11,0
+29.3,Toronto,Mobile,18,0
+101.84,Dubai,Mobile,21,0
+52.96,Tokyo,Unknown,17,0
+319.01,Dubai,Desktop,0,0
+106.82,Paris,Desktop,5,0
+36.43,New York,Mobile,9,0
+52.25,Paris,Mobile,3,0
+8.81,Sydney,Tablet,8,0
+46.56,New York,Unknown,7,0
+30.39,Tokyo,Mobile,18,0
+48.31,Toronto,Tablet,5,0
+22.47,Dubai,Desktop,7,0
+30.96,Sydney,Unknown,9,0
+22.67,Mumbai,Mobile,8,0
+15.41,New York,Mobile,11,0
+13.37,Dubai,Tablet,10,0
+69.03,Toronto,Unknown,2,0
+87.07,London,Tablet,0,0
+64.7,Mumbai,Mobile,18,0
+605.43,Dubai,Unknown,7,1
+27.81,Dubai,Unknown,2,0
+17.18,Sydney,Tablet,23,0
+6.37,Mumbai,Tablet,13,0
+8.15,Sydney,Tablet,19,0
+11.11,Tokyo,Unknown,13,0
+77.99,Mumbai,Tablet,14,0
+14.96,Sydney,Unknown,5,0
+6.08,Paris,Unknown,12,0
+29.73,New York,Unknown,21,0
+8.01,Sydney,Tablet,17,0
+7.06,London,Unknown,14,0
+123.3,Dubai,Desktop,3,0
+27.56,Tokyo,Mobile,10,0
+11.1,Toronto,Mobile,20,0
+50.07,Tokyo,Mobile,11,0
+52.64,New York,Mobile,11,0
+20.65,Dubai,Mobile,8,0
+17.15,Sydney,Mobile,3,0
+26.17,New York,Desktop,13,0
+16.37,Sydney,Mobile,23,0
+17.26,Toronto,Mobile,3,0
+376.37,New York,Mobile,3,1
+8.24,Sydney,Mobile,13,0
+294.65,London,Unknown,14,0
+145.04,Dubai,Mobile,2,0
+86.18,New York,Mobile,9,0
+115.18,New York,Tablet,8,0
+160.58,Toronto,Desktop,15,0
+39.4,Paris,Desktop,12,0
+24.65,New York,Mobile,16,0
+651.45,Dubai,Unknown,1,1
+183.1,Toronto,Desktop,0,0
+31.95,London,Mobile,9,0
+5.47,Toronto,Unknown,7,0
+35.75,New York,Unknown,19,0
+27.61,Mumbai,Desktop,14,0
+14.68,Dubai,Unknown,15,0
+22.39,London,Mobile,22,0
+13.14,London,Mobile,19,0
+156.25,New York,Tablet,4,0
+208.45,New York,Tablet,8,0
+12.25,Dubai,Tablet,11,0
+45.79,Dubai,Desktop,2,0
+20.32,London,Mobile,8,0
+21.52,Tokyo,Unknown,23,0
+44.54,Paris,Desktop,23,0
+17.05,Sydney,Desktop,19,0
+19.4,Paris,Tablet,7,0
+20.11,Mumbai,Unknown,21,0
+6.07,Tokyo,Mobile,17,0
+10.51,New York,Mobile,8,0
+4.77,Toronto,Tablet,17,0
+55.33,New York,Unknown,18,0
+19.11,Sydney,Unknown,11,0
+195.56,London,Mobile,10,0
+12.06,Sydney,Mobile,18,0
+138.41,Toronto,Unknown,17,1
+36.14,London,Mobile,21,0
+117.56,Sydney,Desktop,11,0
+160.25,Dubai,Tablet,1,0
+64.74,Tokyo,Unknown,3,1
+31.57,Mumbai,Desktop,0,0
+32.45,Tokyo,Desktop,7,0
+110.77,Paris,Desktop,20,0
+22.99,Toronto,Tablet,7,0
+26.21,Mumbai,Unknown,18,0
+2.54,Dubai,Desktop,20,0
+100.19,Toronto,Mobile,19,0
+55.2,London,Desktop,15,0
+10.39,Paris,Mobile,15,0
+4.68,Dubai,Mobile,0,0
+87.21,Sydney,Desktop,21,0
+53.11,Mumbai,Desktop,6,0
+139.54,Dubai,Unknown,10,0
+32.85,Paris,Tablet,5,0
+77.68,Toronto,Desktop,5,0
+83.29,Dubai,Desktop,5,0
+98.85,Mumbai,Desktop,2,0
+117.74,Paris,Desktop,16,0
+75.27,New York,Desktop,2,0
+69.14,Paris,Tablet,8,0
+12.2,New York,Desktop,2,0
+56.41,Toronto,Mobile,0,0
+783.27,Toronto,Tablet,18,1
+21.79,London,Unknown,21,0
+16.59,Mumbai,Desktop,23,0
+5.29,Sydney,Mobile,20,0
+10.33,Dubai,Desktop,15,0
+14.7,Mumbai,Unknown,1,0
+53.37,Paris,Tablet,1,0
+20.05,Toronto,Desktop,0,0
+174.07,Dubai,Desktop,20,0
+364.96,Dubai,Tablet,8,0
+111.96,London,Desktop,14,1
+21.87,Tokyo,Desktop,10,0
+98.29,Mumbai,Unknown,3,1
+84.31,London,Mobile,5,0
+108.63,Toronto,Unknown,2,0
+56.32,Sydney,Unknown,19,0
+36.08,Paris,Unknown,17,0
+32.79,Tokyo,Desktop,5,0
+17.46,Sydney,Unknown,13,0
+128.78,Paris,Unknown,13,0
+60.24,Paris,Desktop,17,0
+60.49,New York,Desktop,6,0
+113.13,Paris,Unknown,19,0
+52.76,Paris,Unknown,9,0
+85.8,Sydney,Mobile,11,0
+4.17,Toronto,Tablet,15,0
+64.96,London,Unknown,23,1
+15.65,Paris,Tablet,19,0
+24.34,Mumbai,Desktop,10,0
+936.81,London,Unknown,13,1
+34.04,Paris,Mobile,10,0
+50.01,Paris,Desktop,6,0
+77.51,London,Desktop,7,0
+5.43,Sydney,Desktop,17,0
+1832.19,Tokyo,Desktop,9,1
+42.81,New York,Mobile,2,0
+11.45,Dubai,Desktop,8,0
+101.04,New York,Mobile,10,0
+59.73,London,Tablet,22,1
+21.83,Mumbai,Mobile,13,0
+1773.05,New York,Unknown,7,1
+27.99,Paris,Desktop,16,0
+33.99,Tokyo,Mobile,10,0
+41.7,Mumbai,Unknown,19,0
+39.7,Sydney,Tablet,21,0
+15.97,Tokyo,Mobile,14,0
+114.72,London,Desktop,6,0
+30.26,Mumbai,Unknown,3,0
+120.94,London,Tablet,12,0
+18.1,Sydney,Tablet,4,0
+8.55,Sydney,Desktop,6,0
+6.61,Toronto,Tablet,16,0
+14.71,Toronto,Mobile,14,0
+27.32,Paris,Desktop,2,0
+463.0,Tokyo,Mobile,15,0
+17.83,London,Mobile,14,0
+68.14,New York,Unknown,1,0
+30.02,Mumbai,Desktop,0,0
+78.66,Tokyo,Desktop,23,0
+15.0,Toronto,Unknown,6,0
+46.02,Dubai,Tablet,13,0
+36.47,Dubai,Unknown,17,0
+1605.2,Tokyo,Desktop,19,1
+10.55,Sydney,Unknown,23,0
+8.59,Mumbai,Mobile,12,0
+1078.63,London,Unknown,4,1
+55.81,Paris,Unknown,22,0
+35.19,Toronto,Unknown,11,0
+156.2,New York,Desktop,0,0
+24.7,Mumbai,Desktop,16,0
+26.77,London,Unknown,11,0
+95.73,Dubai,Mobile,19,0
+27.56,Tokyo,Unknown,2,0
+15.0,Sydney,Desktop,2,0
+80.55,Mumbai,Mobile,21,0
+118.71,Toronto,Mobile,17,0
+15.96,Toronto,Desktop,10,0
+35.83,New York,Desktop,13,0
+6.4,Mumbai,Mobile,13,0
+84.33,Dubai,Desktop,20,0
+36.14,Mumbai,Unknown,11,0
+215.46,New York,Desktop,3,1
+34.28,Tokyo,Unknown,18,0
+46.77,Paris,Desktop,0,0
+255.96,Sydney,Mobile,9,0
+8.02,Tokyo,Mobile,12,0
+9.59,New York,Tablet,10,0
+7.69,Toronto,Tablet,14,0
+51.45,New York,Desktop,17,0
+5.08,London,Tablet,23,0
+13.41,Tokyo,Unknown,11,0
+35.7,Dubai,Mobile,0,0
+55.3,Tokyo,Unknown,4,1
+37.37,New York,Mobile,14,0
+66.58,New York,Mobile,5,0
+27.15,Paris,Tablet,0,0
+777.71,Paris,Tablet,3,1
+8.81,Paris,Mobile,11,0
+57.15,Mumbai,Mobile,21,0
+41.29,Tokyo,Tablet,2,0
+53.67,Sydney,Mobile,6,0
+246.66,Sydney,Mobile,7,0
+851.0,London,Unknown,21,1
+107.55,Sydney,Unknown,12,0
+5.24,Tokyo,Tablet,10,0
+8.22,Toronto,Unknown,1,0
+20.98,New York,Mobile,15,0
+18.91,London,Unknown,13,0
+351.31,London,Mobile,23,1
+18.77,Mumbai,Mobile,13,0
+17.58,New York,Unknown,13,0
+71.46,Tokyo,Unknown,1,0
+37.43,Toronto,Mobile,2,0
+21.77,Paris,Unknown,13,0
+83.38,New York,Mobile,17,1
+748.56,London,Mobile,20,0
+87.62,Paris,Unknown,1,0
+31.96,Mumbai,Mobile,2,0
+44.96,Paris,Desktop,14,0
+1.72,Mumbai,Desktop,20,0
+7.79,Tokyo,Mobile,14,0
+8.76,Toronto,Mobile,18,0
+13.58,London,Tablet,18,0
+28.58,Toronto,Desktop,6,0
+13.48,Toronto,Tablet,1,0
+495.58,London,Desktop,2,1
+13.39,Mumbai,Tablet,15,0
+16.58,Toronto,Desktop,12,0
+120.7,New York,Mobile,13,0
+331.82,Dubai,Unknown,22,1
+69.02,Dubai,Desktop,8,0
+89.81,Tokyo,Tablet,3,0
+190.74,Toronto,Unknown,4,1
+14.37,Mumbai,Tablet,12,0
+18.45,Sydney,Tablet,4,0
+81.16,New York,Desktop,0,0
+9.84,Sydney,Desktop,18,0
+37.7,Paris,Desktop,7,0
+7.05,Mumbai,Mobile,4,0
+58.12,Toronto,Unknown,5,0
+44.97,Mumbai,Tablet,13,0
+71.16,Mumbai,Tablet,15,0
+890.04,Mumbai,Tablet,3,1
+23.83,Mumbai,Tablet,3,0
+0.96,Toronto,Desktop,19,0
+145.53,New York,Mobile,9,0
+29.1,New York,Desktop,3,0
+56.83,New York,Mobile,22,0
+39.44,Toronto,Mobile,20,0
+71.67,Tokyo,Tablet,2,0
+135.67,Dubai,Tablet,15,0
+7.52,Toronto,Mobile,9,0
+53.82,Mumbai,Unknown,15,0
+56.62,New York,Desktop,17,0
+20.03,Sydney,Desktop,3,0
+61.18,Sydney,Desktop,21,0
+27.2,Tokyo,Mobile,3,0
+91.4,Mumbai,Mobile,14,0
+48.83,Tokyo,Unknown,11,0
+34.01,Paris,Unknown,14,0
+20.76,Dubai,Mobile,12,0
+122.38,Mumbai,Mobile,9,0
+9.86,Sydney,Unknown,20,0
+1.76,Tokyo,Tablet,20,0
+46.45,Tokyo,Tablet,6,0
+16.71,New York,Desktop,17,0
+266.22,London,Unknown,16,1
+49.02,New York,Tablet,6,0
+43.07,Paris,Tablet,22,0
+83.29,Tokyo,Unknown,2,0
+74.74,Dubai,Unknown,2,0
+56.32,Mumbai,Unknown,22,1
+5.53,Tokyo,Tablet,23,0
+8.68,Toronto,Tablet,8,0
+47.4,Dubai,Tablet,20,0
+11.31,Dubai,Desktop,3,0
+47.96,Dubai,Mobile,6,0
+132.74,London,Unknown,19,0
+6.12,Dubai,Tablet,22,0
+35.35,Tokyo,Mobile,5,0
+50.07,Mumbai,Mobile,9,0
+28.0,Toronto,Tablet,6,0
+68.58,London,Tablet,19,0
+39.14,London,Tablet,10,0
+132.18,New York,Tablet,18,0
+63.33,New York,Unknown,7,1
+5.57,Tokyo,Mobile,17,0
+160.98,Toronto,Tablet,3,0
+28.82,Mumbai,Desktop,10,0
+54.75,Paris,Tablet,22,0
+47.41,London,Desktop,14,0
+92.95,Dubai,Tablet,17,0
+109.74,Paris,Desktop,22,0
+19.61,Dubai,Mobile,23,0
+19.21,Paris,Desktop,10,0
+17.69,Tokyo,Unknown,22,0
+1496.19,London,Unknown,7,1
+92.33,Sydney,Tablet,7,0
+8.41,Sydney,Unknown,23,0
+283.61,Sydney,Unknown,22,0
+993.74,Toronto,Unknown,11,1
+31.62,Dubai,Unknown,16,0
+135.17,New York,Tablet,20,0
+21.37,Mumbai,Desktop,7,0
+25.79,Paris,Desktop,11,0
+109.76,Paris,Unknown,19,0
+30.58,New York,Tablet,16,0
+2.13,Mumbai,Tablet,2,0
+18.0,New York,Unknown,17,0
+25.66,New York,Desktop,13,0
+46.88,Mumbai,Mobile,17,0
+145.45,Paris,Tablet,15,0
+60.76,New York,Desktop,3,0
+15.4,Paris,Tablet,15,0
+76.61,Paris,Tablet,4,0
+23.08,Dubai,Desktop,4,0
+82.69,Tokyo,Mobile,2,1
+434.11,Mumbai,Desktop,4,0
+77.39,Dubai,Mobile,23,0
+76.93,London,Tablet,9,0
+931.61,Toronto,Unknown,1,1
+105.74,Sydney,Unknown,1,0
+114.72,Sydney,Desktop,23,0
+73.74,Tokyo,Unknown,23,0
+120.79,London,Tablet,4,0
+19.25,Toronto,Unknown,19,0
+95.79,New York,Mobile,4,0
+126.21,New York,Desktop,9,1
+35.54,Mumbai,Unknown,4,0
+261.52,Mumbai,Unknown,20,1
+138.35,London,Desktop,4,0
+120.8,Dubai,Mobile,9,0
+34.65,Sydney,Desktop,16,0
+195.63,Mumbai,Mobile,18,0
+74.74,Mumbai,Unknown,21,0
+58.58,Paris,Mobile,8,0
+79.02,New York,Unknown,8,1
+73.02,New York,Desktop,22,0
+174.42,Sydney,Unknown,15,1
+59.21,Tokyo,Mobile,12,0
+186.77,Tokyo,Desktop,9,0
+48.05,Tokyo,Mobile,6,0
+42.42,New York,Unknown,10,0
+51.23,Tokyo,Desktop,19,0
+125.4,Dubai,Tablet,13,0
+138.58,London,Tablet,13,0
+23.73,Sydney,Desktop,20,0
+26.77,Dubai,Mobile,1,0
+25.69,New York,Tablet,10,0
+160.95,New York,Tablet,1,0
+97.57,Mumbai,Desktop,6,0
+497.49,Dubai,Unknown,12,1
+217.89,Toronto,Desktop,13,0
+2.65,Toronto,Tablet,13,0
+20.87,Tokyo,Desktop,6,0
+65.74,Paris,Desktop,6,0
+206.5,Mumbai,Unknown,9,1
+12.79,New York,Tablet,20,0
+33.08,Sydney,Desktop,9,0
+193.31,Paris,Mobile,4,0
+41.09,New York,Tablet,23,0
+117.55,Paris,Mobile,16,0
+106.33,Toronto,Mobile,3,0
+35.79,London,Tablet,17,0
+17.8,Sydney,Tablet,22,0
+19.17,Dubai,Tablet,10,0
+87.71,Tokyo,Mobile,23,0
+54.11,London,Mobile,7,0
+360.73,Dubai,Desktop,20,0
+22.46,New York,Desktop,5,0
+264.71,Sydney,Tablet,17,0
+65.96,New York,Tablet,20,0
+20.24,Toronto,Unknown,16,0
+43.81,London,Tablet,5,0
+162.64,Tokyo,Desktop,21,0
+8.81,Toronto,Mobile,5,0
+173.95,Tokyo,Mobile,13,1
+78.56,Paris,Mobile,9,0
+78.31,Mumbai,Desktop,0,0
+3.44,Tokyo,Tablet,10,0
+53.4,Sydney,Unknown,16,0
+390.09,Sydney,Tablet,16,1
+12.24,Dubai,Unknown,14,0
+82.4,Paris,Unknown,5,0
+14.53,Sydney,Unknown,10,0
+99.78,Tokyo,Tablet,4,1
+93.98,Paris,Unknown,18,0
+7.99,Sydney,Unknown,9,0
+30.53,Toronto,Mobile,18,0
+230.72,Paris,Unknown,12,1
+65.55,Tokyo,Tablet,19,0
+64.5,Paris,Mobile,17,0
+4.86,Toronto,Tablet,9,0
+1423.42,Paris,Desktop,8,1
+81.81,Paris,Tablet,20,0
+865.24,London,Unknown,17,1
+1189.58,Dubai,Mobile,18,1
+18.57,Dubai,Desktop,9,0
+982.13,Paris,Tablet,2,1
+21.25,Paris,Tablet,3,0
+7.26,Sydney,Desktop,16,0
+55.16,Toronto,Tablet,10,0
+19.28,London,Desktop,19,0
+41.0,Toronto,Tablet,22,0
+67.69,New York,Unknown,8,0
+26.68,London,Unknown,7,0
+44.69,Sydney,Mobile,20,0
+40.01,Paris,Mobile,3,0
+34.54,New York,Mobile,20,0
+148.22,Dubai,Desktop,0,0
+70.84,Toronto,Mobile,10,0
+19.3,Toronto,Mobile,15,0
+33.21,Mumbai,Desktop,16,0
+11.64,New York,Mobile,17,0
+24.78,London,Mobile,12,0
+1012.06,Dubai,Desktop,2,1
+20.74,Toronto,Mobile,20,0
+207.15,Toronto,Desktop,20,0
+14.81,Tokyo,Unknown,12,0
+7.57,Toronto,Desktop,6,0
+117.05,Dubai,Mobile,16,0
+11.16,Toronto,Desktop,23,0
+23.29,Tokyo,Mobile,21,0
+17.25,Tokyo,Unknown,5,0
+16.17,Sydney,Desktop,7,0
+28.06,Mumbai,Tablet,17,0
+11.77,Dubai,Desktop,6,0
+23.8,Tokyo,Desktop,15,0
+27.77,Sydney,Mobile,21,0
+21.54,Dubai,Tablet,23,0
+73.05,Toronto,Desktop,7,0
+141.65,Toronto,Unknown,10,0
+8.75,Mumbai,Desktop,10,0
+8.73,Toronto,Mobile,2,0
+62.81,Paris,Unknown,10,0
+46.88,Mumbai,Desktop,18,0
+6.31,Tokyo,Mobile,11,0
+13.23,Mumbai,Desktop,19,0
+47.63,Mumbai,Tablet,7,0
+24.48,London,Desktop,0,0
+166.0,Tokyo,Tablet,2,0
+18.91,New York,Desktop,10,0
+17.59,Mumbai,Unknown,17,0
+5.66,Sydney,Mobile,20,0
+24.1,Sydney,Desktop,2,0
+25.75,Mumbai,Unknown,4,0
+17.02,Mumbai,Tablet,5,0
+14.72,Toronto,Unknown,8,0
+48.1,New York,Tablet,23,0
+2.8,Mumbai,Mobile,8,0
+65.85,Sydney,Desktop,15,0
+172.3,New York,Tablet,10,0
+1586.52,Paris,Tablet,2,1
+15.01,Mumbai,Unknown,9,0
+50.42,New York,Tablet,8,0
+95.8,Paris,Tablet,6,0
+76.5,Toronto,Unknown,15,0
+7.44,Sydney,Desktop,10,0
+6.5,Paris,Unknown,23,0
+4.46,Paris,Mobile,3,0
+28.94,Toronto,Unknown,2,0
+40.28,Sydney,Mobile,18,0
+18.54,New York,Mobile,14,0
+183.01,Dubai,Tablet,3,1
+97.53,London,Desktop,3,1
+68.89,London,Mobile,4,1
+434.54,Dubai,Tablet,7,1
+133.37,Toronto,Desktop,9,0
+27.65,Sydney,Tablet,12,0
+29.13,Toronto,Mobile,12,0
+110.84,Paris,Mobile,18,0
+105.57,New York,Unknown,17,0
+18.4,New York,Tablet,13,0
+12.08,Paris,Mobile,3,0
+736.64,Dubai,Unknown,20,1
+26.21,Toronto,Mobile,21,0
+44.57,New York,Desktop,8,0
+15.35,Paris,Unknown,14,0
+117.49,Dubai,Tablet,21,1
+69.95,Paris,Tablet,17,0
+99.39,Sydney,Desktop,12,1
+16.36,New York,Mobile,22,0
+17.49,Paris,Unknown,6,0
+494.07,Paris,Unknown,15,1
+21.6,Paris,Mobile,15,0
+257.82,Sydney,Tablet,0,1
+23.84,Toronto,Mobile,11,0
+31.95,Tokyo,Mobile,19,0
+98.95,Paris,Unknown,1,0
+105.14,London,Unknown,20,1
+66.17,Mumbai,Mobile,10,0
+11.04,New York,Mobile,17,0
+482.89,Paris,Unknown,1,1
+72.78,Mumbai,Tablet,7,0
+60.94,Tokyo,Mobile,21,0
+51.24,Mumbai,Mobile,16,0
+346.74,Toronto,Mobile,5,1
+37.15,London,Unknown,23,0
+45.21,Tokyo,Unknown,3,0
+38.08,Dubai,Mobile,22,0
+68.41,New York,Mobile,12,0
+99.08,Paris,Mobile,17,0
+100.54,Mumbai,Desktop,13,1
+51.74,London,Mobile,5,0
+11.06,Paris,Unknown,23,0
+9.83,New York,Mobile,7,0
+10.39,London,Desktop,5,0
+11.45,Tokyo,Desktop,0,0
+137.44,Mumbai,Desktop,4,1
+12.97,Toronto,Unknown,13,0
+471.38,London,Unknown,14,1
+86.88,London,Desktop,10,0
+47.48,Paris,Mobile,19,0
+26.84,Paris,Desktop,1,0
+11.78,Tokyo,Tablet,11,0
+44.67,Tokyo,Desktop,15,0
+13.64,Dubai,Tablet,1,0
+12.39,Sydney,Desktop,10,0
+62.07,Paris,Tablet,23,1
+118.42,London,Tablet,3,0
+194.06,Tokyo,Tablet,13,0
+31.05,New York,Desktop,6,0
+58.41,Sydney,Tablet,23,0
+113.96,Tokyo,Mobile,11,1
+35.3,Tokyo,Mobile,15,0
+3.54,Toronto,Unknown,12,0
+419.05,Dubai,Tablet,17,1
+69.97,Tokyo,Desktop,2,1
+13.61,New York,Mobile,11,0
+125.8,London,Tablet,10,0
+54.6,New York,Tablet,17,0
+24.81,Dubai,Desktop,9,0
+29.54,Mumbai,Tablet,5,0
+46.01,Toronto,Mobile,3,0
+37.67,New York,Mobile,20,0
+31.65,Mumbai,Desktop,23,0
+43.41,Tokyo,Unknown,5,0
+26.34,Dubai,Unknown,12,0
+9.05,New York,Desktop,3,0
+25.29,Tokyo,Tablet,12,0
+5.77,New York,Desktop,0,0
+9.25,New York,Tablet,6,0
+1417.79,Dubai,Unknown,4,1
+359.7,Dubai,Desktop,12,0
+96.18,Toronto,Mobile,11,0
+34.42,Tokyo,Tablet,12,0
+534.95,Tokyo,Tablet,3,1
+72.93,New York,Tablet,10,0
+142.98,Dubai,Mobile,9,0
+10.08,Dubai,Mobile,0,0
+453.3,Mumbai,Mobile,4,1
+15.81,Tokyo,Desktop,13,0
+17.74,Sydney,Mobile,8,0
+134.15,Sydney,Mobile,14,0
+38.48,London,Mobile,4,0
+71.16,London,Unknown,19,0
+27.32,London,Desktop,8,0
+68.36,Mumbai,Desktop,3,0
+27.09,Mumbai,Tablet,6,0
+37.63,Mumbai,Desktop,19,0
+23.2,Paris,Mobile,14,0
+33.25,London,Desktop,6,0
+12.34,London,Desktop,13,0
+12.41,Sydney,Desktop,20,0
+202.17,Tokyo,Mobile,7,0
+25.02,Mumbai,Unknown,8,0
+27.79,New York,Desktop,3,0
+33.95,Tokyo,Desktop,11,0
+24.16,London,Desktop,2,0
+59.67,Toronto,Mobile,8,0
+30.58,Dubai,Desktop,12,0
+29.58,Mumbai,Desktop,8,0
+10.56,Dubai,Tablet,6,0
+110.46,Mumbai,Unknown,12,0
+204.46,Toronto,Unknown,22,1
+5.2,Mumbai,Tablet,22,0
+14.59,London,Unknown,0,0
+25.68,New York,Mobile,10,0
+334.5,Mumbai,Unknown,6,1
+101.02,London,Mobile,2,0
+104.38,Toronto,Desktop,19,1
+512.68,Toronto,Tablet,2,1
+16.96,Paris,Tablet,22,0
+18.74,Tokyo,Mobile,8,0
+22.12,Sydney,Mobile,1,0
+22.28,Paris,Unknown,10,0
+54.83,Toronto,Desktop,16,0
+33.23,Tokyo,Mobile,12,0
+13.09,Sydney,Unknown,14,0
+14.48,Sydney,Mobile,18,0
+15.65,Sydney,Desktop,21,0
+5.09,Tokyo,Tablet,13,0
+31.27,London,Tablet,17,0
+115.95,London,Unknown,7,0
+10.94,London,Mobile,9,0
+50.86,Toronto,Mobile,2,0
+19.72,Mumbai,Tablet,12,0
+64.4,Sydney,Unknown,7,0
+56.0,Sydney,Desktop,3,1
+13.63,New York,Unknown,13,0
+13.62,Tokyo,Mobile,20,0
+12.54,Dubai,Tablet,6,0
+68.84,Paris,Unknown,0,0
+7.44,Dubai,Desktop,5,0
+104.82,London,Mobile,21,0
+70.51,Toronto,Mobile,19,0
+92.27,Toronto,Mobile,2,0
+18.3,New York,Mobile,3,0
+21.41,Toronto,Unknown,22,0
+33.25,Sydney,Mobile,8,0
+13.77,Toronto,Desktop,7,0
+17.96,Tokyo,Unknown,21,0
+103.43,Paris,Desktop,18,0
+105.97,Sydney,Unknown,11,0
+42.79,Toronto,Desktop,8,0
+1586.59,Toronto,Desktop,3,1
+89.23,Mumbai,Unknown,5,1
+19.5,Dubai,Mobile,15,0
+61.38,Mumbai,Tablet,9,1
+55.57,Mumbai,Tablet,2,0
+27.56,Paris,Unknown,23,0
+20.64,Dubai,Mobile,21,0
+58.83,Sydney,Mobile,2,1
+83.35,New York,Mobile,6,0
+39.13,Toronto,Unknown,1,0
+86.28,Sydney,Tablet,3,0
+32.48,Sydney,Mobile,10,0
+24.59,London,Desktop,23,0
+7.48,Tokyo,Mobile,1,0
+110.75,London,Tablet,14,0
+3.19,New York,Tablet,15,0
+183.38,New York,Mobile,5,0
+526.99,Sydney,Mobile,14,0
+64.87,Dubai,Desktop,2,0
+52.95,New York,Desktop,23,0
+63.66,Tokyo,Unknown,20,0
+355.09,Tokyo,Mobile,12,1
+46.93,Mumbai,Unknown,1,0
+5.69,Sydney,Unknown,8,0
+4.31,Sydney,Desktop,18,0
+37.9,Toronto,Tablet,4,0
+24.07,Toronto,Tablet,7,0
+15.69,Paris,Desktop,11,0
+6.64,Dubai,Mobile,10,0
+53.5,Dubai,Unknown,22,0
+44.1,London,Mobile,18,0
+617.54,London,Unknown,10,1
+12.44,Paris,Tablet,7,0
+18.72,Sydney,Unknown,1,0
+264.89,Mumbai,Mobile,17,0
+304.08,Mumbai,Desktop,11,0
+45.83,Paris,Mobile,8,0
+7.3,Mumbai,Unknown,0,0
+66.83,Tokyo,Mobile,18,0
+22.94,Paris,Mobile,12,0
+20.88,Dubai,Desktop,7,0
+75.55,Dubai,Mobile,15,0
+91.99,Tokyo,Tablet,11,0
+2.5,Paris,Desktop,12,0
+25.55,Tokyo,Desktop,19,0
+380.38,Sydney,Unknown,9,0
+22.19,Paris,Unknown,0,0
+51.63,Paris,Tablet,9,0
+13.57,Mumbai,Tablet,15,0
+68.43,Tokyo,Unknown,22,0
+29.15,New York,Tablet,14,0
+58.05,Sydney,Unknown,17,1
+24.56,Toronto,Unknown,18,0
+164.24,Mumbai,Unknown,6,0
+7.8,Sydney,Desktop,0,0
+52.46,Paris,Unknown,14,0
+39.0,Sydney,Unknown,15,0
+97.01,Sydney,Desktop,21,0
+9.89,Toronto,Mobile,21,0
+87.25,Paris,Desktop,11,0
+49.79,Toronto,Desktop,0,0
+23.14,Sydney,Tablet,6,0
+132.12,Tokyo,Desktop,16,0
+19.92,New York,Tablet,9,0
+39.42,Sydney,Tablet,8,0
+34.58,Tokyo,Tablet,0,0
+145.69,New York,Tablet,16,0
+60.85,Tokyo,Unknown,19,0
+102.3,Dubai,Unknown,23,0
+13.16,Paris,Mobile,3,0
+20.89,London,Tablet,18,0
+44.43,Sydney,Desktop,15,0
+20.79,New York,Tablet,0,0
+22.08,London,Desktop,13,0
+9.76,Tokyo,Mobile,23,0
+16.59,Mumbai,Mobile,11,0
+5.12,Toronto,Tablet,21,0
+26.31,Toronto,Tablet,14,0
+6.49,New York,Tablet,1,0
+19.79,Sydney,Tablet,16,0
+135.21,New York,Unknown,22,1
+8.85,Tokyo,Mobile,7,0
+25.85,Toronto,Unknown,16,0
+37.75,London,Unknown,12,0
+237.89,Tokyo,Unknown,9,1
+77.51,Tokyo,Mobile,22,0
+9.23,Dubai,Desktop,11,0
+123.55,Sydney,Tablet,10,0
+73.33,Paris,Mobile,21,0
+81.68,Sydney,Mobile,3,1
+120.41,New York,Mobile,9,0
+26.86,Tokyo,Tablet,23,0
+82.65,Dubai,Mobile,19,0
+26.01,Toronto,Mobile,3,0
+44.6,Sydney,Desktop,16,0
+15.07,London,Unknown,9,0
+23.16,Paris,Tablet,8,0
+6.72,Sydney,Tablet,20,0
+60.93,Tokyo,Mobile,21,0
+55.63,Paris,Mobile,13,0
+29.76,Tokyo,Mobile,21,0
+52.89,London,Mobile,1,0
+38.46,Paris,Mobile,22,0
+335.52,New York,Unknown,13,0
+48.04,Mumbai,Mobile,11,0
+46.57,Toronto,Unknown,10,0
+644.44,Toronto,Unknown,14,1
+83.76,Sydney,Mobile,18,0
+84.93,Mumbai,Desktop,18,0
+51.26,Dubai,Desktop,8,0
+639.2,Mumbai,Unknown,1,1
+1303.46,Dubai,Mobile,4,1
+36.33,Sydney,Desktop,1,0
+68.3,Dubai,Desktop,21,0
+38.29,Dubai,Mobile,21,0
+9.29,Mumbai,Unknown,8,0
+29.17,Mumbai,Tablet,22,0
+42.6,Tokyo,Unknown,18,0
+29.06,New York,Unknown,16,0
+58.3,New York,Mobile,12,0
+221.7,Dubai,Mobile,20,0
+72.13,Mumbai,Desktop,23,0
+898.6,London,Tablet,4,1
+37.52,Tokyo,Mobile,16,0
+59.33,London,Tablet,13,0
+390.77,Paris,Unknown,17,0
+5.28,Mumbai,Tablet,13,0
+35.42,Toronto,Tablet,23,0
+127.76,New York,Mobile,6,0
+27.17,Dubai,Unknown,17,0
+42.43,Sydney,Unknown,8,0
+51.83,Tokyo,Mobile,4,0
+92.39,Dubai,Desktop,12,0
+90.03,Mumbai,Mobile,21,0
+27.5,London,Mobile,2,0
+31.43,London,Tablet,5,0
+18.79,Sydney,Unknown,22,0
+58.2,London,Unknown,13,0
+135.8,New York,Unknown,3,1
+11.7,Dubai,Unknown,7,0
+11.37,Toronto,Unknown,20,0
+48.37,Sydney,Desktop,16,0
+24.79,Toronto,Unknown,9,0
+34.25,New York,Mobile,0,0
+27.6,Mumbai,Mobile,10,0
+41.95,Mumbai,Tablet,10,0
+57.8,Paris,Desktop,12,0
+6.15,Tokyo,Tablet,3,0
+85.92,New York,Desktop,21,0
+15.66,Tokyo,Tablet,9,0
+30.0,Toronto,Desktop,12,0
+234.21,Mumbai,Unknown,12,1
+44.79,Tokyo,Tablet,18,0
+154.67,Sydney,Desktop,9,1
+283.37,New York,Unknown,22,1
+8.84,Dubai,Tablet,23,0
+29.4,Dubai,Mobile,14,0
+18.0,Mumbai,Tablet,3,0
+68.76,New York,Desktop,11,0
+56.54,Toronto,Desktop,23,0
+151.3,Toronto,Unknown,4,0
+730.81,Mumbai,Tablet,23,1
+19.17,Paris,Desktop,20,0
+54.28,New York,Mobile,18,0
+14.8,Dubai,Unknown,17,0
+44.98,Paris,Mobile,15,0
+5.31,Paris,Unknown,20,0
+47.0,Mumbai,Desktop,23,0
+106.02,Tokyo,Tablet,8,0
+45.52,Sydney,Desktop,19,0
+141.0,Tokyo,Unknown,3,0
+31.8,Tokyo,Desktop,5,0
+7.51,Paris,Desktop,7,0
+28.6,London,Tablet,19,0
+131.77,Mumbai,Unknown,9,0
+90.53,New York,Tablet,22,0
+23.18,Tokyo,Mobile,18,0
+48.01,Dubai,Unknown,15,0
+850.89,New York,Unknown,2,1
+55.49,Mumbai,Tablet,23,0
+9.55,New York,Desktop,4,0
+8.84,Sydney,Mobile,2,0
+53.02,Mumbai,Unknown,7,1
+20.2,Tokyo,Tablet,14,0
+58.21,London,Unknown,13,0
+1178.3,Paris,Unknown,5,1
+21.42,Dubai,Mobile,12,0
+12.09,Dubai,Tablet,11,0
+29.95,Sydney,Mobile,9,0
+75.69,London,Mobile,13,0
+63.58,Toronto,Unknown,15,0
+26.04,Toronto,Mobile,1,0
+20.93,Tokyo,Tablet,9,0
+31.29,Mumbai,Desktop,7,0
+18.34,Toronto,Tablet,19,0
+6.99,Paris,Mobile,6,0
+22.59,New York,Mobile,20,0
+107.45,Tokyo,Mobile,17,0
+165.81,Paris,Desktop,18,0
+197.21,London,Desktop,16,1
+316.14,Sydney,Desktop,6,1
+11.15,Dubai,Tablet,12,0
+39.23,Tokyo,Desktop,12,0
+232.57,Sydney,Unknown,11,0
+10.19,London,Desktop,9,0
+16.25,Mumbai,Mobile,17,0
+33.02,New York,Desktop,21,0
+18.67,New York,Tablet,0,0
+146.01,Mumbai,Mobile,15,0
+20.63,Mumbai,Mobile,7,0
+24.05,New York,Tablet,7,0
+8.61,Paris,Mobile,7,0
+36.66,Mumbai,Unknown,22,0
+40.58,Toronto,Mobile,11,0
+28.48,Dubai,Unknown,11,0
+45.88,New York,Tablet,11,0
+32.77,Toronto,Unknown,9,0
+1057.27,Mumbai,Unknown,20,1
+22.41,London,Mobile,14,0
+28.02,Mumbai,Mobile,7,0
+61.17,New York,Mobile,19,0
+27.23,Tokyo,Tablet,18,0
+217.62,London,Mobile,8,0
+50.6,Tokyo,Mobile,2,1
+7.86,Dubai,Desktop,9,0
+27.35,Mumbai,Desktop,9,0
+25.69,Dubai,Mobile,11,0
+47.61,Mumbai,Desktop,13,0
+19.9,Tokyo,Mobile,18,0
+29.44,Toronto,Tablet,2,0
+4.63,Toronto,Tablet,7,0
+17.82,Mumbai,Tablet,13,0
+53.35,Tokyo,Mobile,6,0
+172.66,Tokyo,Unknown,17,0
+17.63,Mumbai,Mobile,12,0
+11.93,London,Mobile,20,0
+36.55,Toronto,Tablet,14,0
+132.66,Toronto,Desktop,23,0
+43.29,Sydney,Desktop,9,0
+20.03,Mumbai,Desktop,16,0
+56.39,Mumbai,Desktop,6,0
+151.14,New York,Mobile,5,0
+9.92,New York,Desktop,19,0
+31.61,Paris,Desktop,9,0
+213.62,Tokyo,Mobile,8,0
+29.2,London,Tablet,1,0
+64.28,London,Desktop,13,0
+48.8,Sydney,Tablet,22,0
+79.62,Sydney,Unknown,20,0
+36.69,Dubai,Desktop,19,0
+3.43,New York,Mobile,7,0
+480.62,London,Desktop,15,1
+20.17,Toronto,Mobile,1,0
+103.42,Paris,Tablet,4,0
+106.79,Tokyo,Mobile,23,0
+77.49,Mumbai,Desktop,9,0
+9.89,Tokyo,Desktop,13,0
+50.04,Dubai,Unknown,6,1
+110.19,Sydney,Tablet,6,0
+20.89,Mumbai,Desktop,6,0
+16.43,Dubai,Unknown,4,0
+23.37,Mumbai,Mobile,10,0
+20.1,New York,Desktop,1,0
+75.2,Sydney,Tablet,16,0
+17.16,Dubai,Unknown,18,0
+58.17,Tokyo,Tablet,10,0
+36.75,Sydney,Desktop,3,0
+984.96,Mumbai,Mobile,2,1
+26.81,Sydney,Unknown,8,0
+61.03,New York,Desktop,21,0
+81.76,Mumbai,Tablet,4,0
+21.23,Mumbai,Desktop,5,0
+97.51,London,Mobile,8,0
+6.53,Paris,Desktop,18,0
+92.52,Toronto,Tablet,18,0
+29.6,Paris,Mobile,4,1
+9.22,Mumbai,Unknown,8,0
+67.58,New York,Desktop,23,0
+33.61,Mumbai,Tablet,10,0
+356.4,London,Unknown,2,1
+1.62,Tokyo,Tablet,17,0
+40.11,Toronto,Mobile,16,0
+28.34,Sydney,Unknown,11,0
+25.96,Dubai,Unknown,12,0
+33.81,Paris,Unknown,12,0
+158.46,London,Mobile,18,0
+27.99,Tokyo,Unknown,4,0
+33.95,New York,Desktop,8,0
+30.88,London,Unknown,18,0
+17.96,Tokyo,Unknown,18,0
+90.82,Dubai,Mobile,9,0
+28.61,Dubai,Desktop,15,0
+35.18,Dubai,Desktop,17,0
+9.06,Dubai,Desktop,10,0
+8.6,New York,Unknown,13,0
+28.15,London,Tablet,7,0
+25.9,Toronto,Tablet,20,0
+80.52,London,Desktop,14,0
+18.28,London,Mobile,3,0
+9.69,Tokyo,Mobile,23,0
+855.66,London,Desktop,18,1
+33.02,Paris,Desktop,13,0
+182.82,Mumbai,Mobile,5,0
+7.16,Toronto,Unknown,18,0
+39.18,London,Mobile,8,0
+107.07,Paris,Tablet,1,0
+38.54,London,Desktop,21,0
+32.28,Toronto,Desktop,18,0
+18.62,Paris,Mobile,16,0
+103.69,Sydney,Unknown,0,0
+3.41,Tokyo,Tablet,22,0
+14.85,Dubai,Mobile,8,0
+5.74,Paris,Unknown,10,0
+32.97,Toronto,Desktop,14,0
+85.02,London,Tablet,0,0
+53.79,Tokyo,Tablet,21,0
+10.94,New York,Desktop,19,0
+5.1,New York,Mobile,11,0
+10.74,Paris,Desktop,6,0
+267.4,Paris,Tablet,10,0
+18.48,Tokyo,Desktop,0,0
+125.0,Mumbai,Unknown,6,0
+58.05,Dubai,Unknown,5,0
+78.15,Dubai,Mobile,12,0
+7.53,Paris,Unknown,23,0
+55.1,Sydney,Tablet,15,0
+50.27,Tokyo,Mobile,10,0
+58.91,Mumbai,Desktop,19,0
+90.66,Dubai,Mobile,11,0
+27.5,Tokyo,Mobile,9,0
+29.02,Tokyo,Mobile,17,0
+50.43,Paris,Desktop,20,0
+13.88,Mumbai,Unknown,0,0
+365.09,Mumbai,Unknown,17,1
+26.23,Sydney,Mobile,16,0
+3.53,Dubai,Unknown,13,0
+25.07,London,Mobile,7,0
+64.16,Tokyo,Desktop,0,0
+54.26,Toronto,Tablet,10,0
+13.85,Dubai,Desktop,8,0
+28.74,Paris,Desktop,23,0
+10.89,Tokyo,Mobile,17,0
+12.87,Dubai,Mobile,10,0
+25.63,Tokyo,Desktop,4,0
+9.58,Mumbai,Tablet,11,0
+121.14,Tokyo,Tablet,6,0
+18.35,Mumbai,Desktop,12,0
+145.38,Tokyo,Tablet,14,0
+3.67,Tokyo,Unknown,6,0
+22.49,New York,Desktop,0,0
+47.94,Dubai,Unknown,18,0
+14.95,Tokyo,Mobile,16,0
+26.17,Toronto,Desktop,11,0
+14.81,Paris,Tablet,17,0
+23.61,New York,Unknown,8,0
+148.19,Tokyo,Unknown,7,1
+6.74,London,Tablet,11,0
+219.11,New York,Tablet,11,0
+4.74,New York,Tablet,16,0
+31.0,Paris,Unknown,17,0
+33.12,Mumbai,Mobile,12,0
+84.78,Mumbai,Tablet,11,0
+19.59,Sydney,Unknown,9,0
+274.17,Paris,Unknown,18,1
+16.36,London,Mobile,10,0
+7.9,Dubai,Mobile,10,0
+42.85,New York,Desktop,10,0
+288.66,London,Tablet,23,0
+41.48,New York,Mobile,14,0
+54.11,Sydney,Unknown,7,1
+1370.42,Paris,Unknown,17,1
+6.33,New York,Mobile,14,0
+44.88,Sydney,Unknown,8,0
+17.65,Sydney,Unknown,12,0
+50.31,New York,Desktop,16,0
+1014.93,Paris,Unknown,19,1
+157.92,Tokyo,Tablet,20,0
+39.84,Sydney,Desktop,12,0
+59.69,Dubai,Tablet,1,0
+11.02,Mumbai,Tablet,5,0
+29.08,London,Unknown,5,0
+66.9,Dubai,Desktop,9,0
+98.01,Tokyo,Tablet,8,0
+18.09,London,Desktop,12,0
+1062.21,Toronto,Mobile,0,1
+14.23,Mumbai,Desktop,22,0
+49.57,Tokyo,Mobile,20,0
+1315.38,London,Unknown,23,1
+28.14,London,Unknown,7,0
+14.59,Sydney,Desktop,17,0
+12.13,Dubai,Unknown,21,0
+40.95,Paris,Tablet,21,0
+16.58,Sydney,Unknown,23,0
+5.41,Toronto,Tablet,14,0
+112.16,Dubai,Unknown,5,0
+24.67,Toronto,Tablet,21,0
+602.91,Sydney,Unknown,4,1
+24.37,Dubai,Desktop,4,0
+101.76,Mumbai,Desktop,6,0
+63.25,Sydney,Desktop,0,0
+12.41,Sydney,Mobile,19,0
+193.64,Dubai,Desktop,0,0
+468.16,New York,Mobile,10,1
+107.26,Paris,Unknown,23,0
+1351.21,Toronto,Tablet,20,1
+186.09,Sydney,Mobile,11,0
+150.53,Sydney,Mobile,16,0
+80.96,London,Unknown,16,0
+4.44,Mumbai,Tablet,13,0
+15.5,Dubai,Mobile,7,0
+6.83,Sydney,Tablet,15,0
+3.61,Sydney,Tablet,3,0
+8.11,Sydney,Mobile,15,0
+144.22,London,Tablet,13,0
+70.73,Sydney,Tablet,14,0
+358.55,Sydney,Unknown,16,0
+1107.66,Dubai,Mobile,0,1
+24.69,Tokyo,Desktop,0,0
+48.6,New York,Desktop,12,0
+10.47,New York,Desktop,4,0
+45.97,Paris,Unknown,3,0
+73.46,New York,Unknown,20,0
+1046.17,New York,Tablet,2,1
+7.45,Sydney,Tablet,11,0
+74.77,London,Desktop,9,0
+25.96,Mumbai,Tablet,10,0
+97.54,New York,Mobile,17,0
+2.87,London,Desktop,3,0
+54.69,New York,Unknown,3,0
+24.6,New York,Tablet,1,0
+113.31,Dubai,Mobile,23,0
+1245.93,London,Unknown,1,1
+93.76,Sydney,Mobile,3,1
+121.86,New York,Unknown,1,0
+1196.26,Dubai,Unknown,2,1
+37.38,Toronto,Tablet,22,0
+27.17,Toronto,Tablet,6,0
+26.06,Toronto,Tablet,6,0
+18.0,Sydney,Desktop,1,0
+21.17,Tokyo,Mobile,16,0
+44.57,New York,Unknown,10,0
+47.77,New York,Tablet,19,0
+7.8,Sydney,Mobile,15,0
+10.9,Dubai,Tablet,5,0
+13.84,London,Unknown,16,0
+24.11,Mumbai,Desktop,8,0
+11.62,New York,Tablet,5,0
+35.88,Dubai,Mobile,4,0
+24.35,Mumbai,Mobile,15,0
+10.25,Tokyo,Mobile,13,0
+15.43,Tokyo,Unknown,23,0
+50.89,New York,Tablet,14,0
+56.64,Toronto,Desktop,21,0
+71.43,Sydney,Desktop,6,0
+53.31,Sydney,Unknown,9,0
+66.5,Tokyo,Tablet,17,0
+33.62,Tokyo,Unknown,11,0
+5.03,Toronto,Tablet,15,0
+14.13,Dubai,Mobile,15,0
+21.6,Tokyo,Mobile,11,0
+32.7,Toronto,Desktop,22,0
+100.47,Sydney,Tablet,20,0
+36.45,Tokyo,Unknown,7,0
+37.27,Sydney,Desktop,20,0
+54.18,Sydney,Tablet,10,0
+11.21,Mumbai,Tablet,22,0
+3.42,Tokyo,Desktop,9,0
+40.43,Tokyo,Unknown,15,0
+10.62,Tokyo,Tablet,11,0
+34.73,Toronto,Tablet,0,0
+218.9,Mumbai,Tablet,13,0
+83.55,Mumbai,Mobile,2,1
+65.17,Toronto,Tablet,22,0
+167.51,Sydney,Mobile,7,0
+85.42,Paris,Unknown,7,0
+62.34,Toronto,Mobile,23,0
+18.32,Sydney,Mobile,0,0
+35.37,Tokyo,Tablet,1,0
+31.39,Tokyo,Mobile,0,0
+15.41,Sydney,Unknown,17,0
+40.44,Toronto,Tablet,6,0
+44.82,New York,Unknown,18,0
+22.79,Paris,Unknown,8,0
+170.74,Toronto,Unknown,17,1
+76.1,Dubai,Mobile,18,0
+6.4,Paris,Tablet,0,0
+77.97,Sydney,Unknown,5,0
+50.05,New York,Tablet,18,0
+20.32,Sydney,Mobile,21,0
+155.17,Tokyo,Mobile,13,0
+60.02,Paris,Unknown,3,1
+29.96,London,Mobile,11,0
+11.82,Mumbai,Mobile,1,0
+29.16,Mumbai,Tablet,19,0
+15.11,Tokyo,Unknown,17,0
+36.28,London,Tablet,1,0
+6.71,London,Tablet,21,0
+16.39,Sydney,Tablet,17,0
+21.59,Paris,Tablet,6,0
+8.27,Tokyo,Desktop,14,0
+28.21,London,Mobile,20,0
+26.69,Paris,Desktop,9,0
+38.56,Sydney,Mobile,7,0
+72.68,Mumbai,Desktop,6,0
+46.72,Paris,Mobile,0,0
+124.7,Mumbai,Mobile,3,0
+81.77,Toronto,Desktop,10,0
+1.95,London,Desktop,10,0
+117.89,Sydney,Desktop,20,0
+63.95,Toronto,Mobile,18,0
+34.63,Mumbai,Mobile,9,0
+851.4,Dubai,Tablet,0,1
+22.37,Dubai,Mobile,5,0
+73.67,London,Tablet,2,0
+10.53,Mumbai,Mobile,2,0
+31.17,Dubai,Mobile,13,0
+94.56,New York,Unknown,17,1
+23.65,Dubai,Tablet,11,0
+8.6,Dubai,Desktop,12,0
+33.76,Tokyo,Mobile,11,0
+39.94,New York,Tablet,10,0
+35.93,Dubai,Desktop,17,0
+25.66,Sydney,Tablet,20,0
+45.91,New York,Desktop,12,0
+2.14,London,Tablet,12,0
+82.32,New York,Mobile,0,0
+101.97,London,Tablet,22,0
+177.39,Dubai,Unknown,11,0
+4.67,London,Tablet,22,0
+1234.42,Paris,Mobile,2,1
+164.24,London,Tablet,9,0
+15.76,Tokyo,Mobile,15,0
+1.45,London,Unknown,2,0
+44.4,London,Desktop,0,0
+9.64,Sydney,Desktop,6,0
+10.39,Paris,Desktop,22,0
+4.88,Tokyo,Desktop,10,0
+102.57,Dubai,Tablet,13,1
+16.63,New York,Mobile,19,0
+45.72,Dubai,Tablet,6,0
+77.61,Mumbai,Desktop,1,0
+21.81,Toronto,Desktop,19,0
+98.53,New York,Desktop,22,0
+133.42,Dubai,Tablet,12,0
+60.72,Dubai,Unknown,16,1
+16.25,New York,Desktop,6,0
+39.05,New York,Desktop,1,0
+26.49,Mumbai,Desktop,12,0
+88.21,Sydney,Desktop,20,0
+9.97,Paris,Tablet,4,0
+64.98,Toronto,Tablet,17,0
+54.42,London,Tablet,20,0
+60.87,Sydney,Tablet,14,0
+25.42,Sydney,Tablet,15,0
+18.21,Paris,Tablet,10,0
+148.34,Mumbai,Unknown,2,1
+14.28,New York,Tablet,14,0
+35.76,Mumbai,Mobile,16,0
+14.58,Sydney,Desktop,6,0
+629.15,London,Tablet,5,1
+51.54,Dubai,Desktop,15,0
+35.68,Toronto,Mobile,7,0
+7.9,Mumbai,Tablet,1,0
+32.79,Sydney,Tablet,9,0
+393.72,Dubai,Mobile,1,0
+124.14,Sydney,Mobile,23,0
+37.98,Mumbai,Mobile,12,0
+76.15,Sydney,Unknown,1,1
+56.71,Paris,Tablet,23,0
+44.52,Toronto,Mobile,1,0
+8.15,London,Tablet,9,0
+41.91,New York,Tablet,18,0
+95.65,Tokyo,Tablet,10,0
+8.39,Toronto,Tablet,10,0
+97.41,Toronto,Mobile,1,0
+133.66,New York,Unknown,20,1
+25.73,Dubai,Unknown,22,0
+134.53,Sydney,Tablet,16,0
+19.82,New York,Mobile,12,0
+21.84,New York,Desktop,5,0
+18.99,New York,Desktop,22,0
+14.28,Dubai,Desktop,12,0
+48.76,Sydney,Tablet,9,0
+2.63,London,Desktop,12,0
+24.98,Sydney,Mobile,18,0
+31.89,Mumbai,Tablet,8,0
+197.34,Mumbai,Unknown,11,1
+21.26,New York,Tablet,16,0
+18.6,Dubai,Unknown,10,0
+38.52,New York,Desktop,22,0
+79.29,Sydney,Mobile,4,0
+104.33,New York,Unknown,20,0
+46.28,Toronto,Tablet,16,0
+18.84,Dubai,Unknown,18,0
+35.28,Sydney,Desktop,18,0
+15.49,London,Tablet,6,0
+71.07,London,Tablet,1,0
+8.02,New York,Desktop,15,0
+20.18,London,Unknown,2,0
+173.21,Mumbai,Mobile,8,0
+41.53,Mumbai,Tablet,20,0
+36.86,Sydney,Desktop,14,0
+42.71,Sydney,Unknown,17,0
+15.7,Tokyo,Unknown,8,0
+39.83,New York,Mobile,13,0
+65.48,Paris,Tablet,5,0
+12.78,Sydney,Desktop,14,0
+45.8,London,Unknown,6,0
+23.09,New York,Desktop,2,0
+34.18,Sydney,Mobile,5,0
+56.86,London,Desktop,22,0
+508.27,New York,Unknown,4,1
+443.82,Dubai,Desktop,3,1
+626.33,Toronto,Unknown,4,1
+30.37,Sydney,Desktop,8,0
+17.66,Mumbai,Tablet,6,0
+8.0,Paris,Tablet,19,0
+5.81,New York,Tablet,19,0
+8.02,Mumbai,Desktop,12,0
+73.87,London,Unknown,14,0
+2.59,Toronto,Desktop,0,0
+6.6,Tokyo,Tablet,17,0
+16.74,Mumbai,Mobile,17,0
+108.36,New York,Mobile,2,0
+131.7,New York,Unknown,16,0
+38.82,Paris,Tablet,17,0
+11.04,New York,Mobile,11,0
+11.87,London,Desktop,18,0
+20.86,Dubai,Tablet,6,0
+103.59,Dubai,Mobile,17,0
+23.48,Tokyo,Desktop,21,0
+53.96,New York,Unknown,9,0
+8.93,New York,Unknown,10,0
+73.98,London,Unknown,9,0
+24.26,London,Desktop,13,0
+74.67,Tokyo,Mobile,13,0
+6.75,Paris,Desktop,4,0
+16.1,Toronto,Tablet,5,0
+168.17,Sydney,Desktop,14,0
+75.49,Dubai,Mobile,13,0
+1375.28,Tokyo,Tablet,20,1
+32.71,Toronto,Tablet,4,0
+973.59,Dubai,Unknown,6,1
+15.72,Sydney,Mobile,2,0
+11.53,Tokyo,Desktop,14,0
+483.18,London,Desktop,6,1
+3.38,Tokyo,Mobile,19,0
+26.74,Mumbai,Desktop,20,0
+8.19,Dubai,Unknown,4,0
+54.8,London,Tablet,11,0
+145.63,Paris,Unknown,13,0
+7.97,Tokyo,Desktop,1,0
+963.65,Mumbai,Unknown,10,1
+16.74,New York,Unknown,5,0
+21.94,Toronto,Unknown,6,0
+90.3,London,Unknown,22,0
+65.98,Mumbai,Desktop,5,0
+32.71,Sydney,Desktop,11,0
+27.74,London,Unknown,16,0
+76.82,Dubai,Tablet,14,0
+89.53,Sydney,Desktop,21,0
+48.05,Paris,Mobile,21,0
+14.35,Paris,Desktop,23,0
+30.74,Sydney,Desktop,19,0
+68.93,Tokyo,Unknown,9,1
+46.7,New York,Mobile,17,0
+37.42,Tokyo,Tablet,15,0
+19.83,London,Tablet,16,0
+141.89,London,Unknown,15,1
+54.13,London,Desktop,13,0
+87.53,Dubai,Mobile,8,0
+14.91,Dubai,Mobile,18,0
+94.22,Dubai,Desktop,2,1
+24.45,Sydney,Unknown,0,0
+257.41,London,Tablet,5,1
+38.27,Mumbai,Unknown,12,0
+148.16,Tokyo,Tablet,10,0
+37.65,London,Unknown,16,0
+543.27,Dubai,Unknown,21,1
+66.31,London,Unknown,18,0
+2.95,Paris,Tablet,0,0
+649.14,New York,Unknown,3,1
+4.41,Paris,Tablet,20,0
+379.77,Dubai,Unknown,2,1
+67.28,Dubai,Tablet,5,0
+58.38,Mumbai,Desktop,11,0
+74.1,Toronto,Desktop,2,1
+558.16,Toronto,Tablet,11,0
+53.84,Tokyo,Tablet,9,0
+65.93,New York,Unknown,16,0
+99.16,Mumbai,Unknown,12,0
+26.27,Mumbai,Tablet,17,0
+9.93,Paris,Desktop,6,0
+40.64,London,Mobile,21,0
+62.32,Paris,Desktop,13,0
+48.8,Toronto,Tablet,1,0
+48.4,Tokyo,Desktop,22,0
+19.91,Mumbai,Desktop,21,0
+7.36,Sydney,Mobile,20,0
+31.39,Paris,Unknown,15,0
+654.44,London,Unknown,0,1
+43.69,London,Mobile,8,0
+17.96,London,Desktop,14,0
+7.86,Toronto,Tablet,21,0
+47.42,Sydney,Unknown,15,0
+12.62,Paris,Mobile,7,0
+18.81,London,Tablet,0,0
+41.74,Tokyo,Mobile,16,0
+80.84,Dubai,Tablet,19,0
+24.13,Toronto,Desktop,20,0
+37.81,Paris,Tablet,9,0
+60.67,London,Desktop,18,0
+36.22,New York,Mobile,19,0
+8.02,Tokyo,Unknown,1,0
+587.01,London,Unknown,9,1
+245.49,Toronto,Mobile,15,0
+42.21,Paris,Mobile,12,0
+2255.25,Toronto,Mobile,18,1
+924.69,Tokyo,Unknown,4,1
+593.23,Sydney,Mobile,19,1
+4.91,Tokyo,Desktop,9,0
+129.24,Paris,Mobile,4,0
+52.21,Sydney,Desktop,18,0
+91.2,London,Mobile,0,0
+54.7,New York,Unknown,18,0
+112.27,Tokyo,Tablet,22,0
+73.04,New York,Mobile,8,0
+5.36,Toronto,Tablet,7,0
+20.7,Paris,Desktop,3,0
+11.68,London,Desktop,8,0
+134.3,Paris,Desktop,1,0
+25.44,Sydney,Mobile,16,0
+129.07,Toronto,Mobile,7,0
+7.42,Dubai,Unknown,3,0
+88.99,New York,Unknown,0,0
+20.67,Toronto,Tablet,8,0
+60.8,Toronto,Desktop,11,0
+162.69,Tokyo,Tablet,4,0
+25.9,Toronto,Tablet,10,0
+63.69,New York,Mobile,17,0
+55.76,Mumbai,Desktop,7,0
+185.11,Dubai,Tablet,21,0
+49.35,Sydney,Unknown,18,0
+76.82,Toronto,Unknown,5,0
+146.71,Dubai,Desktop,19,0
+14.29,Tokyo,Desktop,23,0
+51.18,Tokyo,Tablet,4,0
+500.31,Paris,Desktop,4,1
+13.36,Sydney,Mobile,1,0
+8.59,Dubai,Tablet,1,0
+619.37,London,Desktop,2,0
+47.28,London,Tablet,7,0
+121.49,Sydney,Unknown,1,0
+93.09,New York,Unknown,6,1
+4.9,Paris,Desktop,5,0
+27.25,London,Tablet,19,0
+4.12,Paris,Tablet,3,0
+8.61,Dubai,Desktop,8,0
+1658.44,Mumbai,Unknown,17,1
+5.1,Mumbai,Mobile,21,0
+18.6,New York,Unknown,5,0
+54.4,Tokyo,Mobile,17,0
+30.9,Tokyo,Unknown,16,0
+35.95,Paris,Mobile,15,0
+14.49,Sydney,Mobile,19,0
+31.77,Mumbai,Desktop,19,0
+19.33,Toronto,Tablet,2,0
+50.64,Mumbai,Desktop,15,0
+7.7,Sydney,Tablet,8,0
+1503.53,Tokyo,Unknown,17,1
+25.72,New York,Tablet,16,0
+124.6,Sydney,Mobile,19,0
+142.81,Mumbai,Tablet,5,0
+1189.99,Sydney,Unknown,19,1
+17.27,Paris,Unknown,12,0
+24.9,Tokyo,Mobile,1,0
+12.32,New York,Mobile,21,0
+574.36,London,Unknown,3,1
+29.21,London,Mobile,15,0
+166.67,Dubai,Mobile,0,0
+16.92,London,Tablet,15,0
+24.46,Tokyo,Desktop,14,0
+25.89,Tokyo,Tablet,19,0
+17.26,Paris,Desktop,20,0
+44.86,Paris,Desktop,23,0
+5.16,Dubai,Tablet,3,0
+29.59,New York,Unknown,16,0
+6.71,New York,Mobile,20,0
+27.63,Sydney,Mobile,8,0
+1369.1,Tokyo,Unknown,19,1
+36.6,Dubai,Unknown,16,0
+12.81,New York,Desktop,20,0
+11.73,Dubai,Mobile,23,0
+26.37,Paris,Unknown,9,0
+143.09,Sydney,Unknown,0,0
+20.51,Toronto,Tablet,7,0
+18.65,Toronto,Unknown,13,0
+128.65,Paris,Desktop,22,0
+19.3,Mumbai,Unknown,2,0
+242.01,Toronto,Unknown,11,0
+38.51,Dubai,Tablet,21,0
+151.21,Mumbai,Unknown,10,0
+5.44,Sydney,Tablet,6,0
+188.39,London,Tablet,11,0
+74.06,Mumbai,Desktop,22,0
+18.16,Sydney,Tablet,13,0
+43.43,Mumbai,Tablet,16,0
+36.03,Dubai,Unknown,5,0
+56.29,Tokyo,Mobile,20,0
+5.14,Mumbai,Desktop,14,0
+21.79,Mumbai,Desktop,14,0
+21.49,Toronto,Desktop,20,0
+55.81,Paris,Tablet,16,0
+268.89,Tokyo,Mobile,12,0
+67.74,Paris,Mobile,18,0
+15.49,Toronto,Mobile,4,0
+221.54,Mumbai,Tablet,14,0
+68.51,Paris,Desktop,16,1
+262.19,London,Desktop,21,1
+141.98,London,Unknown,23,0
+87.22,Tokyo,Unknown,10,1
+38.56,Tokyo,Mobile,12,0
+44.86,Dubai,Tablet,16,0
+104.81,New York,Tablet,20,0
+181.04,New York,Tablet,3,1
+14.12,Toronto,Tablet,8,0
+24.92,Tokyo,Tablet,12,0
+18.37,New York,Unknown,20,0
+3.23,Dubai,Unknown,20,0
+10.08,Mumbai,Mobile,1,0
+681.87,Sydney,Unknown,22,1
+90.46,Mumbai,Mobile,3,0
+35.29,London,Desktop,7,0
+46.84,Sydney,Tablet,5,0
+147.63,Toronto,Unknown,5,0
+64.92,Mumbai,Mobile,8,1
+102.79,New York,Tablet,7,0
+79.92,Paris,Unknown,13,1
+59.38,London,Mobile,7,0
+39.67,Tokyo,Desktop,7,0
+45.73,Dubai,Tablet,0,0
+38.88,London,Unknown,12,0
+13.0,New York,Tablet,15,0
+24.5,Sydney,Tablet,6,0
+4.85,Toronto,Unknown,23,0
+21.93,Tokyo,Mobile,13,0
+12.56,Tokyo,Tablet,9,0
+14.63,Tokyo,Tablet,15,0
+34.2,London,Unknown,12,0
+60.22,Toronto,Unknown,15,1
+6.23,Toronto,Tablet,12,0
+14.58,Mumbai,Tablet,11,0
+16.07,Toronto,Desktop,11,0
+88.07,Tokyo,Desktop,6,0
+49.4,Sydney,Desktop,14,0
+75.59,Dubai,Tablet,2,0
+144.12,Paris,Desktop,6,0
+67.41,Sydney,Tablet,16,0
+83.34,Paris,Unknown,6,0
+11.82,Tokyo,Mobile,9,0
+294.75,Mumbai,Desktop,1,0
+5.07,London,Unknown,13,0
+5.3,Toronto,Tablet,14,0
+930.92,Toronto,Tablet,12,0
+142.58,New York,Tablet,1,0
+49.75,Dubai,Mobile,14,0
+45.85,Tokyo,Mobile,21,0
+14.97,Dubai,Mobile,16,0
+24.0,Paris,Mobile,20,0
+17.61,New York,Mobile,10,0
+36.22,Mumbai,Unknown,8,0
+9.8,Mumbai,Mobile,21,0
+56.2,New York,Mobile,7,0
+28.75,London,Tablet,15,0
+14.28,Dubai,Tablet,19,0
+373.17,Tokyo,Unknown,4,1
+19.54,Dubai,Desktop,7,0
+35.97,Toronto,Tablet,6,0
+16.54,Tokyo,Unknown,1,0
+57.8,Mumbai,Desktop,12,0
+56.43,Sydney,Unknown,23,0
+42.16,Toronto,Tablet,11,0
+37.13,New York,Mobile,4,0
+19.92,Paris,Desktop,19,0
+621.98,Sydney,Mobile,8,1
+36.23,Paris,Desktop,5,0
+4.12,New York,Mobile,10,0
+385.71,Tokyo,Unknown,8,1
+453.19,Mumbai,Tablet,4,1
+4.15,Paris,Unknown,14,0
+62.55,Mumbai,Unknown,3,0
+32.04,London,Desktop,5,0
+14.59,London,Desktop,22,0
+1264.93,Mumbai,Desktop,4,1
+1039.62,New York,Desktop,20,1
+14.42,Mumbai,Tablet,12,0
+19.78,Dubai,Unknown,23,0
+10.29,New York,Unknown,3,0
+35.02,London,Desktop,17,0
+18.86,Dubai,Desktop,23,0
+36.92,Toronto,Tablet,7,0
+32.42,Dubai,Unknown,16,0
+42.34,Sydney,Tablet,0,0
+69.33,Dubai,Desktop,5,0
+77.93,Dubai,Mobile,21,0
+16.49,Tokyo,Desktop,2,0
+47.72,Paris,Tablet,7,0
+96.93,Dubai,Tablet,13,0
+15.03,Sydney,Mobile,0,0
+29.37,Mumbai,Tablet,16,0
+10.86,Paris,Desktop,7,0
+169.65,Paris,Desktop,1,0
+32.29,New York,Unknown,8,0
+52.3,London,Tablet,19,0
+7.28,Toronto,Mobile,13,0
+59.13,Toronto,Unknown,21,0
+226.86,Tokyo,Unknown,4,0
+3.29,Dubai,Desktop,16,0
+15.97,Toronto,Tablet,21,0
+79.59,London,Desktop,15,0
+92.82,Dubai,Mobile,17,0
+87.6,Toronto,Desktop,19,0
+54.4,London,Mobile,0,0
+100.33,Tokyo,Mobile,9,0
+15.6,Mumbai,Desktop,13,0
+335.35,Sydney,Tablet,16,1
+154.72,New York,Tablet,19,0
+4.31,Tokyo,Tablet,23,0
+26.08,Paris,Tablet,11,0
+41.62,Toronto,Unknown,9,0
+24.43,Dubai,Mobile,11,0
+36.53,New York,Desktop,1,0
+59.47,New York,Unknown,11,0
+15.84,Paris,Desktop,4,0
+36.42,Mumbai,Mobile,1,0
+10.76,Dubai,Unknown,8,0
+58.08,Toronto,Unknown,16,1
+484.76,New York,Unknown,21,1
+74.49,Mumbai,Desktop,10,0
+112.9,Dubai,Unknown,23,0
+311.09,Sydney,Unknown,5,1
+64.42,Toronto,Desktop,11,0
+6.36,Mumbai,Unknown,22,0
+107.01,Toronto,Mobile,3,1
+1643.29,New York,Unknown,13,1
+18.28,New York,Tablet,0,0
+241.88,London,Unknown,20,0
+14.03,Toronto,Tablet,21,0
+43.08,London,Desktop,2,0
+302.15,Mumbai,Unknown,21,1
+15.11,Mumbai,Tablet,0,0
+31.8,Tokyo,Desktop,12,0
+9.41,New York,Tablet,23,0
+10.07,Dubai,Tablet,2,0
+6.68,Mumbai,Unknown,20,0
+17.01,Tokyo,Mobile,7,0
+945.98,London,Tablet,4,1
+35.49,London,Mobile,18,0
+56.87,Mumbai,Unknown,16,0
+41.34,Dubai,Desktop,22,0
+11.71,Tokyo,Mobile,4,0
+462.14,Sydney,Tablet,15,1
+23.59,London,Desktop,17,0
+11.82,Paris,Unknown,20,0
+23.12,New York,Mobile,19,0
+50.28,New York,Tablet,23,0
+42.78,London,Tablet,8,0
+153.09,Dubai,Desktop,10,0
+213.27,Sydney,Mobile,1,0
+16.79,Paris,Mobile,20,0
+44.38,Tokyo,Tablet,0,0
+9.8,Toronto,Unknown,22,0
+16.5,London,Desktop,12,0
+310.41,Tokyo,Unknown,9,0
+481.06,New York,Desktop,21,0
+539.87,Dubai,Tablet,23,1
+12.21,London,Mobile,2,0
+107.73,Sydney,Mobile,1,0
+145.63,Mumbai,Desktop,6,0
+2.21,Dubai,Mobile,15,0
+37.01,Sydney,Desktop,23,0
+347.66,London,Tablet,4,1
+6.8,Mumbai,Mobile,1,0
+17.47,Tokyo,Desktop,7,0
+19.44,Paris,Unknown,12,0
+21.81,Mumbai,Tablet,1,0
+89.91,Toronto,Unknown,21,0
+85.07,London,Tablet,21,0
+21.59,New York,Unknown,4,0
+264.11,Dubai,Unknown,0,1
+15.38,Sydney,Unknown,12,0
+20.26,Dubai,Unknown,1,0
+6.64,Mumbai,Tablet,19,0
+80.66,New York,Unknown,22,0
+20.98,London,Mobile,23,0
+1713.69,Toronto,Unknown,21,1
+10.44,Paris,Desktop,17,0
+340.36,New York,Unknown,20,1
+70.48,Sydney,Desktop,1,0
+26.63,Mumbai,Desktop,8,0
+1600.25,Mumbai,Unknown,4,1
+1994.5,Mumbai,Mobile,15,0
+28.48,London,Unknown,19,0
+12.19,Dubai,Tablet,15,0
+20.51,Toronto,Unknown,18,0
+27.39,Sydney,Desktop,3,0
+785.65,Dubai,Desktop,4,1
+5.74,New York,Unknown,3,0
+50.85,Sydney,Tablet,10,0
+23.19,New York,Mobile,2,0
+36.22,Sydney,Mobile,23,0
+39.14,Tokyo,Desktop,19,0
+44.92,Dubai,Desktop,14,0
+29.8,New York,Tablet,13,0
+153.32,Paris,Unknown,16,0
+16.16,Mumbai,Mobile,17,0
+63.56,Dubai,Tablet,18,1
+51.75,London,Unknown,4,0
+46.62,London,Desktop,6,0
+302.36,Paris,Unknown,3,0
+24.87,Mumbai,Unknown,7,0
+313.47,New York,Unknown,12,0
+33.76,Paris,Desktop,4,0
+57.14,Toronto,Tablet,9,0
+55.71,Paris,Unknown,8,0
+16.91,Tokyo,Desktop,15,0
+29.83,New York,Tablet,7,0
+60.44,Toronto,Unknown,20,0
+37.83,Mumbai,Mobile,21,0
+72.64,New York,Desktop,4,1
+15.84,Dubai,Unknown,18,0
+34.85,London,Tablet,17,0
+5.81,Dubai,Mobile,7,0
+19.23,Paris,Tablet,1,0
+505.98,Mumbai,Tablet,12,1
+28.81,Paris,Unknown,12,0
+71.94,Tokyo,Mobile,21,0
+72.73,Sydney,Unknown,10,0
+46.78,Dubai,Unknown,3,0
+22.5,Paris,Mobile,8,0
+20.08,Sydney,Tablet,19,0
+25.45,Paris,Desktop,14,0
+224.5,Mumbai,Unknown,21,0
+13.02,Mumbai,Tablet,12,0
+6.24,Toronto,Desktop,5,0
+264.93,Mumbai,Desktop,14,0
+38.97,New York,Unknown,22,0
+41.86,Paris,Unknown,10,0
+24.71,Tokyo,Mobile,12,0
+24.84,Dubai,Unknown,6,0
+128.21,Tokyo,Mobile,0,0
+18.22,Toronto,Mobile,8,0
+59.33,Dubai,Mobile,20,0
+39.01,London,Tablet,12,0
+99.46,New York,Mobile,7,0
+167.27,London,Mobile,12,0
+50.96,Mumbai,Desktop,11,0
+10.55,Dubai,Desktop,15,0
+5.48,Tokyo,Mobile,3,0
+55.62,Tokyo,Tablet,15,0
+77.78,Paris,Desktop,3,1
+195.34,Paris,Mobile,17,0
+88.77,Sydney,Desktop,8,0
+29.71,Dubai,Mobile,9,0
+26.5,Tokyo,Desktop,4,0
+195.75,Sydney,Mobile,8,0
+59.32,Dubai,Tablet,0,0
+90.41,Dubai,Tablet,18,0
+24.24,Paris,Unknown,23,0
+95.19,New York,Tablet,2,0
+46.22,Sydney,Mobile,23,0
+48.2,Toronto,Unknown,22,0
+35.91,Paris,Unknown,1,0
+4.9,Sydney,Desktop,11,0
+39.33,Mumbai,Tablet,19,0
+18.96,London,Tablet,5,0
+12.88,Tokyo,Unknown,11,0
+18.97,Paris,Unknown,8,0
+202.95,London,Mobile,16,0
+36.28,Sydney,Unknown,10,0
+176.15,Toronto,Unknown,9,0
+12.35,Sydney,Mobile,13,0
+47.22,New York,Desktop,19,0
+14.52,Mumbai,Mobile,11,0
+62.4,Toronto,Unknown,3,0
+6.36,Tokyo,Unknown,1,0
+9.41,New York,Mobile,17,0
+84.95,New York,Desktop,14,0
+60.38,Toronto,Desktop,17,0
+10.51,Paris,Desktop,17,0
+29.55,Paris,Mobile,1,0
+10.32,London,Tablet,16,0
+59.24,London,Desktop,7,0
+51.63,Dubai,Tablet,4,1
+82.95,Sydney,Mobile,1,0
+51.89,New York,Tablet,13,0
+52.66,London,Tablet,6,0
+29.64,Paris,Desktop,23,0
+382.83,Mumbai,Mobile,2,1
+11.6,Sydney,Desktop,10,0
+1013.94,Tokyo,Mobile,2,1
+23.91,Tokyo,Unknown,14,0
+100.09,New York,Unknown,17,0
+13.11,London,Tablet,18,0
+70.16,Paris,Unknown,7,1
+9.28,Dubai,Unknown,23,0
+96.4,New York,Unknown,4,0
+137.23,New York,Tablet,20,0
+79.05,Mumbai,Mobile,2,0
+31.26,Sydney,Tablet,23,0
+2.3,Paris,Mobile,18,0
+76.02,Mumbai,Unknown,6,0
+11.15,Paris,Unknown,23,0
+160.81,London,Tablet,16,0
+239.34,New York,Mobile,4,0
+12.03,Sydney,Desktop,23,0
+5.03,Tokyo,Mobile,10,0
+32.6,Tokyo,Unknown,15,0
+30.28,Toronto,Tablet,12,0
+25.27,Tokyo,Unknown,15,0
+33.83,Dubai,Mobile,0,0
+2.83,New York,Desktop,11,0
+46.03,London,Mobile,2,0
+21.84,Sydney,Tablet,9,0
+18.6,Mumbai,Desktop,16,0
+8.23,Dubai,Tablet,3,0
+20.97,Paris,Desktop,9,0
+23.37,Paris,Tablet,14,0
+153.16,New York,Unknown,23,1
+279.24,London,Desktop,1,0
+63.55,Tokyo,Tablet,18,0
+6.74,New York,Desktop,21,0
+43.8,Paris,Unknown,22,0
+3.06,London,Desktop,16,0
+93.04,Mumbai,Mobile,20,0
+39.45,Toronto,Unknown,5,0
+613.54,New York,Desktop,19,0
+57.11,Paris,Tablet,9,0
+4.33,Dubai,Tablet,13,0
+57.49,Paris,Mobile,13,0
+52.01,Mumbai,Tablet,21,0
+1.14,London,Unknown,13,0
+16.48,London,Desktop,9,0
+136.92,Mumbai,Tablet,19,0
+91.03,Tokyo,Unknown,18,1
+15.28,New York,Desktop,20,0
+231.68,London,Unknown,12,1
+17.82,Mumbai,Desktop,19,0
+1083.57,Paris,Unknown,16,1
+28.98,London,Unknown,16,0
+85.09,Mumbai,Tablet,16,0
+611.59,Paris,Desktop,1,1
+50.5,New York,Tablet,16,0
+95.76,Sydney,Unknown,6,0
+1.72,Dubai,Mobile,22,0
+30.67,Dubai,Mobile,0,0
+31.59,Toronto,Unknown,19,0
+16.9,London,Unknown,10,0
+19.62,London,Mobile,0,0
+31.87,London,Mobile,9,0
+12.81,Mumbai,Tablet,5,0
+162.09,Toronto,Unknown,16,0
+48.98,London,Tablet,5,0
+1210.25,London,Unknown,14,1
+89.25,Mumbai,Tablet,9,0
+11.0,Sydney,Unknown,8,0
+12.5,Tokyo,Tablet,12,0
+2.99,Toronto,Tablet,11,0
+721.57,London,Mobile,15,1
+17.37,Dubai,Unknown,5,0
+78.01,Tokyo,Desktop,18,0
+15.7,Tokyo,Mobile,15,0
+23.7,Toronto,Tablet,5,0
+246.28,Sydney,Desktop,3,1
+23.19,Toronto,Desktop,22,0
+6.93,Mumbai,Mobile,0,0
+18.49,Tokyo,Desktop,15,0
+12.98,Dubai,Unknown,8,0
+92.32,London,Tablet,8,0
+9.87,Tokyo,Unknown,10,0
+451.87,New York,Unknown,23,0
+44.75,Sydney,Unknown,9,0
+63.94,London,Tablet,9,0
+10.54,Paris,Tablet,20,0
+43.45,Mumbai,Unknown,16,0
+14.27,Toronto,Tablet,15,0
+31.52,Paris,Tablet,0,0
+6.32,Paris,Tablet,4,0
+125.02,London,Desktop,3,0
+26.05,Toronto,Unknown,10,0
+8.58,New York,Desktop,9,0
+67.54,Mumbai,Unknown,11,0
+162.17,New York,Unknown,18,1
+16.01,London,Mobile,16,0
+20.26,Toronto,Unknown,13,0
+59.11,New York,Tablet,4,0
+57.58,Sydney,Tablet,2,1
+16.18,Toronto,Unknown,18,0
+213.33,Mumbai,Unknown,4,1
+134.64,Sydney,Tablet,1,0
+42.33,Sydney,Unknown,20,0
+9.9,Paris,Mobile,2,0
+12.01,Dubai,Desktop,23,0
+835.34,Toronto,Unknown,1,1
+10.03,Sydney,Tablet,16,0
+42.23,Toronto,Unknown,23,0
+19.5,Toronto,Mobile,7,0
+6.6,Mumbai,Unknown,2,0
+169.88,London,Desktop,14,0
+44.19,London,Unknown,19,0
+16.23,Toronto,Mobile,7,0
+24.29,Dubai,Tablet,22,0
+66.7,Tokyo,Tablet,1,0
+9.23,Mumbai,Desktop,18,0
+8.56,Sydney,Tablet,23,0
+5.04,Tokyo,Tablet,7,0
+532.31,New York,Desktop,7,1
+59.34,New York,Unknown,20,0
+24.3,Dubai,Tablet,7,0
+40.26,Paris,Tablet,8,0
+249.27,Mumbai,Tablet,10,0
+134.66,Sydney,Desktop,2,0
+29.86,Toronto,Unknown,1,0
+5.95,Paris,Unknown,6,0
+5.69,Paris,Desktop,2,0
+15.74,London,Tablet,13,0
+229.21,Tokyo,Tablet,1,0
+25.0,Mumbai,Unknown,15,0
+840.08,Toronto,Unknown,14,1
+153.55,Tokyo,Unknown,16,1
+7.93,Sydney,Desktop,11,0
+256.83,London,Desktop,21,0
+9.34,Dubai,Mobile,10,0
+42.99,Dubai,Tablet,23,0
+26.81,London,Desktop,20,0
+14.66,London,Mobile,22,0
+56.44,Sydney,Desktop,4,1
+9.65,London,Unknown,20,0
+264.17,Mumbai,Desktop,9,0
+120.9,Dubai,Unknown,0,0
+159.41,New York,Desktop,13,0
+10.15,Sydney,Desktop,11,0
+194.86,Sydney,Desktop,8,0
+244.77,Tokyo,Mobile,1,0
+35.12,London,Tablet,14,0
+19.87,Dubai,Tablet,14,0
+40.31,Tokyo,Tablet,12,0
+11.15,Toronto,Mobile,22,0
+12.08,New York,Unknown,15,0
+26.22,Paris,Mobile,0,0
+50.48,Dubai,Tablet,1,0
+21.19,Toronto,Unknown,6,0
+16.33,Mumbai,Desktop,6,0
+59.25,Tokyo,Desktop,6,0
+31.69,London,Mobile,16,0
+69.05,Mumbai,Desktop,5,0
+46.6,Toronto,Tablet,8,0
+28.64,Dubai,Unknown,18,0
+7.3,Mumbai,Mobile,17,0
+30.84,Sydney,Desktop,18,0
+20.42,Tokyo,Tablet,19,0
+18.27,Tokyo,Unknown,13,0
+39.95,Mumbai,Tablet,23,0
+102.97,Tokyo,Tablet,17,1
+54.82,London,Mobile,8,0
+17.5,New York,Desktop,18,0
+77.86,Dubai,Tablet,1,0
+45.82,London,Desktop,1,0
+30.69,Dubai,Tablet,10,0
+302.99,Dubai,Tablet,4,1
+47.01,Sydney,Mobile,14,0
+51.82,Sydney,Desktop,9,0
+114.25,Mumbai,Desktop,3,0
+825.52,Sydney,Desktop,23,1
+14.05,Tokyo,Tablet,16,0
+121.86,Sydney,Unknown,12,0
+14.77,London,Tablet,4,0
+14.37,Sydney,Unknown,13,0
+52.45,Toronto,Desktop,21,0
+49.45,Sydney,Desktop,5,0
+465.79,Tokyo,Unknown,3,1
+14.78,Dubai,Desktop,16,0
+17.83,Dubai,Unknown,4,0
+18.16,London,Desktop,23,0
+163.23,Mumbai,Tablet,15,0
+78.82,Tokyo,Unknown,12,0
+15.28,London,Mobile,0,0
+61.21,London,Unknown,10,0
+189.03,Dubai,Unknown,5,0
+10.06,Toronto,Desktop,19,0
+74.93,New York,Desktop,7,0
+216.5,Sydney,Unknown,4,1
+3.31,Mumbai,Desktop,20,0
+24.42,New York,Unknown,7,0
+3.63,Sydney,Unknown,11,0
+42.74,Paris,Unknown,19,0
+277.13,Paris,Mobile,9,0
+74.01,Tokyo,Tablet,13,0
+34.94,Tokyo,Mobile,0,0
+18.71,Toronto,Mobile,18,0
+126.37,Sydney,Unknown,22,1
+33.61,Mumbai,Desktop,11,0
+58.43,Mumbai,Tablet,7,0
+14.19,Toronto,Desktop,21,0
+41.89,Dubai,Mobile,21,0
+73.99,Sydney,Unknown,17,0
+803.43,New York,Unknown,14,1
+98.5,Dubai,Desktop,2,0
+22.16,London,Mobile,12,0
+1415.98,Dubai,Tablet,4,1
+17.58,Tokyo,Unknown,14,0
+40.78,Tokyo,Mobile,21,0
+92.07,Sydney,Mobile,21,0
+72.53,Tokyo,Unknown,14,0
+24.65,New York,Unknown,20,0
+20.06,Toronto,Desktop,1,0
+16.29,Toronto,Tablet,7,0
+34.96,Dubai,Tablet,23,0
+43.62,London,Unknown,9,0
+29.72,Dubai,Desktop,18,0
+1000.58,Toronto,Unknown,16,1
+70.5,Paris,Mobile,6,0
+48.32,Mumbai,Tablet,7,0
+7.45,Tokyo,Mobile,14,0
+46.23,Toronto,Tablet,4,0
+10.02,Dubai,Desktop,2,0
+9.84,Sydney,Mobile,20,0
+42.16,Paris,Mobile,19,0
+976.43,London,Unknown,1,1
+32.73,London,Desktop,21,0
+23.88,Mumbai,Mobile,7,0
+296.79,Tokyo,Mobile,20,0
+60.41,Tokyo,Unknown,6,0
+28.99,Dubai,Mobile,20,0
+66.61,Sydney,Desktop,18,0
+19.74,Toronto,Desktop,22,0
+87.28,Dubai,Mobile,1,0
+18.48,Paris,Tablet,4,0
+5.7,Sydney,Desktop,6,0
+3.35,Dubai,Unknown,9,0
+1.75,Dubai,Mobile,15,0
+5.19,Paris,Desktop,19,0
+22.18,Sydney,Unknown,15,0
+76.82,Mumbai,Tablet,11,0
+1664.21,Dubai,Unknown,11,1
+92.07,Dubai,Desktop,23,0
+190.39,Mumbai,Tablet,22,0
+23.67,Paris,Mobile,11,0
+6.28,Dubai,Mobile,18,0
+13.57,Sydney,Unknown,2,0
+40.29,Mumbai,Unknown,5,0
+69.62,London,Unknown,14,0
+7.88,Toronto,Unknown,16,0
+19.77,Toronto,Desktop,23,0
+286.86,London,Mobile,0,0
+8.83,Dubai,Mobile,11,0
+4.88,Paris,Tablet,14,0
+10.79,London,Desktop,21,0
+6.91,Toronto,Tablet,21,0
+69.23,Tokyo,Desktop,12,0
+21.89,New York,Mobile,15,0
+9.29,New York,Unknown,12,0
+14.87,London,Tablet,1,0
+28.38,Paris,Unknown,22,0
+75.49,Toronto,Desktop,4,0
+60.87,Sydney,Desktop,19,1
+110.53,London,Desktop,0,0
+13.13,Dubai,Mobile,20,0
+145.42,New York,Tablet,9,0
+12.36,Mumbai,Unknown,19,0
+16.31,London,Unknown,13,0
+84.31,Mumbai,Desktop,6,0
+139.55,Dubai,Mobile,16,0
+31.86,Sydney,Mobile,2,0
+60.07,Paris,Unknown,6,0
+9.96,Paris,Desktop,11,0
+28.37,Paris,Unknown,16,0
+15.19,New York,Mobile,1,0
+17.69,Paris,Mobile,3,0
+242.03,Sydney,Unknown,22,0
+113.64,Dubai,Tablet,12,0
+80.26,Paris,Desktop,16,0
+11.52,Mumbai,Desktop,6,0
+43.38,New York,Unknown,10,0
+44.99,Sydney,Tablet,3,0
+180.37,New York,Tablet,23,1
+41.8,Tokyo,Mobile,17,0
+21.09,London,Tablet,6,0
+22.2,Mumbai,Mobile,9,0
+8.84,Toronto,Tablet,3,0
+51.75,London,Mobile,12,0
+44.36,New York,Desktop,17,0
+54.27,Tokyo,Tablet,11,1
+30.24,Sydney,Tablet,9,0
+29.6,Mumbai,Tablet,4,0
+9.56,Tokyo,Tablet,18,0
+4.81,Sydney,Mobile,19,0
+154.02,Sydney,Mobile,12,0
+45.4,Tokyo,Tablet,20,0
+19.53,Paris,Mobile,14,0
+67.14,Dubai,Mobile,0,0
+24.13,Toronto,Desktop,19,0
+28.91,London,Tablet,8,0
+36.33,Sydney,Tablet,12,0
+262.54,Tokyo,Desktop,16,0
+7.88,Tokyo,Unknown,12,0
+14.63,Paris,Tablet,9,0
+35.86,Paris,Tablet,23,0
+534.17,Toronto,Mobile,12,1
+8.75,Tokyo,Unknown,0,0
+18.65,Toronto,Mobile,4,0
+60.69,Sydney,Desktop,12,0
+37.12,New York,Unknown,13,0
+6.41,Toronto,Desktop,17,0
+74.98,London,Tablet,15,0
+47.87,Toronto,Desktop,12,0
+56.83,Sydney,Desktop,10,0
+19.19,Paris,Mobile,9,0
+39.4,Mumbai,Tablet,14,0
+28.42,Toronto,Desktop,0,0
+130.19,Toronto,Unknown,3,1
+826.24,London,Unknown,0,1
+76.44,London,Tablet,7,0
+28.7,Paris,Tablet,7,0
+8.07,Mumbai,Tablet,5,0
+42.24,Dubai,Desktop,22,0
+242.83,Sydney,Desktop,12,1
+8.55,Dubai,Unknown,20,0
+148.88,London,Tablet,1,0
+10.13,Tokyo,Tablet,23,0
+28.74,Dubai,Tablet,20,0
+36.09,Paris,Unknown,23,0
+150.55,Tokyo,Mobile,21,0
+87.48,London,Desktop,0,0
+24.25,Tokyo,Desktop,9,0
+99.37,Mumbai,Desktop,12,1
+36.34,Dubai,Mobile,5,0
+25.09,Paris,Unknown,11,0
+26.12,Tokyo,Tablet,9,0
+10.21,Mumbai,Mobile,13,0
+16.08,London,Desktop,15,0
+70.77,Dubai,Desktop,17,0
+45.69,Dubai,Unknown,7,0
+18.7,Sydney,Unknown,15,0
+31.23,London,Tablet,12,0
+28.46,Paris,Tablet,7,0
+152.92,New York,Unknown,16,1
+370.55,Paris,Mobile,16,0
+112.59,Mumbai,Tablet,23,0
+8.24,Paris,Tablet,9,0
+158.25,Dubai,Unknown,2,1
+5.41,Toronto,Tablet,21,0
+31.66,Tokyo,Desktop,2,0
+13.79,Paris,Unknown,15,0
+6.89,Mumbai,Tablet,8,0
+49.15,Mumbai,Tablet,22,0
+4.28,Toronto,Unknown,0,0
+17.33,Paris,Tablet,7,0
+4.68,Sydney,Mobile,18,0
+133.51,Sydney,Mobile,21,0
+24.85,London,Desktop,19,0
+27.44,Tokyo,Mobile,18,0
+20.59,Tokyo,Tablet,18,0
+69.54,Toronto,Unknown,20,0
+9.47,New York,Tablet,15,0
+231.37,Toronto,Desktop,11,0
+86.8,Sydney,Tablet,11,0
+50.74,Paris,Mobile,10,0
+94.71,Mumbai,Tablet,12,0
+16.93,Tokyo,Unknown,18,0
+734.89,New York,Unknown,21,1
+137.51,Toronto,Tablet,10,0
+36.86,New York,Mobile,21,0
+81.47,Paris,Unknown,21,1
+1531.75,Toronto,Unknown,18,1
+13.28,Sydney,Mobile,1,0
+695.81,New York,Unknown,16,1
+161.13,Dubai,Mobile,19,0
+52.8,Sydney,Mobile,10,0
+9.04,Dubai,Desktop,19,0
+84.73,Sydney,Tablet,11,0
+21.04,Paris,Desktop,5,0
+28.51,New York,Unknown,22,0
+1574.39,London,Unknown,4,1
+6.63,Toronto,Mobile,14,0
+118.43,London,Mobile,12,0
+59.97,Dubai,Unknown,6,0
+24.46,London,Tablet,6,0
+112.14,Paris,Unknown,12,1
+52.17,Dubai,Mobile,5,0
+151.05,New York,Unknown,6,0
+15.34,Sydney,Desktop,6,0
+21.22,Toronto,Unknown,1,0
+67.64,Dubai,Desktop,0,0
+63.46,Tokyo,Mobile,23,0
+9.41,Sydney,Tablet,7,0
+62.13,London,Desktop,22,0
+50.67,Mumbai,Mobile,15,0
+70.65,Paris,Tablet,5,0
+9.83,Paris,Tablet,12,0
+39.01,Sydney,Desktop,20,0
+9.93,London,Tablet,7,0
+22.64,Dubai,Unknown,14,0
+79.52,Dubai,Desktop,11,0
+37.34,Tokyo,Tablet,20,0
+23.11,Toronto,Unknown,19,0
+12.76,Dubai,Tablet,17,0
+66.27,Sydney,Desktop,19,0
+108.3,Sydney,Desktop,23,0
+13.72,Sydney,Tablet,5,0
+191.9,Dubai,Mobile,20,0
+477.94,New York,Tablet,4,1
+72.43,Toronto,Desktop,14,0
+29.4,Tokyo,Mobile,12,0
+891.78,Paris,Unknown,4,1
+29.68,Dubai,Mobile,1,0
+3.6,New York,Unknown,4,0
+104.32,London,Unknown,19,0
+13.67,Tokyo,Desktop,6,0
+95.33,Toronto,Unknown,5,0
+100.99,Mumbai,Tablet,4,0
+23.28,Sydney,Unknown,5,0
+51.65,Toronto,Unknown,0,0
+10.19,Dubai,Desktop,21,0
+28.24,Toronto,Unknown,8,0
+57.58,Toronto,Tablet,6,0
+24.94,Toronto,Tablet,7,0
+8.88,Toronto,Mobile,6,0
+94.61,New York,Tablet,15,0
+31.7,New York,Desktop,12,0
+24.96,London,Tablet,16,0
+1537.43,New York,Tablet,4,1
+26.18,Dubai,Tablet,14,0
+103.05,Dubai,Unknown,0,0
+47.79,Sydney,Desktop,5,0
+30.88,Toronto,Tablet,16,0
+148.46,New York,Tablet,5,0
+48.03,Dubai,Mobile,10,0
+61.76,Sydney,Desktop,10,0
+20.31,Dubai,Desktop,11,0
+115.98,Toronto,Tablet,16,0
+36.42,Dubai,Mobile,22,0
+65.78,New York,Mobile,21,0
+1148.34,Paris,Desktop,4,1
+54.98,Tokyo,Mobile,6,0
+56.21,New York,Unknown,22,0
+25.82,Toronto,Tablet,22,0
+38.42,Tokyo,Tablet,2,0
+87.45,New York,Unknown,14,0
+112.29,Paris,Desktop,21,0
+41.77,Sydney,Mobile,16,0
+28.15,Mumbai,Tablet,6,0
+51.77,New York,Desktop,21,0
+40.47,Sydney,Tablet,16,0
+19.37,London,Desktop,4,0
+5.51,Mumbai,Desktop,7,0
+52.87,New York,Tablet,17,0
+22.1,Sydney,Mobile,2,0
+272.99,New York,Desktop,23,0
+3.72,Tokyo,Mobile,22,0
+52.61,Tokyo,Mobile,22,0
+34.59,Mumbai,Unknown,15,0
+107.68,Toronto,Mobile,10,0
+122.65,Paris,Tablet,18,1
+29.49,Dubai,Tablet,15,0
+54.22,Mumbai,Desktop,13,0
+10.22,London,Tablet,4,0
+18.78,Mumbai,Mobile,17,0
+52.13,Tokyo,Tablet,16,0
+21.34,Toronto,Tablet,10,0
+139.21,Paris,Tablet,7,0
+18.96,Tokyo,Mobile,5,0
+34.68,New York,Mobile,8,0
+35.81,Mumbai,Desktop,6,0
+329.27,Dubai,Tablet,7,0
+15.41,London,Unknown,8,0
+43.83,Dubai,Mobile,14,0
+22.25,Mumbai,Unknown,8,0
+67.27,London,Unknown,6,0
+9.72,Tokyo,Tablet,8,0
+12.29,London,Desktop,6,0
+92.06,Sydney,Desktop,10,0
+59.94,London,Desktop,23,0
+42.07,Dubai,Tablet,10,0
+20.71,Dubai,Desktop,13,0
+36.81,Toronto,Mobile,22,0
+84.05,Mumbai,Unknown,3,0
+19.97,Tokyo,Mobile,22,0
+83.91,Mumbai,Desktop,0,0
+21.94,Dubai,Desktop,10,0
+12.9,Sydney,Mobile,3,0
+27.13,Mumbai,Desktop,17,0
+18.86,Tokyo,Tablet,8,0
+131.46,Toronto,Tablet,3,0
+6.34,New York,Desktop,12,0
+76.32,Mumbai,Desktop,2,1
+2201.42,Paris,Unknown,16,1
+27.36,Dubai,Tablet,7,0
+67.01,Mumbai,Mobile,13,0
+224.92,Toronto,Unknown,2,1
+3.91,Sydney,Tablet,11,0
+7.79,Paris,Desktop,1,0
+521.86,Paris,Unknown,4,1
+92.56,London,Tablet,9,0
+23.08,New York,Unknown,7,0
+77.58,Sydney,Mobile,5,0
+39.27,Sydney,Desktop,19,0
+174.06,Toronto,Unknown,21,0
+72.13,Paris,Mobile,15,0
+7.34,Dubai,Desktop,0,0
+13.15,Paris,Mobile,17,0
+8.86,Sydney,Mobile,1,0
+168.05,New York,Desktop,21,0
+155.21,Tokyo,Tablet,2,1
+26.7,Sydney,Tablet,18,0
+12.36,Tokyo,Desktop,14,0
+38.71,Toronto,Tablet,0,0
+102.18,Mumbai,Tablet,7,0
+31.97,New York,Desktop,16,0
+74.39,Paris,Tablet,11,0
+83.95,Tokyo,Unknown,8,1
+36.55,Mumbai,Tablet,16,0
+17.73,Mumbai,Unknown,23,0
+24.84,New York,Unknown,0,0
+51.51,Toronto,Tablet,14,0
+3.33,New York,Tablet,6,0
+203.07,Paris,Unknown,9,0
+65.36,Paris,Unknown,6,0
+35.91,Paris,Desktop,2,0
+75.02,Toronto,Desktop,1,0
+136.79,New York,Desktop,14,0
+24.5,Mumbai,Unknown,8,0
+10.22,Sydney,Tablet,12,0
+53.37,Tokyo,Desktop,15,0
+39.36,Tokyo,Mobile,23,0
+43.52,Tokyo,Unknown,20,0
+339.08,Paris,Unknown,3,0
+24.21,Mumbai,Desktop,15,0
+54.72,Sydney,Mobile,8,0
+21.81,Paris,Mobile,5,0
+12.44,Toronto,Tablet,13,0
+209.98,Sydney,Desktop,0,0
+9.99,Sydney,Mobile,23,0
+33.74,Mumbai,Desktop,6,0
+115.7,New York,Unknown,11,0
+37.09,Mumbai,Tablet,15,0
+312.23,Toronto,Unknown,2,1
+43.98,Tokyo,Unknown,15,0
+85.45,Toronto,Tablet,14,1
+7.27,Paris,Tablet,19,0
+60.03,Paris,Unknown,6,1
+90.11,Paris,Tablet,6,0
+65.91,Toronto,Mobile,0,0
+32.87,Tokyo,Unknown,3,0
+20.59,Mumbai,Mobile,7,0
+6.91,New York,Mobile,4,0
+124.73,Mumbai,Tablet,11,1
+10.33,Sydney,Tablet,12,0
+105.19,Dubai,Unknown,11,0
+2.22,London,Mobile,12,0
+11.77,Tokyo,Mobile,5,0
+66.49,New York,Desktop,9,0
+19.53,Tokyo,Tablet,8,0
+31.98,Tokyo,Mobile,14,0
+30.21,Toronto,Unknown,15,0
+12.54,Mumbai,Unknown,15,0
+436.53,Paris,Mobile,18,0
+13.31,Toronto,Mobile,2,0
+13.65,New York,Mobile,20,0
+88.27,New York,Mobile,19,0
+452.01,Mumbai,Unknown,21,1
+39.06,Dubai,Desktop,17,0
+47.71,Tokyo,Desktop,8,0
+73.61,Sydney,Tablet,10,0
+43.14,Mumbai,Unknown,8,0
+10.31,Toronto,Tablet,15,0
+4.79,Sydney,Desktop,4,0
+18.92,London,Desktop,13,0
+26.82,Paris,Desktop,18,0
+9.45,Dubai,Unknown,15,0
+18.67,Sydney,Unknown,22,0
+557.88,Dubai,Unknown,0,1
+35.52,Mumbai,Mobile,0,0
+62.27,Mumbai,Tablet,20,0
+74.24,Dubai,Unknown,7,0
+81.22,London,Tablet,12,0
+470.09,Sydney,Tablet,3,1
+21.57,Sydney,Tablet,22,0
+16.81,Tokyo,Mobile,21,0
+4.54,Mumbai,Desktop,19,0
+36.94,Tokyo,Mobile,16,0
+33.25,Paris,Desktop,23,0
+1212.12,Sydney,Unknown,19,1
+44.45,Tokyo,Mobile,5,0
+201.22,Paris,Unknown,21,0
+433.44,Toronto,Unknown,0,1
+227.03,New York,Desktop,14,0
+57.04,Toronto,Mobile,1,0
+30.57,Tokyo,Mobile,14,0
+40.17,Dubai,Unknown,5,0
+8.76,Mumbai,Unknown,11,0
+5.29,Toronto,Mobile,12,0
+31.37,Dubai,Desktop,6,0
+321.5,Sydney,Tablet,14,0
+6.54,Toronto,Unknown,15,0
+2.65,Dubai,Unknown,19,0
+37.7,Paris,Tablet,7,0
+113.66,Tokyo,Unknown,23,0
+22.45,Sydney,Tablet,12,0
+108.12,New York,Unknown,2,1
+15.31,Tokyo,Mobile,15,0
+316.92,Tokyo,Unknown,0,0
+107.22,Sydney,Tablet,13,0
+10.74,London,Unknown,2,0
+16.88,Tokyo,Tablet,11,0
+28.17,New York,Tablet,20,0
+16.01,Toronto,Unknown,20,0
+5.5,Tokyo,Tablet,3,0
+17.46,London,Desktop,8,0
+62.62,Sydney,Tablet,7,0
+25.02,London,Tablet,2,0
+315.41,Mumbai,Mobile,18,0
+55.43,Tokyo,Unknown,19,1
+15.15,Toronto,Tablet,19,0
+73.22,Toronto,Mobile,5,0
+25.04,Dubai,Tablet,5,0
+12.06,New York,Tablet,9,0
+44.3,Tokyo,Mobile,9,0
+61.58,Tokyo,Tablet,12,0
+25.5,Paris,Desktop,14,0
+71.61,Tokyo,Unknown,9,0
+57.13,Sydney,Mobile,13,0
+21.8,Toronto,Desktop,9,0
+120.34,Tokyo,Tablet,16,0
+9.41,Sydney,Tablet,9,0
+102.17,Mumbai,Unknown,3,0
+266.67,Tokyo,Mobile,12,0
+57.19,Mumbai,Desktop,15,0
+34.92,Paris,Mobile,2,0
+23.74,Mumbai,Desktop,8,0
+46.71,Tokyo,Tablet,4,0
+27.7,Mumbai,Desktop,18,0
+1307.35,Toronto,Desktop,2,1
+34.44,Dubai,Desktop,13,0
+56.69,Tokyo,Desktop,20,0
+76.46,Sydney,Unknown,3,1
+46.65,Sydney,Tablet,0,0
+11.72,Tokyo,Tablet,16,0
+214.73,Paris,Unknown,3,1
+99.28,New York,Unknown,11,0
+164.07,Mumbai,Tablet,1,0
+24.32,Toronto,Desktop,8,0
+30.71,Tokyo,Mobile,9,0
+26.04,Sydney,Mobile,10,0
+50.95,Tokyo,Unknown,10,0
+53.6,Tokyo,Desktop,17,0
+17.63,New York,Desktop,18,0
+96.6,Sydney,Unknown,16,0
+67.47,Dubai,Mobile,9,0
+20.87,Toronto,Unknown,18,0
+6.87,Toronto,Unknown,20,0
+26.47,Mumbai,Mobile,7,0
+59.75,Sydney,Desktop,10,0
+19.41,Dubai,Tablet,21,0
+44.12,Mumbai,Unknown,14,0
+61.03,Dubai,Desktop,4,1
+36.37,Dubai,Desktop,14,0
+41.65,Tokyo,Desktop,22,0
+32.63,Paris,Tablet,17,0
+20.23,Toronto,Tablet,5,0
+3.65,Paris,Tablet,19,0
+20.27,Tokyo,Tablet,15,0
+73.43,Mumbai,Desktop,22,0
+76.82,Dubai,Tablet,10,0
+14.31,London,Desktop,14,0
+25.24,London,Mobile,1,0
+57.51,Dubai,Tablet,2,0
+68.09,New York,Desktop,10,0
+29.58,Paris,Unknown,13,0
+8.96,London,Mobile,2,0
+116.38,Paris,Mobile,3,0
+37.91,Tokyo,Tablet,9,0
+23.2,Dubai,Desktop,22,0
+63.09,Tokyo,Desktop,19,1
+57.69,Dubai,Mobile,10,0
+34.23,New York,Mobile,16,0
+4.83,Dubai,Unknown,3,0
+91.37,Paris,Desktop,22,1
+14.74,Toronto,Mobile,16,0
+204.9,Tokyo,Tablet,2,0
+37.75,Dubai,Mobile,21,0
+6.24,London,Unknown,13,0
+1237.21,Tokyo,Unknown,3,1
+91.88,Dubai,Mobile,14,0
+14.86,London,Mobile,21,0
+165.17,Sydney,Tablet,18,0
+19.93,Tokyo,Unknown,13,0
+29.08,New York,Tablet,22,0
+83.1,New York,Desktop,20,0
+69.06,Toronto,Tablet,7,0
+17.7,Mumbai,Unknown,18,0
+58.31,Sydney,Unknown,7,0
+25.98,Mumbai,Mobile,8,0
+39.85,Mumbai,Mobile,7,0
+34.09,Sydney,Mobile,2,0
+293.47,Tokyo,Unknown,2,1
+29.77,Mumbai,Mobile,17,0
+51.88,Mumbai,Unknown,0,0
+77.52,Tokyo,Unknown,2,1
+352.57,Dubai,Tablet,0,1
+40.67,Tokyo,Mobile,4,0
+20.7,New York,Mobile,19,0
+13.36,Tokyo,Mobile,12,0
+12.02,Tokyo,Unknown,5,0
+146.78,Toronto,Mobile,6,0
+167.89,Paris,Desktop,20,0
+120.52,Sydney,Unknown,0,1
+24.01,London,Desktop,5,0
+136.33,Toronto,Mobile,22,0
+107.94,Toronto,Unknown,12,0
+60.04,London,Tablet,15,0
+30.66,Paris,Mobile,1,0
+25.43,London,Unknown,9,0
+12.95,Dubai,Tablet,4,0
+82.69,Dubai,Mobile,1,0
+17.25,Paris,Unknown,22,0
+77.11,London,Desktop,7,0
+34.32,Sydney,Desktop,1,0
+74.19,London,Mobile,12,0
+90.17,Paris,Tablet,7,0
+22.2,Toronto,Tablet,10,0
+12.69,Mumbai,Desktop,7,0
+29.04,New York,Tablet,19,0
+493.19,New York,Unknown,8,1
+54.85,Paris,Tablet,18,0
+159.19,Tokyo,Mobile,23,1
+24.39,London,Unknown,5,0
+53.26,Dubai,Desktop,7,1
+84.43,Paris,Unknown,3,0
+37.59,Paris,Mobile,23,0
+40.9,Toronto,Desktop,15,0
+5.26,Mumbai,Mobile,6,0
+475.46,Mumbai,Tablet,19,0
+21.84,Sydney,Mobile,22,0
+1368.51,Dubai,Unknown,3,1
+34.64,Toronto,Unknown,8,0
+110.13,Sydney,Tablet,4,0
+13.87,Dubai,Mobile,5,0
+26.04,Paris,Mobile,19,0
+1181.17,Toronto,Unknown,18,1
+399.61,Dubai,Mobile,5,0
+8.08,Paris,Mobile,5,0
+20.8,Dubai,Desktop,13,0
+664.18,Mumbai,Unknown,9,1
+32.1,Paris,Desktop,12,0
+607.1,Paris,Desktop,2,1
+705.01,New York,Desktop,2,1
+1686.97,London,Unknown,0,1
+590.27,Tokyo,Unknown,14,1
+2.47,New York,Unknown,14,0
+14.41,Tokyo,Mobile,11,0
+150.24,Sydney,Desktop,19,0
+36.03,Toronto,Unknown,5,0
+238.76,New York,Mobile,4,0
+934.82,Dubai,Tablet,3,1
+30.79,Paris,Mobile,17,0
+108.38,Sydney,Unknown,15,1
+26.7,New York,Unknown,20,0
+82.06,Sydney,Mobile,7,0
+64.86,London,Unknown,12,1
+12.8,Toronto,Mobile,20,0
+8.92,Toronto,Tablet,15,0
+4.77,Dubai,Unknown,9,0
+626.41,Tokyo,Tablet,17,0
+32.56,London,Mobile,0,0
+8.45,London,Unknown,10,0
+230.81,Paris,Unknown,9,1
+15.59,Mumbai,Desktop,14,0
+29.2,Toronto,Tablet,17,0
+222.48,Dubai,Desktop,8,0
+21.31,Tokyo,Unknown,8,0
+42.41,Dubai,Mobile,19,0
+86.57,New York,Desktop,3,0
+143.91,Toronto,Mobile,12,1
+7.79,Sydney,Unknown,23,0
+36.87,Toronto,Desktop,2,0
+21.36,New York,Unknown,1,0
+47.6,Mumbai,Tablet,9,0
+4.12,Toronto,Mobile,10,0
+51.13,Sydney,Mobile,22,0
+3.85,Tokyo,Desktop,16,0
+54.74,Paris,Desktop,2,1
+12.95,Dubai,Mobile,0,0
+29.29,London,Desktop,11,0
+70.53,New York,Desktop,22,0
+35.07,Sydney,Tablet,10,0
+27.01,Dubai,Mobile,2,0
+9.64,Sydney,Unknown,21,0
+18.2,Toronto,Tablet,15,0
+24.14,New York,Desktop,7,0
+17.3,London,Tablet,15,0
+77.47,Tokyo,Desktop,12,0
+45.87,Tokyo,Tablet,19,0
+37.66,Dubai,Desktop,4,0
+2.76,New York,Tablet,2,0
+54.31,Dubai,Unknown,15,0
+58.42,Paris,Unknown,2,1
+35.1,Tokyo,Desktop,10,0
+60.81,London,Mobile,19,0
+16.16,Mumbai,Mobile,2,0
+14.99,Tokyo,Unknown,22,0
+5.04,Toronto,Desktop,1,0
+53.17,Tokyo,Unknown,20,0
+17.2,Toronto,Unknown,3,0
+21.48,Sydney,Tablet,11,0
+471.51,Mumbai,Desktop,2,1
+45.91,Sydney,Tablet,7,0
+57.56,New York,Unknown,4,1
+32.54,Mumbai,Desktop,6,0
+16.53,Sydney,Unknown,22,0
+22.07,Toronto,Unknown,12,0
+219.81,Paris,Unknown,10,1
+102.64,London,Unknown,0,0
+28.88,Dubai,Mobile,3,0
+11.06,Tokyo,Unknown,16,0
+16.62,London,Unknown,6,0
+102.14,Tokyo,Desktop,18,1
+21.48,Paris,Unknown,12,0
+36.89,Toronto,Tablet,18,0
+33.85,New York,Unknown,18,0
+117.86,New York,Tablet,18,0
+17.03,Dubai,Unknown,17,0
+15.22,Dubai,Tablet,11,0
+15.4,Dubai,Desktop,4,0
+305.11,Mumbai,Tablet,2,1
+128.65,Tokyo,Tablet,14,0
+33.64,Mumbai,Tablet,21,0
+152.35,Paris,Desktop,15,0
+76.88,Tokyo,Desktop,17,0
+9.1,London,Mobile,23,0
+67.72,London,Desktop,16,0
+457.06,Paris,Desktop,2,0
+10.56,New York,Desktop,9,0
+275.83,Paris,Mobile,18,1
+19.06,New York,Mobile,20,0
+48.41,Toronto,Unknown,5,0
+73.43,Tokyo,Unknown,17,0
+1262.63,Tokyo,Desktop,15,1
+37.89,Tokyo,Desktop,5,0
+151.62,Paris,Tablet,9,0
+48.61,Mumbai,Tablet,22,0
+27.12,Dubai,Desktop,0,0
+7.19,Tokyo,Unknown,20,0
+64.45,Tokyo,Tablet,5,0
+11.2,New York,Tablet,17,0
+9.87,Mumbai,Tablet,8,0
+85.39,Tokyo,Tablet,22,0
+384.33,Paris,Unknown,0,1
+785.69,Dubai,Unknown,16,1
+466.5,Dubai,Desktop,3,1
+24.05,Toronto,Unknown,7,0
+24.2,Toronto,Desktop,21,0
+20.1,London,Unknown,2,0
+148.65,Tokyo,Mobile,3,1
+8.43,Dubai,Desktop,21,0
+28.83,Mumbai,Unknown,13,0
+10.51,Paris,Unknown,15,0
+70.03,Tokyo,Desktop,23,0
+54.91,Mumbai,Unknown,21,0
+96.05,Toronto,Unknown,19,0
+13.2,Mumbai,Desktop,5,0
+45.32,Paris,Desktop,16,0
+47.84,New York,Mobile,21,0
+4.17,Dubai,Unknown,22,0
+47.23,Tokyo,Desktop,16,0
+197.52,Sydney,Unknown,12,1
+10.64,Mumbai,Unknown,13,0
+254.97,Tokyo,Mobile,7,0
+11.54,Dubai,Mobile,21,0
+36.78,Dubai,Tablet,7,0
+5.23,New York,Tablet,6,0
+110.21,New York,Mobile,0,0
+24.38,London,Mobile,7,0
+8.44,New York,Unknown,12,0
+21.03,Dubai,Desktop,11,0
+143.71,Paris,Tablet,15,1
+129.8,Paris,Tablet,23,0
+47.25,New York,Mobile,19,0
+93.51,Tokyo,Desktop,8,0
+17.49,London,Unknown,14,0
+82.86,New York,Unknown,12,0
+33.5,Toronto,Unknown,17,0
+50.24,Mumbai,Unknown,8,0
+11.9,Dubai,Unknown,13,0
+24.77,Paris,Desktop,15,0
+24.51,Tokyo,Mobile,21,0
+506.45,Tokyo,Tablet,6,0
+67.67,Sydney,Unknown,22,0
+28.22,Paris,Tablet,10,0
+58.52,Dubai,Unknown,2,0
+8.8,London,Mobile,6,0
+119.34,Toronto,Mobile,5,0
+118.84,New York,Tablet,19,0
+59.34,Paris,Unknown,15,1
+570.4,London,Unknown,4,1
+57.73,London,Unknown,9,0
+173.95,Dubai,Unknown,17,1
+59.33,Tokyo,Desktop,18,0
+27.7,Dubai,Mobile,15,0
+60.06,London,Tablet,21,0
+67.56,Tokyo,Tablet,2,0
+34.35,Dubai,Mobile,18,0
+35.99,Toronto,Mobile,16,0
+12.6,Tokyo,Unknown,20,0
+44.21,Tokyo,Mobile,16,0
+30.79,Toronto,Mobile,3,0
+41.76,Tokyo,Mobile,15,0
+71.46,Paris,Desktop,4,0
+40.93,Paris,Unknown,2,0
+12.06,Paris,Tablet,11,0
+157.65,London,Mobile,7,0
+22.93,Tokyo,Desktop,5,0
+6.48,Sydney,Unknown,10,0
+155.91,Tokyo,Tablet,23,0
+12.63,Mumbai,Tablet,5,0
+18.7,London,Desktop,21,0
+25.89,Dubai,Mobile,2,0
+114.49,Dubai,Unknown,23,0
+28.34,Sydney,Unknown,23,0
+33.69,London,Mobile,11,0
+13.62,New York,Desktop,14,0
+83.97,Paris,Mobile,15,0
+11.05,Sydney,Mobile,16,0
+85.61,London,Unknown,1,0
+318.33,London,Unknown,11,1
+78.29,Tokyo,Tablet,18,0
+15.93,Mumbai,Mobile,21,0
+29.76,London,Tablet,11,0
+203.0,Paris,Desktop,16,0
+36.42,Toronto,Mobile,20,0
+16.54,Toronto,Desktop,12,0
+59.37,New York,Tablet,5,0
+8.48,Mumbai,Desktop,19,0
+65.58,Sydney,Unknown,11,1
+34.3,Paris,Unknown,7,0
+74.9,Dubai,Tablet,8,0
+169.48,Dubai,Unknown,13,0
+68.87,Dubai,Unknown,2,0
+31.23,New York,Desktop,1,0
+24.28,New York,Mobile,6,0
+137.31,Paris,Unknown,6,0
+50.23,New York,Tablet,23,0
+111.26,London,Mobile,18,0
+12.75,Tokyo,Desktop,13,0
+42.19,Sydney,Desktop,21,0
+11.08,New York,Mobile,17,0
+110.03,New York,Unknown,1,0
+48.38,Sydney,Desktop,15,0
+13.88,Paris,Unknown,5,0
+66.77,Tokyo,Mobile,15,0
+26.39,Paris,Tablet,15,0
+90.05,London,Tablet,13,0
+33.53,London,Desktop,20,0
+21.52,Sydney,Desktop,20,0
+76.77,Sydney,Unknown,1,0
+50.85,Toronto,Unknown,18,0
+52.38,Mumbai,Desktop,0,0
+82.94,London,Tablet,15,0
+23.34,Dubai,Mobile,14,0
+92.56,Paris,Unknown,0,0
+8.21,Toronto,Mobile,16,0
+93.26,Tokyo,Desktop,0,0
+4.23,Mumbai,Mobile,11,0
+24.19,Dubai,Desktop,22,0
+69.92,Toronto,Tablet,22,0
+53.15,Dubai,Unknown,1,0
+54.68,Mumbai,Desktop,15,0
+32.11,New York,Desktop,6,0
+918.0,Toronto,Tablet,20,1
+20.42,Tokyo,Mobile,11,0
+39.12,Toronto,Tablet,6,0
+102.67,Paris,Unknown,0,0
+55.41,Toronto,Mobile,14,1
+60.99,Mumbai,Mobile,6,0
+25.76,Paris,Unknown,0,0
+6.78,Mumbai,Mobile,10,0
+107.47,London,Desktop,0,0
+85.7,Mumbai,Tablet,5,0
+8.42,New York,Desktop,13,0
+5.13,Toronto,Desktop,8,0
+62.24,Toronto,Desktop,8,0
+113.64,Sydney,Desktop,8,0
+12.23,Toronto,Desktop,23,0
+32.99,Paris,Tablet,8,0
+84.0,Mumbai,Unknown,23,0
+33.35,Paris,Unknown,10,0
+16.88,London,Desktop,1,0
+9.68,Dubai,Mobile,0,0
+39.8,Paris,Desktop,19,0
+16.21,Sydney,Tablet,17,0
+304.91,Dubai,Mobile,8,1
+117.16,Sydney,Unknown,0,0
+109.53,Paris,Unknown,13,0
+4.52,Paris,Desktop,12,0
+35.29,Mumbai,Tablet,22,0
+23.4,Toronto,Tablet,1,0
+59.61,London,Unknown,16,0
+37.08,Dubai,Mobile,6,0
+48.78,Dubai,Desktop,12,0
+57.04,London,Mobile,23,0
+32.52,Toronto,Tablet,2,0
+24.55,London,Desktop,22,0
+329.79,Toronto,Mobile,22,0
+30.95,Dubai,Unknown,15,0
+39.09,Mumbai,Unknown,0,0
+14.17,New York,Tablet,9,0
+8.13,London,Mobile,23,0
+137.38,Tokyo,Desktop,22,0
+19.9,New York,Desktop,0,0
+43.73,New York,Tablet,1,0
+21.77,Mumbai,Desktop,19,0
+28.88,London,Mobile,22,0
+239.32,Sydney,Unknown,20,0
+19.93,Dubai,Tablet,2,0
+23.78,Dubai,Desktop,7,0
+36.02,Sydney,Mobile,22,0
+11.22,Sydney,Mobile,22,0
+99.3,London,Tablet,2,0
+58.28,Dubai,Unknown,2,1
+18.95,Paris,Tablet,21,0
+91.88,Dubai,Unknown,6,1
+7.19,Mumbai,Desktop,15,0
+441.59,Paris,Unknown,9,1
+7.84,New York,Desktop,17,0
+111.12,Sydney,Mobile,23,0
+104.24,London,Tablet,20,0
+111.11,Paris,Tablet,7,0
+31.72,Sydney,Tablet,21,0
+18.62,Paris,Mobile,20,0
+57.92,Dubai,Mobile,23,0
+32.42,Paris,Tablet,22,0
+45.0,Dubai,Tablet,14,0
+126.94,London,Unknown,13,0
+82.36,Toronto,Unknown,0,1
+20.86,London,Tablet,5,0
+13.99,Toronto,Unknown,15,0
+26.57,New York,Unknown,0,0
+63.63,Tokyo,Unknown,2,0
+53.07,Paris,Tablet,9,0
+1466.83,Tokyo,Unknown,3,1
+48.86,Sydney,Mobile,23,0
+11.33,New York,Tablet,9,0
+7.71,Sydney,Mobile,13,0
+14.22,Paris,Mobile,19,0
+9.93,Mumbai,Tablet,2,0
+11.3,Toronto,Mobile,12,0
+11.94,Dubai,Unknown,1,0
+8.45,Mumbai,Mobile,12,0
+62.01,Toronto,Tablet,22,0
+9.32,Tokyo,Unknown,1,0
+27.31,London,Desktop,8,0
+46.82,Mumbai,Tablet,4,0
+10.14,Mumbai,Tablet,7,0
+77.49,Paris,Desktop,2,0
+10.12,Paris,Unknown,2,0
+16.58,Mumbai,Tablet,22,0
+48.69,Paris,Tablet,19,0
+356.54,Dubai,Tablet,5,0
+24.95,Toronto,Desktop,13,0
+16.52,Tokyo,Desktop,6,0
+31.82,Sydney,Mobile,13,0
+21.07,Toronto,Mobile,5,0
+102.24,Tokyo,Unknown,3,0
+32.32,Paris,Desktop,16,0
+439.65,Sydney,Unknown,18,1
+1643.69,Tokyo,Tablet,23,1
+37.91,Dubai,Unknown,0,0
+1152.97,Toronto,Tablet,16,1
+15.96,Mumbai,Tablet,22,0
+58.15,New York,Unknown,15,0
+272.3,Toronto,Unknown,6,0
+28.03,Toronto,Desktop,18,0
+524.74,Mumbai,Unknown,22,0
+6.16,London,Mobile,20,0
+31.4,Dubai,Mobile,18,0
+256.54,Dubai,Mobile,5,0
+31.21,Tokyo,Mobile,7,0
+19.67,Tokyo,Desktop,9,0
+42.08,London,Desktop,13,0
+373.18,Mumbai,Tablet,16,0
+203.49,Mumbai,Unknown,18,1
+27.95,Mumbai,Tablet,14,0
+39.86,Mumbai,Desktop,19,0
+11.7,Mumbai,Desktop,5,0
+11.7,Dubai,Desktop,16,0
+121.07,Mumbai,Mobile,9,0
+497.24,Tokyo,Desktop,23,0
+84.1,Dubai,Desktop,19,0
+33.21,Sydney,Unknown,9,0
+68.06,New York,Tablet,6,0
+7.97,Tokyo,Mobile,11,0
+8.05,Toronto,Tablet,12,0
+15.37,London,Tablet,13,0
+104.4,Dubai,Tablet,13,0
+27.73,London,Unknown,16,0
+7.71,Sydney,Desktop,16,0
+26.94,Mumbai,Desktop,8,0
+23.26,Dubai,Unknown,13,0
+78.13,London,Unknown,22,0
+22.43,Toronto,Tablet,22,0
+120.53,New York,Desktop,18,0
+128.69,London,Tablet,8,0
+14.18,London,Mobile,2,0
+38.18,Tokyo,Desktop,12,0
+27.65,London,Mobile,13,0
+61.61,London,Mobile,22,0
+38.86,London,Tablet,4,0
+109.95,Sydney,Mobile,22,0
+24.99,Tokyo,Mobile,19,0
+131.86,Paris,Unknown,8,0
+5.45,Sydney,Tablet,23,0
+44.44,Paris,Desktop,15,0
+20.46,Sydney,Mobile,22,0
+4.47,Toronto,Mobile,15,0
+23.83,Tokyo,Tablet,23,0
+118.21,Sydney,Desktop,15,0
+24.13,New York,Desktop,13,0
+50.79,Tokyo,Mobile,21,0
+19.17,New York,Mobile,21,0
+21.32,Toronto,Unknown,5,0
+13.73,Mumbai,Tablet,20,0
+51.14,Paris,Tablet,18,0
+260.77,Dubai,Tablet,2,0
+11.75,London,Desktop,14,0
+19.45,Dubai,Mobile,21,0
+425.35,New York,Unknown,11,1
+16.6,London,Tablet,16,0
+128.39,New York,Tablet,11,0
+43.87,New York,Tablet,9,0
+16.64,Tokyo,Desktop,2,0
+167.75,Toronto,Tablet,11,0
+34.24,Mumbai,Unknown,18,0
+17.87,Toronto,Desktop,3,0
+8.15,New York,Desktop,8,0
+48.64,London,Mobile,20,0
+12.05,Tokyo,Tablet,13,0
+1103.82,Mumbai,Unknown,21,1
+63.22,Paris,Tablet,0,0
+66.82,Sydney,Mobile,1,0
+40.43,London,Desktop,1,0
+232.85,Mumbai,Unknown,15,0
+7.39,Toronto,Mobile,13,0
+36.35,London,Tablet,18,0
+113.57,Mumbai,Unknown,7,0
+139.79,Tokyo,Unknown,8,1
+1075.11,Mumbai,Desktop,2,1
+350.78,Tokyo,Mobile,19,1
+16.83,Mumbai,Unknown,19,0
+13.73,Toronto,Tablet,11,0
+244.9,Toronto,Unknown,2,1
+70.0,Toronto,Tablet,8,0
+85.36,Tokyo,Desktop,14,0
+10.73,Paris,Unknown,4,0
+103.56,Toronto,Unknown,6,0
+33.69,New York,Tablet,0,0
+15.92,Tokyo,Tablet,4,0
+245.57,Dubai,Unknown,22,1
+65.05,Mumbai,Tablet,5,0
+144.03,London,Desktop,5,0
+14.56,Dubai,Desktop,20,0
+26.53,New York,Unknown,17,0
+81.17,Dubai,Unknown,15,1
+75.19,Sydney,Unknown,23,0
+11.26,New York,Unknown,18,0
+2246.74,Toronto,Mobile,5,1
+82.96,Toronto,Unknown,15,1
+2041.92,Sydney,Mobile,21,0
+65.96,Toronto,Tablet,20,0
+133.93,Toronto,Desktop,12,0
+235.32,Paris,Unknown,14,1
+11.22,Paris,Unknown,21,0
+17.29,Tokyo,Tablet,7,0
+9.78,Mumbai,Tablet,13,0
+5.82,New York,Tablet,10,0
+8.82,Dubai,Tablet,17,0
+76.21,Tokyo,Tablet,20,0
+453.51,Sydney,Unknown,5,1
+13.53,New York,Mobile,9,0
+66.5,Dubai,Mobile,19,0
+11.89,Sydney,Unknown,5,0
+177.2,Toronto,Tablet,0,0
+10.67,New York,Unknown,0,0
+38.05,New York,Desktop,10,0
+69.49,Paris,Unknown,21,1
+21.07,Mumbai,Desktop,16,0
+97.39,London,Unknown,17,0
+18.13,Mumbai,Unknown,4,0
+47.32,Mumbai,Unknown,14,0
+26.18,Sydney,Tablet,4,0
+180.02,Dubai,Unknown,0,0
+22.76,New York,Mobile,17,0
+135.33,Mumbai,Tablet,19,0
+36.61,New York,Desktop,10,0
+119.18,Paris,Tablet,3,0
+186.32,Paris,Unknown,20,0
+10.82,Mumbai,Tablet,23,0
+7.16,New York,Tablet,3,0
+19.21,Tokyo,Unknown,20,0
+51.72,Tokyo,Mobile,7,1
+20.4,Tokyo,Unknown,5,0
+3.24,London,Unknown,13,0
+59.35,New York,Tablet,19,0
+58.08,Paris,Desktop,13,0
+77.92,Sydney,Mobile,1,0
+56.85,Paris,Tablet,9,0
+17.11,Sydney,Desktop,13,0
+26.53,London,Desktop,19,0
+40.95,Paris,Mobile,5,0
+60.47,London,Unknown,21,1
+67.87,Mumbai,Tablet,21,0
+39.5,Toronto,Desktop,5,0
+70.15,Dubai,Tablet,20,0
+296.12,Mumbai,Unknown,21,1
+12.99,Tokyo,Mobile,19,0
+40.61,London,Tablet,20,0
+34.86,Sydney,Unknown,14,0
+8.2,London,Tablet,10,0
+17.6,Sydney,Unknown,4,0
+15.77,London,Tablet,3,0
+4.92,Sydney,Unknown,19,0
+15.76,Paris,Desktop,14,0
+6.26,Toronto,Tablet,14,0
+20.38,Sydney,Mobile,23,0
+340.63,Sydney,Unknown,18,1
+33.95,New York,Unknown,0,0
+84.94,Sydney,Unknown,13,0
+9.35,Dubai,Desktop,12,0
+63.35,Tokyo,Desktop,22,0
+13.51,London,Mobile,9,0
+125.72,New York,Mobile,13,0
+0.88,New York,Unknown,19,0
+38.39,Paris,Desktop,18,0
+27.96,Tokyo,Tablet,12,0
+3.22,Mumbai,Unknown,16,0
+12.2,Toronto,Desktop,4,0
+27.98,Toronto,Desktop,2,0
+70.07,Sydney,Unknown,12,0
+11.56,London,Tablet,9,0
+16.3,New York,Tablet,13,0
+13.25,Mumbai,Unknown,18,0
+203.8,Dubai,Unknown,1,0
+26.78,London,Unknown,11,0
+11.5,London,Mobile,12,0
+190.83,London,Mobile,9,0
+399.09,London,Desktop,20,0
+27.93,Dubai,Desktop,21,0
+11.56,Paris,Mobile,18,0
+8.27,Mumbai,Desktop,4,0
+431.21,New York,Unknown,18,1
+68.12,Sydney,Unknown,8,0
+21.8,Sydney,Tablet,3,0
+39.47,Mumbai,Desktop,0,0
+57.08,Dubai,Mobile,22,0
+58.17,New York,Tablet,7,1
+3.06,New York,Tablet,19,0
+7.29,New York,Tablet,6,0
+54.05,Tokyo,Desktop,13,0
+12.31,Sydney,Tablet,5,0
+30.49,New York,Tablet,11,0
+12.25,London,Mobile,23,0
+17.16,Dubai,Desktop,15,0
+21.44,Sydney,Desktop,19,0
+5.28,Toronto,Tablet,6,0
+31.41,Paris,Unknown,1,0
+47.25,Paris,Mobile,23,0
+128.44,Tokyo,Desktop,15,0
+77.01,Tokyo,Mobile,7,0
+34.55,Dubai,Unknown,17,0
+48.72,Paris,Tablet,1,0
+49.28,Tokyo,Mobile,7,0
+51.62,London,Mobile,3,0
+42.22,London,Tablet,22,0
+180.2,Mumbai,Tablet,3,1
+39.01,Paris,Mobile,22,0
+8.32,Sydney,Mobile,7,0
+10.58,New York,Tablet,19,0
+292.54,Toronto,Unknown,0,1
+46.84,Tokyo,Unknown,13,0
+26.21,Paris,Mobile,22,0
+45.2,Toronto,Unknown,8,0
+67.63,Paris,Mobile,7,0
+34.79,Sydney,Unknown,15,0
+110.2,Tokyo,Desktop,9,0
+69.46,Sydney,Desktop,20,0
+22.51,Mumbai,Mobile,5,0
+32.85,Sydney,Desktop,6,0
+3.11,Paris,Unknown,6,0
+22.42,Tokyo,Desktop,14,0
+47.76,New York,Mobile,19,0
+7.69,London,Mobile,3,0
+24.21,Sydney,Tablet,12,0
+4.44,Tokyo,Tablet,20,0
+172.15,Paris,Mobile,6,0
+92.06,Dubai,Mobile,7,0
+31.85,Sydney,Unknown,6,0
+29.17,London,Tablet,14,0
+329.38,New York,Unknown,13,1
+14.98,Tokyo,Tablet,8,0
+14.05,Mumbai,Unknown,11,0
+30.31,Paris,Tablet,23,0
+24.49,New York,Tablet,1,0
+11.02,London,Tablet,0,0
+73.58,New York,Unknown,14,0
+57.39,Dubai,Mobile,23,0
+60.35,London,Unknown,18,0
+25.92,New York,Mobile,12,0
+17.47,Tokyo,Mobile,18,0
+226.8,Tokyo,Tablet,20,0
+68.11,New York,Unknown,20,1
+12.34,Sydney,Unknown,7,0
+1014.41,London,Desktop,10,1
+689.42,Mumbai,Unknown,5,1
+47.56,New York,Mobile,11,0
+56.08,Sydney,Unknown,22,0
+9.08,Toronto,Mobile,1,0
+70.46,New York,Desktop,8,0
+47.85,Sydney,Mobile,20,0
+522.25,Tokyo,Tablet,2,1
+18.48,London,Mobile,11,0
+17.47,Mumbai,Tablet,14,0
+18.6,Mumbai,Unknown,7,0
+64.24,Mumbai,Mobile,21,0
+219.47,Sydney,Mobile,12,0
+68.29,Paris,Mobile,21,0
+24.96,Dubai,Desktop,15,0
+60.26,Paris,Mobile,5,0
+19.9,Toronto,Tablet,5,0
+51.08,Paris,Tablet,3,0
+21.06,Toronto,Desktop,12,0
+8.61,Dubai,Tablet,14,0
+3.51,Paris,Desktop,21,0
+95.05,Tokyo,Desktop,8,0
+29.72,Tokyo,Mobile,10,0
+37.98,New York,Unknown,5,0
+550.99,Toronto,Tablet,2,1
+16.56,New York,Desktop,9,0
+31.28,Paris,Mobile,18,0
+19.58,Mumbai,Desktop,11,0
+69.71,Tokyo,Desktop,15,0
+2.16,Tokyo,Desktop,13,0
+49.0,Sydney,Mobile,17,0
+201.05,Mumbai,Mobile,23,0
+8.27,London,Unknown,3,0
+330.04,Dubai,Tablet,12,1
+6.34,London,Mobile,0,0
+47.35,Sydney,Desktop,14,0
+21.62,Dubai,Tablet,16,0
+92.8,Paris,Tablet,9,0
+7.95,Dubai,Mobile,23,0
+7.53,London,Desktop,5,0
+29.52,Mumbai,Mobile,6,0
+122.35,Toronto,Desktop,7,0
+17.88,London,Desktop,3,0
+175.61,Mumbai,Unknown,11,1
+65.07,Toronto,Desktop,2,0
+88.26,Tokyo,Unknown,13,0
+15.82,Toronto,Tablet,12,0
+42.11,Mumbai,Mobile,12,0
+76.27,London,Tablet,3,0
+8.6,Tokyo,Desktop,15,0
+38.62,Tokyo,Tablet,1,0
+17.73,New York,Unknown,7,0
+48.27,New York,Unknown,8,0
+420.32,Mumbai,Tablet,23,0
+78.69,Dubai,Tablet,4,0
+26.87,Paris,Mobile,19,0
+121.5,Toronto,Tablet,8,0
+54.6,Toronto,Mobile,22,0
+224.2,Dubai,Unknown,19,0
+47.67,Mumbai,Tablet,1,0
+236.75,Paris,Tablet,19,0
+75.23,Tokyo,Unknown,0,0
+17.71,Tokyo,Tablet,23,0
+16.93,London,Unknown,3,0
+17.27,Dubai,Mobile,4,0
+40.82,London,Desktop,11,0
+92.57,Sydney,Tablet,5,0
+187.16,Paris,Desktop,2,0
+97.65,Tokyo,Tablet,21,0
+13.01,Tokyo,Tablet,11,0
+19.08,Dubai,Tablet,18,0
+61.06,Mumbai,Mobile,16,0
+43.09,Sydney,Tablet,21,0
+261.89,Dubai,Tablet,1,0
+7.26,Dubai,Mobile,18,0
+23.8,Toronto,Mobile,9,0
+192.91,Mumbai,Mobile,3,0
+7.59,Dubai,Desktop,23,0
+78.64,Toronto,Unknown,10,0
+5.1,Tokyo,Desktop,18,0
+3.34,New York,Desktop,14,0
+9.91,New York,Tablet,15,0
+208.89,Tokyo,Unknown,0,0
+17.65,Dubai,Tablet,15,0
+36.5,Paris,Unknown,23,0
+69.6,Paris,Unknown,10,1
+20.04,Mumbai,Mobile,8,0
+63.74,Paris,Unknown,16,0
+26.28,London,Unknown,22,0
+30.56,Dubai,Desktop,11,0
+235.14,Sydney,Unknown,0,1
+71.49,Dubai,Tablet,1,0
+7.39,Sydney,Mobile,4,0
+13.01,Tokyo,Tablet,8,0
+114.12,Tokyo,Desktop,13,0
+17.15,Toronto,Unknown,23,0
+76.19,Mumbai,Unknown,10,0
+15.06,London,Desktop,11,0
+335.48,London,Tablet,20,0
+9.39,Paris,Mobile,7,0
+24.96,Toronto,Tablet,15,0
+37.35,Paris,Desktop,23,0
+11.62,Sydney,Tablet,1,0
+67.34,Paris,Mobile,16,0
+34.26,Sydney,Desktop,9,0
+28.04,Dubai,Mobile,23,0
+68.85,Mumbai,Tablet,3,0
+76.8,Dubai,Mobile,0,0
+11.76,New York,Desktop,14,0
+5.28,New York,Unknown,22,0
+1031.88,Sydney,Tablet,3,1
+146.26,Paris,Desktop,7,0
+20.87,Mumbai,Tablet,7,0

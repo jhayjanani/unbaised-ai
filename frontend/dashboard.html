@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - FraudShield AI</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="bg-animation"></div>
+
+    <nav>
+        <a href="index.html" class="logo">
+            <i class="fa-solid fa-shield-halved"></i> FraudShield AI
+        </a>
+        <div class="nav-links">
+            <a href="dashboard.html" style="color: var(--neon-cyan); text-shadow: 0 0 8px var(--neon-cyan);">Dashboard</a>
+            <a href="input.html">Single Check</a>
+        </div>
+    </nav>
+
+    <div class="container">
+        <!-- Top Analytics Cards -->
+        <div class="dashboard-grid">
+            <div class="glass-panel stat-card">
+                <div class="stat-title">Total Processed</div>
+                <div class="stat-value" id="statTotal">0</div>
+            </div>
+            <div class="glass-panel stat-card">
+                <div class="stat-title">Fraud Detected</div>
+                <div class="stat-value stat-red" id="statFraud">0</div>
+            </div>
+            <div class="glass-panel stat-card">
+                <div class="stat-title">Normal Traffic</div>
+                <div class="stat-value stat-green" id="statNormal">0</div>
+            </div>
+            <div class="glass-panel stat-card">
+                <div class="stat-title">Avg Risk Score</div>
+                <div class="stat-value" id="statAvgRisk" style="color: var(--neon-cyan);">0%</div>
+            </div>
+        </div>
+
+        <!-- Charts -->
+        <div class="charts-grid">
+            <div class="glass-panel chart-container">
+                <h3 style="margin-bottom: 1rem; color: var(--text-muted); font-weight: 500;">Hourly Traffic & Fraud</h3>
+                <canvas id="lineChart"></canvas>
+            </div>
+            <div class="glass-panel chart-container" style="display: flex; flex-direction: column; align-items: center;">
+                <h3 style="margin-bottom: 1rem; color: var(--text-muted); font-weight: 500; width: 100%;">Verdict Distribution</h3>
+                <div style="position: relative; height: 250px; width: 100%;">
+                    <canvas id="donutChart"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- Dataset Upload Section -->
+        <div class="glass-panel" style="padding: 2rem; margin-bottom: 2rem;" id="upload">
+            <h2 style="margin-bottom: 1.5rem; font-family: 'Space Grotesk', sans-serif;">Dataset Batch Analysis</h2>
+            
+            <div class="upload-area" id="dropZone">
+                <i class="fa-solid fa-cloud-arrow-up upload-icon"></i>
+                <h3 style="margin-bottom: 0.5rem;">Drag & Drop CSV File Here</h3>
+                <p style="color: var(--text-muted); margin-bottom: 1rem;">or click to browse from your computer</p>
+                <button class="btn-glow" onclick="document.getElementById('fileInput').click()">Select File</button>
+                <input type="file" id="fileInput" accept=".csv">
+                
+                <div id="fileInfo" style="margin-top: 1rem; display: none; color: var(--neon-cyan);"></div>
+            </div>
+            
+            <button id="analyzeBtn" class="btn-gradient" style="width: 100%; display: none;">Analyze Dataset</button>
+        </div>
+
+        <!-- Batch Results Section (Hidden by default) -->
+        <div id="batchResults" style="display: none; margin-bottom: 2rem;">
+            <h2 style="margin-bottom: 1.5rem; font-family: 'Space Grotesk', sans-serif; color: var(--neon-cyan);">Batch Analysis Report</h2>
+            <div class="dashboard-grid">
+                <div class="glass-panel stat-card">
+                    <div class="stat-title">Batch Size</div>
+                    <div class="stat-value" id="batchTotal">0</div>
+                </div>
+                <div class="glass-panel stat-card">
+                    <div class="stat-title">Fraud Found</div>
+                    <div class="stat-value stat-red" id="batchFraud">0</div>
+                </div>
+                <div class="glass-panel stat-card">
+                    <div class="stat-title">Fraud %</div>
+                    <div class="stat-value" id="batchFraudPct" style="color: #ffa500;">0%</div>
+                </div>
+                <div class="glass-panel stat-card">
+                    <div class="stat-title">Avg Batch Risk</div>
+                    <div class="stat-value" id="batchAvgRisk" style="color: var(--neon-cyan);">0%</div>
+                </div>
+            </div>
+
+            <!-- Top 5 Highest Risk -->
+            <div class="glass-panel" style="padding: 2rem; margin-top: 2rem;">
+                <h3 style="margin-bottom: 1rem; color: var(--text-muted); font-weight: 500;">Top High-Risk Transactions (Batch)</h3>
+                <div style="overflow-x: auto;">
+                    <table class="data-table">
+                        <thead>
+                            <tr>
+                                <th>Amount</th>
+                                <th>Location</th>
+                                <th>Device</th>
+                                <th>Time</th>
+                                <th>Risk Score</th>
+                            </tr>
+                        </thead>
+                        <tbody id="highRiskTableBody">
+                            <!-- Populated by JS -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <!-- Recent Transactions -->
+        <div class="glass-panel" style="padding: 2rem;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem;">
+                <h2 style="font-family: 'Space Grotesk', sans-serif;">Recent Transactions</h2>
+                <button class="btn-glow" onclick="fetchTransactions()" style="padding: 0.5rem 1rem; font-size: 0.9rem;">
+                    <i class="fa-solid fa-rotate-right"></i> Refresh
+                </button>
+            </div>
+            
+            <div style="overflow-x: auto;">
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Amount</th>
+                            <th>Location</th>
+                            <th>Device</th>
+                            <th>Time</th>
+                            <th>Prediction</th>
+                            <th>Risk Score</th>
+                        </tr>
+                    </thead>
+                    <tbody id="transactionsTableBody">
+                        <tr><td colspan="7" style="text-align: center;">Loading...</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <!-- Full-screen loader -->
+    <div id="loader">
+        <div class="spinner"></div>
+        <div class="loader-text">🤖 Analyzing Dataset...</div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
