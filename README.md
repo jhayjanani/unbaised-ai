@@ -70,3 +70,5 @@ Since it uses Vanilla JS, simply double-click `frontend/index.html` to open it i
 2. **Dashboard:** See real-time empty graphs.
 3. **Single Check:** Go to the "Single Check" page, input some data (e.g., $1500 amount at 3 AM), and click "Run AI Analysis". See the animated verdict.
 4. **Batch Analysis:** Go to the Dashboard, drop `data/dataset.csv` into the upload zone, and click "Analyze Dataset". Wait for the loading animation and watch the analytics and charts update dynamically!
+# unbaised-ai
+FraudShield AI is a real-time fraud detection web application that analyzes transaction data using machine learning to instantly identify suspicious activities. It delivers accurate predictions, risk scoring, and interactive visual insights through a dynamic dashboard, helping users make fast, secure, and data-driven financial decisions.
