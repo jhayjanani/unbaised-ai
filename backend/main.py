@@ -20,7 +20,7 @@ app.add_middleware(
 
 # Load model and preprocessors
 try:
-    with open('backend/model.pkl', 'rb') as f:
+    with open('model.pkl', 'rb') as f:
         artifacts = pickle.load(f)
         model = artifacts['model']
         label_encoders = artifacts['label_encoders']
@@ -220,5 +220,5 @@ async def transactions():
 
 from fastapi.staticfiles import StaticFiles
 
-# Serve the frontend directory at the root
-app.mount("/", StaticFiles(directory="frontend", html=True), name="frontend")
+
+
